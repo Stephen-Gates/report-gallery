@@ -10,8 +10,14 @@ The LeanIX Report Gallery helps Enterprise Architects who want to influence deci
 
 *This repository is in no way affiliated with [LeanIX](https://www.leanix.net/en/).* 
 
-## Internals
+## About
 
 - The site is built using [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/)
 - Pages are written in Markdown
 - Site is configured using mkdoc.yml
+
+## Dev
+
+Run dev 
+
+` $ mkdocs serve

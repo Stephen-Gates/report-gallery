@@ -1,1 +1,122 @@
-site_name: My Docs
+# Project information
+site_name: LeanIX Report Gallery
+site_url: https://stephen-gates.github.io/report-gallery/
+site_author: Stephen Gates
+site_description: >-
+  Discover the questions you can answer using LeanIX reports.
+  
+# Copyright
+copyright: Copyright &copy; 2020 LeanIX Report Gallery - CC BY-SA 4.0
+    
+# Configuration
+theme:
+  name: material
+  palette:
+    scheme: leanix
+  font:
+    text: Raleway
+    code: Roboto Mono  
+  logo: assets/images/logo.png
+  favicon: assets/images/favicon.png
+  features:
+    - navigation.expand
+    
+  # 404 page
+  #static_templates:
+    #- 404.html  
+    
+# CSS overrides for color 
+extra_css:
+  - stylesheets/extra.css
+  
+extra_javascript:
+  - javascripts/extra.js  
+  
+# Customsiation  
+extra:
+  social:
+    - icon: fontawesome/brands/creative-commons
+      link: ../licence 
+    #- icon: fontawesome/brands/twitter
+      #link: https://twitter.com/SGatesHQ
+    #- icon: fontawesome/brands/linkedin
+      #link: https://www.linkedin.com/in/sdgates/ 
+    - icon: fontawesome/brands/github
+      link: https://github.com/Stephen-Gates/report-gallery    
+    - icon: fontawesome/regular/edit
+      link: ../contribute
+   
+# Extensions  
+markdown_extensions:
+  - admonition  
+  - attr_list
+  - meta  
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+  - pymdownx.mark
+  - pymdownx.tilde
+  - pymdownx.tabbed
+  - toc:
+      #permalink: true
+      toc_depth: 2
+      
+      
+# Page tree - only 2 levels allowed
+nav:
+  - Home: index.md
+  - Questions you can answer: questions.md
+  - Types of reports: reports.md
+  - Landscape: 
+    - Landscape reports: landscape-reports/index.md
+    - Application Landscape: landscape-reports/application-landscape-reports.md
+    - IT Component Landscape: landscape-reports/it-component-landscape-reports.md
+    - Project Landscape: landscape-reports/project-landscape-reports.md
+  - Matrix:
+    - Matrix reports: matrix-reports/index.md
+    - Application Matrix: matrix-reports/application-matrix-reports.md
+    - IT Component Matrix: matrix-reports/it-component-matrix-reports.md
+    - Project Matrix: matrix-reports/project-matrix-reports.md
+  - Roadmap:
+    - Roadmap reports: roadmap-reports/index.md
+    - Application Roadmap: roadmap-reports/application-roadmap-reports.md
+    - IT Component Roadmap: roadmap-reports/it-component-roadmap-reports.md
+    - Project Roadmap: roadmap-reports/project-roadmap-reports.md
+  - Metrics:
+    - Metrics reports: metrics-reports/index.md
+    - Application Portfolio: metrics-reports/application-portfolio-reports.md
+    - Project Portfolio: metrics-reports/project-portfolio-reports.md
+    - Provider Portfolio: metrics-reports/provider-portfolio-reports.md
+    - Lifecycle and Age: metrics-reports/lifecycle-and-age-reports.md
+  - Location:
+    - Location reports: location-reports/index.md
+    - Application Sourcing: location-reports/application-sourcing-report.md
+    - Application Usage: location-reports/application-usage-report.md
+    - IT Component Location: location-reports/it-component-location-report.md
+  - Interface:
+    - Interface reports: interface-reports/index.md
+    - Interface Circle Map: interface-reports/interface-circle-map-report.md
+    - Data Flow diagram: interface-reports/data-flow-diagram.md
+  - Cost Analysis:
+    - Cost Analysis reports: cost-analysis-reports/index.md
+    - Business Capability: cost-analysis-reports/business-capability-cost-report.md
+    - Project: cost-analysis-reports/project-cost-report.md
+    - Provider: cost-analysis-reports/provider-cost-report.md
+  - Factsheet Map:
+    - Factsheet Map reports: factsheet-map-reports/index.md
+    - Business Capability Map: factsheet-map-reports/business-capability-factsheet-map-report.md
+    - Data Object Map: factsheet-map-reports/data-object-factsheet-map-report.md
+    - Process Map: factsheet-map-reports/process-factsheet-map-report.md
+    - Technical Stack Map: factsheet-map-reports/technical-stack-factsheet-map-report.md
+    - User Group Map: factsheet-map-reports/user-group-factsheet-map-report.md
+  - About:
+    - Suggest a change: contribute.md
+    - Contributors: contributors.md
+    - License and Attribution: licence.md
+    - The Project: about.md
+    
+# Google Analytics
+# google_analytics:
+#  - !!python/object/apply:os.getenv ["GOOGLE_ANALYTICS_KEY"]
+#  - auto

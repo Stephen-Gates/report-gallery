@@ -1,17 +1,18 @@
-# Welcome to MkDocs
+---
+title: Questions you can answer with LeanIX reports
+description: Discover the questions you can answer using LeanIX reports.
+---
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+# Getting started 
 
-## Commands
+The LeanIX Report Gallery helps Enterprise Architects who want to influence decisions by helping them quickly find and re-create reports that answer key questions.
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+- Discover the **[questions you can answer](questions.md)** using LeanIX reports.
 
-## Project layout
+- Explore the different **[types of reports](reports.md)** you can create.
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+- **[Share what you've made](contribute.md)** using the **[LeanIX Enterprise Architecture Suite](https://www.leanix.net/en/solutions/enterprise-architecture-suite)**. 
+
+- Get a refresher on **[how to use LeanIX reports](https://docs.leanix.net/docs/insights-through-reports)**.
+
+[:fontawesome-solid-rocket: &nbsp; Get Started](questions.md){: .md-button .md-button--primary }

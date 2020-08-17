@@ -1,0 +1,17 @@
+---
+title: "Roadmap Reports"
+---
+
+!!! note "Work in progress"
+
+# Roadmap Reports
+
+The Roadmap report shows a Gnatt chart...
+
+There are three types of reports :
+
+- [Application Roadmap](application-roadmap-reports.md) - *What is the question?*
+- [IT Component Roadmap](it-component-roadmap-reports.md) - *What is the question?*
+- [Project Roadmap](project-roadmap-reports.md) - *What is the question?*
+
+Roadmap reports are standard LeanIX reports.
