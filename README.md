@@ -2,7 +2,7 @@
 
 ![LeanIX Report Gallery icon](src/assets/images/lrg-icon-32x32.png)
 
-The [LeanIX Report Gallery](https://stephen-gates.github.io/report-gallery/docs/) helps Enterprise Architects who want to influence decisions by helping them quickly find and re-create reports that answer key questions.
+The [LeanIX Report Gallery](https://stephen-gates.github.io/report-gallery/site/) helps Enterprise Architects who want to influence decisions by helping them quickly find and re-create reports that answer key questions.
 
 - Discover the questions you can answer using LeanIX reports.
 - Explore the different types of reports you can create.
