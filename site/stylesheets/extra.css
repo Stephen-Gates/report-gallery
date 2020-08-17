@@ -1,0 +1,7 @@
+/* https://squidfunk.github.io/mkdocs-material/setup/changing-the-colors/ */
+
+[data-md-color-scheme="leanix"] {
+  --md-primary-fg-color:        #166BFF;
+  --md-primary-fg-color--light: #509FFF;
+  --md-primary-fg-color--dark:  #033AAA;
+}
