@@ -2,6 +2,7 @@
 title: Home
 description: Discover the questions you can answer using LeanIX reports.
 ---
+!!! warning "Alpha"
 
 # Getting started 
 
