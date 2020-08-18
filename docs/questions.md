@@ -83,6 +83,7 @@ Title: "Questions you can answer with LeanIX reports"
 
 ## IT Components
 
+1. [Where are IT Components located?](location-reports/it-component-location-report.md)
 1. What technology implements an application? 
 1. Which applications are at risk due to legacy technology (provider end of support, end of life dates)? 
 1. How is the technology portfolio evolving over time? 
@@ -91,6 +92,7 @@ Title: "Questions you can answer with LeanIX reports"
 1. How is an application hosted and how is this planned to evolve?
 1. What is the technology roadmap?
 1. Which are standard technologies and can we reuse a solution?
+
 
 ## Providers
 

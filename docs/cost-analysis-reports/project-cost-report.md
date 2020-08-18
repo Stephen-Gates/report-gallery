@@ -29,7 +29,7 @@ The following factsheets and associated properties are required:
 - Project
     - costs
     
-For more information, check the [report requirements in the LeanIX User Docs](https://docs.leanix.net/docs/report-overview).
+For more information, check the [report requirements in the LeanIX User Docs](https://docs.leanix.net/docs/report-overview) 
 
 ### Tags 
 

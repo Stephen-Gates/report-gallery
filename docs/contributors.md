@@ -9,7 +9,7 @@ Thanks to all our contributors 😻 both those wishing to be recognised and thos
 Thanks to: 
 
 - [Stephen Gates](https://www.linkedin.com/in/sdgates/) - Founder LeanIX Report Gallery
-- [Craig Stanley](https://www.linkedin.com/in/c-stanley/) - [Citadel](https://citadelgroup.com.au/eaaas/) a certified Australian Leanix Partner
+- [Craig Stanley](https://www.linkedin.com/in/c-stanley/) - [Citadel](https://citadelgroup.com.au/eaaas/) a certified Australian LeanIX Partner
 
 ## Acknowledgements
 

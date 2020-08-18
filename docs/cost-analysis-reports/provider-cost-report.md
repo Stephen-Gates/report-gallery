@@ -37,7 +37,7 @@ The following factsheets and associated properties are required:
     - Annual cost on Application - IT Component relationship
 - Project?
 
-For more information, check the [report requirements in the LeanIX User Docs](https://docs.leanix.net/docs/report-overview).
+For more information, check the [report requirements in the LeanIX User Docs](https://docs.leanix.net/docs/report-overview) 
 
 ### Tags 
 

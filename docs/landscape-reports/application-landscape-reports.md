@@ -14,6 +14,6 @@ There are three Application Landscape reports that show the Application Landscap
 - [Processes]() - *What Applications support Processes?*
 - [User Groups]() - *What Applications support User Groups?*
 
-![Placeholder](https://dummyimage.com/600x400/eee/aaa)
+![Placeholder](https://dummyimage.com/800x450/eee/aaa)
 
 *Application Landscape for Business Capabilities*

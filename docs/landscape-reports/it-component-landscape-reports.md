@@ -13,6 +13,6 @@ There are three IT Component Landscape reports that show the IT Component Landsc
 - [Technical Stack]() - *What are our standard IT Components as classified in the Technical Stack?*
 - [Providers]() - *What Providers supply our IT Components?*
 
-![Placeholder](https://dummyimage.com/600x400/eee/aaa)
+![Placeholder](https://dummyimage.com/800x450/eee/aaa)
 
 *IT Component Landscape for Technical Stack*

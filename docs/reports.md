@@ -11,7 +11,7 @@ title: Types of reports
 LeanIX provides many different ways to view and filter data to answer key questions. 
 
 ![Thumbnail images of different types of reports](assets/images/report-tiles.png)
-*Link to reports via thumbnail images. Image (c) 2020 Leanix from the [Reshape your IT with 24 key Enterprise Architecture Views](https://www.leanix.net/en/download/reshape-your-it-with-24-key-enterprise-architecture-viewpoints) poster.*
+*Link to reports via thumbnail images. Image (c) 2020 Leanix from the [Reshape your IT with 24 key Enterprise Architecture Views](https://www.leanix.net/en/download/reshape-your-it-with-24-key-enterprise-architecture-viewpoints) poster* 
 
 Link to reports via list: 
 
