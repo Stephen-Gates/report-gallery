@@ -18,3 +18,6 @@ Types of reports:
 - [Interface reports](interface-reports/index.md)
 - [Cost Analysis reports](cost-analysis-reports/index.md) 
 - [Factsheet Map reports](factsheet-map-reports/index.md) 
+
+![Thumbnail images of different types of reports](/assets/images/report-tiles.png)
+*Alternative way to link to reports. Image (c) 2020 Leanix from the [Reshape your IT with 24 key Enterprise Architecture Views](https://www.leanix.net/en/download/reshape-your-it-with-24-key-enterprise-architecture-viewpoints) poster.
