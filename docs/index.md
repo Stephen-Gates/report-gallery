@@ -1,5 +1,5 @@
 ---
-title: Questions you can answer with LeanIX reports
+title: Home
 description: Discover the questions you can answer using LeanIX reports.
 ---
 

@@ -17,4 +17,4 @@ There are four types of reports:
     - *How many Applications are Active or being Phased out each month?*
     - *How many Applications became Active each year?*
 
-Metrics reports are standard LeanIX reports.
+:fontawesome-regular-check-circle: Metrics reports are standard LeanIX reports.

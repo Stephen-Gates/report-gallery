@@ -14,9 +14,9 @@ The User Group Factsheet Map report answers the question:
 
 ***[What User Groups are part of, or interact with, our business?](../questions.md#user-groups)***
 
-![Placeholder](https://dummyimage.com/600x400/eee/aaa)
+![User Group Factsheet Map report](../assets/images/user-group-factsheet-map.png)
 
-*Factsheet Map Report for User Group, Lifecycle view.*
+*Factsheet Map report for User Group, Lifecycle view, Wrapped layout.*
 
 ## Requirements
 
@@ -36,23 +36,23 @@ No other requirements
 
 ## Settings
 
-**Fact sheet type** choose User Group
+**Factsheet type** choose User Group
 
 **Wrap layout**  to display the report within the width of the window to avoid horizontal scrolling
 
 ## View
 
-The views available will vary based on the chosen Fact sheet type. There are two types of views, based on: 
+The views available will vary based on the chosen factsheet type. There are two types of views, based on: 
 
-1. fields on the fact sheet 
-2. fields on related fact sheets
+1. fields on the factsheet 
+2. fields on related factsheets
 3. tags
 
-### Fields on the fact sheet 
+### Fields on the factsheet 
 
 1. Lifecycle
 
-### Fields on related fact sheets
+### Fields on related factsheets
 
 1. Application Functional Fit
 1. Application Technical Fit
@@ -72,4 +72,4 @@ Filters can be used to focus on the required Business Capabilities
 
 ## Editing
 
-Editing can be enabled in the report allowing you to move, remove or add fact sheets. These changes are made to the Inventory, not just visually in the report.
+Editing can be enabled in the report allowing you to move, remove or add factsheets. These changes are made to the Inventory, not just visually in the report.

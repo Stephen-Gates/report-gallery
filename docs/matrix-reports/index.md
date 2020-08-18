@@ -20,4 +20,4 @@ There are three types of reports:
     - on the horizontal: Business Capabilities, or Time Frame
     - on the vertical axis: Business Capabilities, Providers, or User Groups
 
-Matrix reports are standard LeanIX reports.
+:fontawesome-regular-check-circle: Matrix reports are standard LeanIX reports.

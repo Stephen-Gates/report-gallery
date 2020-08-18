@@ -14,4 +14,4 @@ There are three reports:
 - [Project Cost Analysis](project-cost-report.md) - *What budget is planned for certain projects?*
 - [Provider Cost Analysis](provider-cost-report.md) - *What is the IT spend by provider?*
 
-Cost Analysis reports are standard LeanIX reports.
+:fontawesome-regular-check-circle: Cost Analysis reports are standard LeanIX reports.

@@ -14,4 +14,4 @@ There are three reports:
 - [Application Usage](application-usage-report.md) - *What, and how many, Applications do User Groups in this location use?*
 - [IT Component Location](it-component-location-report.md) - *What, and how many, IT Components are in this location use?*
 
-Location reports are LeanIX standard reports.
+:fontawesome-regular-check-circle: Location reports are LeanIX standard reports.

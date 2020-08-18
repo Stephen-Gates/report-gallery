@@ -29,8 +29,8 @@ theme:
 extra_css:
   - stylesheets/extra.css
   
-extra_javascript:
-  - javascripts/extra.js  
+#extra_javascript:
+  #- javascripts/extra.js  
   
 # Customsiation  
 extra:
@@ -110,6 +110,8 @@ nav:
     - Process Map: factsheet-map-reports/process-factsheet-map-report.md
     - Technical Stack Map: factsheet-map-reports/technical-stack-factsheet-map-report.md
     - User Group Map: factsheet-map-reports/user-group-factsheet-map-report.md
+  - Questions you can't answer: cant-answer.md
+
   - About:
     - Suggest a change: contribute.md
     - Contributors: contributors.md

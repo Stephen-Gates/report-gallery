@@ -3,8 +3,8 @@ Title: "Questions you can answer with LeanIX reports"
 ---
 
 ??? note "Work in progress"
-    This list needed to be rationalised and link to report pages.
-    Take inspiration from the How to Answer the [Top Questions of Enterprise Architecture Stakeholders](https://www.leanix.net/en/download/how-to-answer-the-top-questions-of-enterprise-architecture-stakeholders) poster."
+    - This list needed to be rationalised and link to report pages.
+    - Take inspiration from the How to Answer the [Top Questions of Enterprise Architecture Stakeholders](https://www.leanix.net/en/download/how-to-answer-the-top-questions-of-enterprise-architecture-stakeholders) poster."
 
 # Questions you can answer with LeanIX reports
 
@@ -15,15 +15,16 @@ Title: "Questions you can answer with LeanIX reports"
 
 ## Business Capabilities
 
+1. [What business capabilities support our business?](factsheet-map-reports/business-capability-factsheet-map-report.md)
 1. Which applications support which business capability?
 1. Which applications need to improve to met the desired business capability maturity level?
 1. [What is the IT spend by business capability?](cost-analysis-reports/business-capability-cost-report.md)
 
 ## Processes
 
+1. [What processes support our business?](factsheet-map-reports/process-factsheet-map-report.md)
 1. What processes are impacted when an application fails?
 1. Which applications support a business process?
-1. What does the process workflow look like at various steps?
 1. Who are the stakeholders involved in each process?
 
 ## Applications
@@ -93,13 +94,13 @@ Title: "Questions you can answer with LeanIX reports"
 
 ## Providers
 
-1.  Who is the provider of an application / technology? 
+1. Who is the provider of an application / technology? 
 1. What is the aggregate risk around a provider?
-1.  Is there an opportunity to reduce the number of providers we deal with by changing technologies / applications
+1. Is there an opportunity to reduce the number of providers we deal with by changing technologies / applications
 1. What is the IT spend by provider? 
 
-## Technology Stack
+## Technical Stack
 
-1. What categories / hierarchy is used to describe the technology stack
-1. What technologies do we have in a technology category
-1. Is there opportunity to consolidate technologies? 
+1. [What is the technical stack used to classify our IT components?](factsheet-map-reports/technical-stack-factsheet-map-report.md)
+1. What technologies do we have in a technical category
+1. Is there opportunity to consolidate IT Components? 

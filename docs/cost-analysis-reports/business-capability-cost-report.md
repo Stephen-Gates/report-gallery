@@ -15,7 +15,7 @@ The costs for a Business Capability are calculated based on:
 - filtered by an Application Lifecycle that is effective within time frame or at a point of time
 - filtered by any other constraints to focus on the area of interest 
 
-![Business Capability Cost Analysis report](/assets/images/cost-analysis-report-bc.png)
+![Business Capability Cost Analysis report](../assets/images/cost-analysis-report-bc.png)
 
 *Business Capability Cost Analysis report for Applications with Any Lifecycle value effective within the 2020 timeframe*
 

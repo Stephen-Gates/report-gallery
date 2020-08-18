@@ -18,6 +18,10 @@ The [LeanIX Report Gallery](https://stephen-gates.github.io/report-gallery/site/
 
 ## Dev
 
-Run dev 
+Run locally web server `$ mkdocs serve` to preview your site before publishing
 
-` $ mkdocs serve
+Build `$ mkdocs build` creates html files in \site
+
+Deploy `$ mkdocs gh-deploy` 
+
+Go to https://stephen-gates.github.io/report-gallery/site/ to view the published site (there may be a small delay before the updates appear)

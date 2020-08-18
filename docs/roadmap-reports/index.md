@@ -14,4 +14,4 @@ There are three types of reports :
 - [IT Component Roadmap](it-component-roadmap-reports.md) - *What is the question?*
 - [Project Roadmap](project-roadmap-reports.md) - *What is the question?*
 
-Roadmap reports are standard LeanIX reports.
+:fontawesome-regular-check-circle: Roadmap reports are standard LeanIX reports.
