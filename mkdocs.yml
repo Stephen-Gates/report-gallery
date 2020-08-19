@@ -9,7 +9,7 @@ site_description: >-
 #repo_url:  https://github.com/Stephen-Gates/report-gallery
 #repo_name: Stephen-Gates/report-gallery
 # this appends index.md to the uri. Consider move all about topics to /about
-edit_uri: about/
+#edit_uri: about/
 
   
 # Copyright
