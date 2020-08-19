@@ -12,7 +12,7 @@ The LeanIX Report Gallery helps Enterprise Architects who want to influence deci
 
 - Explore the different **[types of reports](reports.md)** you can create
 
-- **[Share what you've made](contribute.md)** using the **[LeanIX Enterprise Architecture Suite](https://www.leanix.net/en/solutions/enterprise-architecture-suite)** 
+- **[Share what you've made](about/index.md)** using the **[LeanIX Enterprise Architecture Suite](https://www.leanix.net/en/solutions/enterprise-architecture-suite)** 
 
 - Get a refresher on **[how to use LeanIX reports](https://docs.leanix.net/docs/insights-through-reports)** 
 

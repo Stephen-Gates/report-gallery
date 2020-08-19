@@ -8,6 +8,8 @@ title: "Metrics Reports"
 
 The Metrics report shows aggregate...
 
+![Placeholder](https://dummyimage.com/320x240/eee/aaa) 
+
 There are four types of reports:
 
 1. [Application Portfolio](application-portfolio-reports.md) - *What is the question about fitness and criticality?*

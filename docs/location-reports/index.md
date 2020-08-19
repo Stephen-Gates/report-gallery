@@ -8,6 +8,8 @@ title: "Location Reports"
 
 Location reports show a geographic map overlaid (by Country or location) associated with either the User Group or IT Component.
 
+![Placeholder](https://dummyimage.com/320x240/eee/aaa) 
+
 There are three reports: 
 
 - [Application Sourcing](application-sourcing-report.md) - *What is the question?*

@@ -1,171 +1,155 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url>
-     <loc>https://stephen-gates.github.io/report-gallery/</loc>
-     <lastmod>2020-08-18</lastmod>
+     <loc>https://stephen-gates.github.io/report-gallery/site/</loc>
+     <lastmod>2020-08-19</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://stephen-gates.github.io/report-gallery/questions/</loc>
-     <lastmod>2020-08-18</lastmod>
+     <loc>https://stephen-gates.github.io/report-gallery/site/questions/</loc>
+     <lastmod>2020-08-19</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://stephen-gates.github.io/report-gallery/reports/</loc>
-     <lastmod>2020-08-18</lastmod>
+     <loc>https://stephen-gates.github.io/report-gallery/site/reports/</loc>
+     <lastmod>2020-08-19</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://stephen-gates.github.io/report-gallery/landscape-reports/</loc>
-     <lastmod>2020-08-18</lastmod>
+     <loc>https://stephen-gates.github.io/report-gallery/site/factsheet-map-reports/</loc>
+     <lastmod>2020-08-19</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://stephen-gates.github.io/report-gallery/landscape-reports/application-landscape-reports/</loc>
-     <lastmod>2020-08-18</lastmod>
+     <loc>https://stephen-gates.github.io/report-gallery/site/metrics-reports/</loc>
+     <lastmod>2020-08-19</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://stephen-gates.github.io/report-gallery/landscape-reports/it-component-landscape-reports/</loc>
-     <lastmod>2020-08-18</lastmod>
+     <loc>https://stephen-gates.github.io/report-gallery/site/metrics-reports/application-portfolio-reports/</loc>
+     <lastmod>2020-08-19</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://stephen-gates.github.io/report-gallery/landscape-reports/project-landscape-reports/</loc>
-     <lastmod>2020-08-18</lastmod>
+     <loc>https://stephen-gates.github.io/report-gallery/site/metrics-reports/project-portfolio-reports/</loc>
+     <lastmod>2020-08-19</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://stephen-gates.github.io/report-gallery/matrix-reports/</loc>
-     <lastmod>2020-08-18</lastmod>
+     <loc>https://stephen-gates.github.io/report-gallery/site/metrics-reports/provider-portfolio-reports/</loc>
+     <lastmod>2020-08-19</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://stephen-gates.github.io/report-gallery/matrix-reports/application-matrix-reports/</loc>
-     <lastmod>2020-08-18</lastmod>
+     <loc>https://stephen-gates.github.io/report-gallery/site/metrics-reports/lifecycle-and-age-reports/</loc>
+     <lastmod>2020-08-19</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://stephen-gates.github.io/report-gallery/matrix-reports/it-component-matrix-reports/</loc>
-     <lastmod>2020-08-18</lastmod>
+     <loc>https://stephen-gates.github.io/report-gallery/site/cost-reports/</loc>
+     <lastmod>2020-08-19</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://stephen-gates.github.io/report-gallery/matrix-reports/project-matrix-reports/</loc>
-     <lastmod>2020-08-18</lastmod>
+     <loc>https://stephen-gates.github.io/report-gallery/site/cost-reports/business-capability-cost-report/</loc>
+     <lastmod>2020-08-19</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://stephen-gates.github.io/report-gallery/roadmap-reports/</loc>
-     <lastmod>2020-08-18</lastmod>
+     <loc>https://stephen-gates.github.io/report-gallery/site/cost-reports/project-cost-report/</loc>
+     <lastmod>2020-08-19</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://stephen-gates.github.io/report-gallery/roadmap-reports/application-roadmap-reports/</loc>
-     <lastmod>2020-08-18</lastmod>
+     <loc>https://stephen-gates.github.io/report-gallery/site/cost-reports/provider-cost-report/</loc>
+     <lastmod>2020-08-19</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://stephen-gates.github.io/report-gallery/roadmap-reports/it-component-roadmap-reports/</loc>
-     <lastmod>2020-08-18</lastmod>
+     <loc>https://stephen-gates.github.io/report-gallery/site/landscape-reports/</loc>
+     <lastmod>2020-08-19</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://stephen-gates.github.io/report-gallery/roadmap-reports/project-roadmap-reports/</loc>
-     <lastmod>2020-08-18</lastmod>
+     <loc>https://stephen-gates.github.io/report-gallery/site/landscape-reports/application-landscape-reports/</loc>
+     <lastmod>2020-08-19</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://stephen-gates.github.io/report-gallery/metrics-reports/</loc>
-     <lastmod>2020-08-18</lastmod>
+     <loc>https://stephen-gates.github.io/report-gallery/site/landscape-reports/it-component-landscape-reports/</loc>
+     <lastmod>2020-08-19</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://stephen-gates.github.io/report-gallery/metrics-reports/application-portfolio-reports/</loc>
-     <lastmod>2020-08-18</lastmod>
+     <loc>https://stephen-gates.github.io/report-gallery/site/landscape-reports/project-landscape-reports/</loc>
+     <lastmod>2020-08-19</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://stephen-gates.github.io/report-gallery/metrics-reports/project-portfolio-reports/</loc>
-     <lastmod>2020-08-18</lastmod>
+     <loc>https://stephen-gates.github.io/report-gallery/site/location-reports/</loc>
+     <lastmod>2020-08-19</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://stephen-gates.github.io/report-gallery/metrics-reports/provider-portfolio-reports/</loc>
-     <lastmod>2020-08-18</lastmod>
+     <loc>https://stephen-gates.github.io/report-gallery/site/location-reports/application-sourcing-report/</loc>
+     <lastmod>2020-08-19</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://stephen-gates.github.io/report-gallery/metrics-reports/lifecycle-and-age-reports/</loc>
-     <lastmod>2020-08-18</lastmod>
+     <loc>https://stephen-gates.github.io/report-gallery/site/location-reports/application-usage-report/</loc>
+     <lastmod>2020-08-19</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://stephen-gates.github.io/report-gallery/location-reports/</loc>
-     <lastmod>2020-08-18</lastmod>
+     <loc>https://stephen-gates.github.io/report-gallery/site/location-reports/it-component-location-report/</loc>
+     <lastmod>2020-08-19</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://stephen-gates.github.io/report-gallery/location-reports/application-sourcing-report/</loc>
-     <lastmod>2020-08-18</lastmod>
+     <loc>https://stephen-gates.github.io/report-gallery/site/interface-reports/</loc>
+     <lastmod>2020-08-19</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://stephen-gates.github.io/report-gallery/location-reports/application-usage-report/</loc>
-     <lastmod>2020-08-18</lastmod>
+     <loc>https://stephen-gates.github.io/report-gallery/site/interface-reports/interface-circle-map-report/</loc>
+     <lastmod>2020-08-19</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://stephen-gates.github.io/report-gallery/location-reports/it-component-location-report/</loc>
-     <lastmod>2020-08-18</lastmod>
+     <loc>https://stephen-gates.github.io/report-gallery/site/interface-reports/data-flow-diagram/</loc>
+     <lastmod>2020-08-19</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://stephen-gates.github.io/report-gallery/interface-reports/</loc>
-     <lastmod>2020-08-18</lastmod>
+     <loc>https://stephen-gates.github.io/report-gallery/site/matrix-reports/</loc>
+     <lastmod>2020-08-19</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://stephen-gates.github.io/report-gallery/interface-reports/interface-circle-map-report/</loc>
-     <lastmod>2020-08-18</lastmod>
+     <loc>https://stephen-gates.github.io/report-gallery/site/matrix-reports/application-matrix-reports/</loc>
+     <lastmod>2020-08-19</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://stephen-gates.github.io/report-gallery/interface-reports/data-flow-diagram/</loc>
-     <lastmod>2020-08-18</lastmod>
+     <loc>https://stephen-gates.github.io/report-gallery/site/matrix-reports/it-component-matrix-reports/</loc>
+     <lastmod>2020-08-19</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://stephen-gates.github.io/report-gallery/cost-analysis-reports/</loc>
-     <lastmod>2020-08-18</lastmod>
+     <loc>https://stephen-gates.github.io/report-gallery/site/matrix-reports/project-matrix-reports/</loc>
+     <lastmod>2020-08-19</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://stephen-gates.github.io/report-gallery/cost-analysis-reports/business-capability-cost-report/</loc>
-     <lastmod>2020-08-18</lastmod>
+     <loc>https://stephen-gates.github.io/report-gallery/site/roadmap-reports/</loc>
+     <lastmod>2020-08-19</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://stephen-gates.github.io/report-gallery/cost-analysis-reports/project-cost-report/</loc>
-     <lastmod>2020-08-18</lastmod>
+     <loc>https://stephen-gates.github.io/report-gallery/site/roadmap-reports/application-roadmap-reports/</loc>
+     <lastmod>2020-08-19</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://stephen-gates.github.io/report-gallery/cost-analysis-reports/provider-cost-report/</loc>
-     <lastmod>2020-08-18</lastmod>
+     <loc>https://stephen-gates.github.io/report-gallery/site/roadmap-reports/it-component-roadmap-reports/</loc>
+     <lastmod>2020-08-19</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://stephen-gates.github.io/report-gallery/factsheet-map-reports/</loc>
-     <lastmod>2020-08-18</lastmod>
+     <loc>https://stephen-gates.github.io/report-gallery/site/roadmap-reports/project-roadmap-reports/</loc>
+     <lastmod>2020-08-19</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://stephen-gates.github.io/report-gallery/factsheet-map-reports/business-capability-factsheet-map-report/</loc>
-     <lastmod>2020-08-18</lastmod>
+     <loc>https://stephen-gates.github.io/report-gallery/site/inventory-reports/</loc>
+     <lastmod>2020-08-19</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://stephen-gates.github.io/report-gallery/factsheet-map-reports/data-object-factsheet-map-report/</loc>
-     <lastmod>2020-08-18</lastmod>
+     <loc>https://stephen-gates.github.io/report-gallery/site/cant-answer/</loc>
+     <lastmod>2020-08-19</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://stephen-gates.github.io/report-gallery/factsheet-map-reports/process-factsheet-map-report/</loc>
-     <lastmod>2020-08-18</lastmod>
+     <loc>https://stephen-gates.github.io/report-gallery/site/about/</loc>
+     <lastmod>2020-08-19</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://stephen-gates.github.io/report-gallery/factsheet-map-reports/technical-stack-factsheet-map-report/</loc>
-     <lastmod>2020-08-18</lastmod>
+     <loc>https://stephen-gates.github.io/report-gallery/site/about/contributors/</loc>
+     <lastmod>2020-08-19</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://stephen-gates.github.io/report-gallery/factsheet-map-reports/user-group-factsheet-map-report/</loc>
-     <lastmod>2020-08-18</lastmod>
+     <loc>https://stephen-gates.github.io/report-gallery/site/about/licence/</loc>
+     <lastmod>2020-08-19</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://stephen-gates.github.io/report-gallery/cant-answer/</loc>
-     <lastmod>2020-08-18</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://stephen-gates.github.io/report-gallery/contribute/</loc>
-     <lastmod>2020-08-18</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://stephen-gates.github.io/report-gallery/contributors/</loc>
-     <lastmod>2020-08-18</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://stephen-gates.github.io/report-gallery/licence/</loc>
-     <lastmod>2020-08-18</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://stephen-gates.github.io/report-gallery/about/</loc>
-     <lastmod>2020-08-18</lastmod>
+     <loc>https://stephen-gates.github.io/report-gallery/site/about/about/</loc>
+     <lastmod>2020-08-19</lastmod>
      <changefreq>daily</changefreq>
     </url>
 </urlset>

@@ -8,6 +8,8 @@ title: "Roadmap Reports"
 
 The Roadmap report shows a Gnatt chart...
 
+![Placeholder](https://dummyimage.com/320x240/eee/aaa) 
+
 There are three types of reports :
 
 - [Application Roadmap](application-roadmap-reports.md) - *What is the question?*

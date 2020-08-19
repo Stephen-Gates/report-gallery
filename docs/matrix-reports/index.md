@@ -8,6 +8,8 @@ title: "Matrix Reports"
 
 The Matrix report shows...
 
+![Placeholder](https://dummyimage.com/320x240/eee/aaa) 
+
 There are three types of reports:
 
 1. [Application Matrix](application-matrix-reports.md) report shows Applications within a matrix of:

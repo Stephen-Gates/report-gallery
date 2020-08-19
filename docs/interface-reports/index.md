@@ -8,6 +8,8 @@ title: "Interface Reports"
 
 # Interface Reports
 
+![Placeholder](https://dummyimage.com/320x240/eee/aaa) 
+
 Interface reports show...
 
 There is one report and diagram:

@@ -1,9 +1,16 @@
 # Project information
 site_name: LeanIX Report Gallery
-site_url: https://stephen-gates.github.io/report-gallery/
+site_url: https://stephen-gates.github.io/report-gallery/site
 site_author: Stephen Gates
 site_description: >-
   Discover the questions you can answer using LeanIX reports.
+  
+# GitHub Repository  
+#repo_url:  https://github.com/Stephen-Gates/report-gallery
+#repo_name: Stephen-Gates/report-gallery
+# this appends index.md to the uri. Consider move all about topics to /about
+#edit_uri: /about
+
   
 # Copyright
 copyright: Copyright &copy; 2020 LeanIX Report Gallery - CC BY-SA 4.0
@@ -20,7 +27,9 @@ theme:
   favicon: assets/images/favicon.png
   features:
     - navigation.expand
-    
+# if you use edit_uri then default icon appears!    
+  icon:
+    repo: fontawesome/brands/github   
   # 404 page
   #static_templates:
     #- 404.html  
@@ -29,22 +38,24 @@ theme:
 extra_css:
   - stylesheets/extra.css
   
-#extra_javascript:
-  #- javascripts/extra.js  
-  
-# Customsiation  
+# Customisation - these links open in a new tab so internal links don't work well :-(  
 extra:
   social:
-    - icon: fontawesome/brands/creative-commons
-      link: /licence 
+    #- icon: fontawesome/brands/creative-commons
+      #link: ../licence 
+      #name: Licence on LeanIX Report Gallery
     #- icon: fontawesome/brands/twitter
       #link: https://twitter.com/SGatesHQ
+      #name: SGatesHQ on twitter
     #- icon: fontawesome/brands/linkedin
       #link: https://www.linkedin.com/in/sdgates/ 
+      #name: Stephen Gates on LinkedIn
     - icon: fontawesome/brands/github
-      link: https://github.com/Stephen-Gates/report-gallery    
-    - icon: fontawesome/regular/edit
-      link: /contribute
+      link: https://github.com/Stephen-Gates/report-gallery
+      name: LeanIX Report Gallery on GitHub  
+    #- icon: fontawesome/regular/edit
+      #link: ../contribute
+      #name: Contribute on LeanIX Report Gallery
    
 # Extensions  
 markdown_extensions:
@@ -57,22 +68,50 @@ markdown_extensions:
       emoji_generator: !!python/name:materialx.emoji.to_svg
   - pymdownx.mark
   - pymdownx.tilde
+  - pymdownx.caret
+  - pymdownx.mark
   - pymdownx.tabbed
   - toc:
       #permalink: true
       toc_depth: 2
-      
+              
+# Google Analytics
+# google_analytics:
+#  - !!python/object/apply:os.getenv ["GOOGLE_ANALYTICS_KEY"]
+#  - auto
+    
       
 # Page tree - only 2 levels allowed
 nav:
   - Home: index.md
   - Questions you can answer: questions.md
   - Types of reports: reports.md
+  - Factsheet Map: factsheet-map-reports/index.md
+  - Metrics:
+    - Metrics reports: metrics-reports/index.md
+    - Application Portfolio: metrics-reports/application-portfolio-reports.md
+    - Project Portfolio: metrics-reports/project-portfolio-reports.md
+    - Provider Portfolio: metrics-reports/provider-portfolio-reports.md
+    - Lifecycle and Age: metrics-reports/lifecycle-and-age-reports.md
+  - Cost: 
+    - Cost reports: cost-reports/index.md
+    - Business Capability Costs: cost-reports/business-capability-cost-report.md
+    - Project Costs: cost-reports/project-cost-report.md
+    - Provider Costs: cost-reports/provider-cost-report.md    
   - Landscape: 
     - Landscape reports: landscape-reports/index.md
     - Application Landscape: landscape-reports/application-landscape-reports.md
     - IT Component Landscape: landscape-reports/it-component-landscape-reports.md
     - Project Landscape: landscape-reports/project-landscape-reports.md
+  - Location:
+    - Location reports: location-reports/index.md
+    - Application Sourcing: location-reports/application-sourcing-report.md
+    - Application Usage: location-reports/application-usage-report.md
+    - IT Component Location: location-reports/it-component-location-report.md
+  - Interface:
+    - Interface reports: interface-reports/index.md
+    - Interface Circle Map: interface-reports/interface-circle-map-report.md
+    - Data Flow diagram: interface-reports/data-flow-diagram.md        
   - Matrix:
     - Matrix reports: matrix-reports/index.md
     - Application Matrix: matrix-reports/application-matrix-reports.md
@@ -83,42 +122,10 @@ nav:
     - Application Roadmap: roadmap-reports/application-roadmap-reports.md
     - IT Component Roadmap: roadmap-reports/it-component-roadmap-reports.md
     - Project Roadmap: roadmap-reports/project-roadmap-reports.md
-  - Metrics:
-    - Metrics reports: metrics-reports/index.md
-    - Application Portfolio: metrics-reports/application-portfolio-reports.md
-    - Project Portfolio: metrics-reports/project-portfolio-reports.md
-    - Provider Portfolio: metrics-reports/provider-portfolio-reports.md
-    - Lifecycle and Age: metrics-reports/lifecycle-and-age-reports.md
-  - Location:
-    - Location reports: location-reports/index.md
-    - Application Sourcing: location-reports/application-sourcing-report.md
-    - Application Usage: location-reports/application-usage-report.md
-    - IT Component Location: location-reports/it-component-location-report.md
-  - Interface:
-    - Interface reports: interface-reports/index.md
-    - Interface Circle Map: interface-reports/interface-circle-map-report.md
-    - Data Flow diagram: interface-reports/data-flow-diagram.md
-  - Cost Analysis:
-    - Cost Analysis reports: cost-analysis-reports/index.md
-    - Business Capability: cost-analysis-reports/business-capability-cost-report.md
-    - Project: cost-analysis-reports/project-cost-report.md
-    - Provider: cost-analysis-reports/provider-cost-report.md
-  - Factsheet Map:
-    - Factsheet Map reports: factsheet-map-reports/index.md
-    - Business Capability Map: factsheet-map-reports/business-capability-factsheet-map-report.md
-    - Data Object Map: factsheet-map-reports/data-object-factsheet-map-report.md
-    - Process Map: factsheet-map-reports/process-factsheet-map-report.md
-    - Technical Stack Map: factsheet-map-reports/technical-stack-factsheet-map-report.md
-    - User Group Map: factsheet-map-reports/user-group-factsheet-map-report.md
+  - Inventory : inventory-reports/index.md  
   - Questions you can't answer: cant-answer.md
-
   - About:
-    - Suggest a change: contribute.md
-    - Contributors: contributors.md
-    - License and Attribution: licence.md
-    - The Project: about.md
-    
-# Google Analytics
-# google_analytics:
-#  - !!python/object/apply:os.getenv ["GOOGLE_ANALYTICS_KEY"]
-#  - auto
+    - Suggest a change: about/index.md
+    - Contributors: about/contributors.md
+    - License and Attribution: about/licence.md
+    - The Project: about/about.md
