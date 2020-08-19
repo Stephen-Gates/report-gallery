@@ -1,10 +1,12 @@
 ---
-Title: "Questions you can't answer with LeanIX reports"
+Title: "Difficult Questions"
 ---
 
 !!! note "Work in progress"
 
-# Questions you can't answer with LeanIX reports
+# Difficult Questions
+
+These questions can be difficult to answer using LeanIX reports
 
 ## User Groups
 
@@ -49,6 +51,6 @@ Title: "Questions you can't answer with LeanIX reports"
 
 1. ?
 
-## Technology Stack
+## Technical Stack
 
 1. ?

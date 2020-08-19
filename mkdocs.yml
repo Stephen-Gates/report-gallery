@@ -9,7 +9,7 @@ site_description: >-
 #repo_url:  https://github.com/Stephen-Gates/report-gallery
 #repo_name: Stephen-Gates/report-gallery
 # this appends index.md to the uri. Consider move all about topics to /about
-#edit_uri: /about
+edit_uri: about/
 
   
 # Copyright
@@ -123,7 +123,7 @@ nav:
     - IT Component Roadmap: roadmap-reports/it-component-roadmap-reports.md
     - Project Roadmap: roadmap-reports/project-roadmap-reports.md
   - Inventory : inventory-reports/index.md  
-  - Questions you can't answer: cant-answer.md
+  - Difficult questions: cant-answer.md
   - About:
     - Suggest a change: about/index.md
     - Contributors: about/contributors.md
