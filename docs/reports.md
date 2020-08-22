@@ -19,57 +19,57 @@ LeanIX provides many different ways to view and filter data to answer key questi
 
 <!-- Grid of report images -->
 
-[![Factsheet Map](/assets/images/factsheet-map-thumbnail.png)][factsheet-map]
+[![Factsheet Map](../assets/images/factsheet-map-thumbnail.png)][factsheet-map]
 <!--
 *Factsheet Map report*
 -->
 
-[![Landscape](/assets/images/landscape-thumbnail.png)][landscape]
+[![Landscape](../assets/images/landscape-thumbnail.png)][landscape]
 <!--
 *Landscape report*
 -->
 
-[![Matrix](/assets/images/matrix-thumbnail.png)][matrix]
+[![Matrix](../assets/images/matrix-thumbnail.png)][matrix]
 <!--
 *Matrix report*
 -->
 
-[![Roadmap](/assets/images/roadmap-thumbnail.png)][roadmap]
+[![Roadmap](../assets/images/roadmap-thumbnail.png)][roadmap]
 <!--
 *Roadmap report*
 -->
 
-[![Interface](/assets/images/interface-circle-map-thumbnail.png)][interface]
+[![Interface](../assets/images/interface-circle-map-thumbnail.png)][interface]
 <!--
 *Interface report*
 -->
 
-[![Data Flow](/assets/images/data-flow-thumbnail.png)][interface]
+[![Data Flow](../assets/images/data-flow-thumbnail.png)][interface]
 <!--
 *Data Flow diagrams*
 -->
 
-[![Location](/assets/images/location-thumbnail.png)][location]
+[![Location](../assets/images/location-thumbnail.png)][location]
 <!--
 *Location report*
 -->
 
-[![Cost](/assets/images/cost-thumbnail.png)][cost]
+[![Cost](../assets/images/cost-thumbnail.png)][cost]
 <!--
 *Cost report*
 -->
 
-[![Metrics](/assets/images/portfolio-thumbnail.png)][metrics]
+[![Metrics](../assets/images/portfolio-thumbnail.png)][metrics]
 <!--
 *Portfolio reports*
 -->
 
-[![Metrics](/assets/images/lifecycle-age-thumbnail.png)][metrics]
+[![Metrics](../assets/images/lifecycle-age-thumbnail.png)][metrics]
 <!--
 *Lifecycle and Age reports*
 -->
 
-[![Inventory](/assets/images/inventory-thumbnail.png)][inventory]
+[![Inventory](../assets/images/inventory-thumbnail.png)][inventory]
 <!--
 *Inventory reports*
 -->
