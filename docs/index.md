@@ -12,9 +12,10 @@ description: Discover the questions you can answer using LeanIX reports.
 
 The LeanIX Report Gallery helps Enterprise Architects find and re-create reports to answer questions and influence decisions.
 
-- Discover the **[questions you can answer](questions.md)** using LeanIX reports.
 
 - Explore the different **[types of reports](reports.md)** you can create.
+
+- Discover the **[questions you can answer](questions.md)** using LeanIX reports.
 
 - **[Share what you've made](about/index.md)** using the **[LeanIX Enterprise Architecture Suite](https://www.leanix.net/en/solutions/enterprise-architecture-suite)**. 
 

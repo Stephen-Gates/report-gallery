@@ -4,51 +4,15 @@
      <lastmod>2020-08-22</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://stephen-gates.github.io/report-gallery/site/questions/</loc>
-     <lastmod>2020-08-22</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
      <loc>https://stephen-gates.github.io/report-gallery/site/reports/</loc>
      <lastmod>2020-08-22</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
+     <loc>https://stephen-gates.github.io/report-gallery/site/questions/</loc>
+     <lastmod>2020-08-22</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
      <loc>https://stephen-gates.github.io/report-gallery/site/factsheet-map/</loc>
-     <lastmod>2020-08-22</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://stephen-gates.github.io/report-gallery/site/metrics/</loc>
-     <lastmod>2020-08-22</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://stephen-gates.github.io/report-gallery/site/metrics/application-portfolio-report/</loc>
-     <lastmod>2020-08-22</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://stephen-gates.github.io/report-gallery/site/metrics/project-portfolio-report/</loc>
-     <lastmod>2020-08-22</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://stephen-gates.github.io/report-gallery/site/metrics/provider-portfolio-report/</loc>
-     <lastmod>2020-08-22</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://stephen-gates.github.io/report-gallery/site/metrics/lifecycle-and-age-report/</loc>
-     <lastmod>2020-08-22</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://stephen-gates.github.io/report-gallery/site/cost/</loc>
-     <lastmod>2020-08-22</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://stephen-gates.github.io/report-gallery/site/cost/business-capability-cost-report/</loc>
-     <lastmod>2020-08-22</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://stephen-gates.github.io/report-gallery/site/cost/project-cost-report/</loc>
-     <lastmod>2020-08-22</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://stephen-gates.github.io/report-gallery/site/cost/provider-cost-report/</loc>
      <lastmod>2020-08-22</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
@@ -65,34 +29,6 @@
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://stephen-gates.github.io/report-gallery/site/landscape/project-landscape-reports/</loc>
-     <lastmod>2020-08-22</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://stephen-gates.github.io/report-gallery/site/location/</loc>
-     <lastmod>2020-08-22</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://stephen-gates.github.io/report-gallery/site/location/application-sourcing-report/</loc>
-     <lastmod>2020-08-22</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://stephen-gates.github.io/report-gallery/site/location/application-usage-report/</loc>
-     <lastmod>2020-08-22</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://stephen-gates.github.io/report-gallery/site/location/it-component-location-report/</loc>
-     <lastmod>2020-08-22</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://stephen-gates.github.io/report-gallery/site/interface/</loc>
-     <lastmod>2020-08-22</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://stephen-gates.github.io/report-gallery/site/interface/interface-circle-map-report/</loc>
-     <lastmod>2020-08-22</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://stephen-gates.github.io/report-gallery/site/interface/data-flow-diagram/</loc>
      <lastmod>2020-08-22</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
@@ -125,6 +61,70 @@
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://stephen-gates.github.io/report-gallery/site/roadmap/project-roadmap-reports/</loc>
+     <lastmod>2020-08-22</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://stephen-gates.github.io/report-gallery/site/interface/</loc>
+     <lastmod>2020-08-22</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://stephen-gates.github.io/report-gallery/site/interface/interface-circle-map-report/</loc>
+     <lastmod>2020-08-22</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://stephen-gates.github.io/report-gallery/site/interface/data-flow-diagram/</loc>
+     <lastmod>2020-08-22</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://stephen-gates.github.io/report-gallery/site/location/</loc>
+     <lastmod>2020-08-22</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://stephen-gates.github.io/report-gallery/site/location/application-sourcing-report/</loc>
+     <lastmod>2020-08-22</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://stephen-gates.github.io/report-gallery/site/location/application-usage-report/</loc>
+     <lastmod>2020-08-22</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://stephen-gates.github.io/report-gallery/site/location/it-component-location-report/</loc>
+     <lastmod>2020-08-22</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://stephen-gates.github.io/report-gallery/site/cost/</loc>
+     <lastmod>2020-08-22</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://stephen-gates.github.io/report-gallery/site/cost/business-capability-cost-report/</loc>
+     <lastmod>2020-08-22</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://stephen-gates.github.io/report-gallery/site/cost/project-cost-report/</loc>
+     <lastmod>2020-08-22</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://stephen-gates.github.io/report-gallery/site/cost/provider-cost-report/</loc>
+     <lastmod>2020-08-22</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://stephen-gates.github.io/report-gallery/site/metrics/</loc>
+     <lastmod>2020-08-22</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://stephen-gates.github.io/report-gallery/site/metrics/application-portfolio-report/</loc>
+     <lastmod>2020-08-22</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://stephen-gates.github.io/report-gallery/site/metrics/project-portfolio-report/</loc>
+     <lastmod>2020-08-22</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://stephen-gates.github.io/report-gallery/site/metrics/provider-portfolio-report/</loc>
+     <lastmod>2020-08-22</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://stephen-gates.github.io/report-gallery/site/metrics/lifecycle-and-age-report/</loc>
      <lastmod>2020-08-22</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
