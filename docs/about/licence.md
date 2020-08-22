@@ -1,15 +1,14 @@
 ---
-title: Licence and Attribution 
+title: Licence 
 ---
 
-# Licence and Attribution 
+# Licence, Attribution and Disclaimer
 
 ## Licence :fontawesome-brands-creative-commons: :fontawesome-brands-creative-commons-by: :fontawesome-brands-creative-commons-sa:
 
 Exception where [otherwise noted](about.md#notice-of-non-affiliation-and-disclaimer), all material presented on this site is provided under a [Creative Commons Attribution Share-alike 4.0 licence](https://creativecommons.org/licenses/by-sa/4.0/) - CC BY-SA 4.0
 
 This license allows reusers to distribute, remix, adapt, and build upon the material in any medium or format, so long as attribution is given to the creator. The license allows for commercial use. If you remix, adapt, or build upon the material, you must license the modified material under identical terms.
-
 
 ## Attribution
 
@@ -30,4 +29,10 @@ An acceptable shortened attribution is:
 
 ### Attribution for derived works
 
-This work, "[*Your works title here*]", is a derivative of [Provider Cost Reports](../cost-reports/provider-cost-report.md) from the [LeanIX Report Gallery](../index.md) used under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). "[*Your works title here*]" is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) by [*Your name here*]
+This work, "[*Your works title here*]", is a derivative of [Provider Cost Reports](../cost/provider-cost-report.md) from the [LeanIX Report Gallery](../index.md) used under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). "[*Your works title here*]" is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) by [*Your name here*]
+
+## Notice of Non-Affiliation and Disclaimer
+
+The LeanIX Report Gallery is not affiliated, associated, authorized, endorsed by, or in any way officially connected with LeanIX, or any of its subsidiaries or its affiliates. The official LeanIX website can be found at [https://www.leanix.net](https://www.leanix.net).
+
+The name LeanIX as well as related names, marks, and emblems are registered trademarks of their respective owners.

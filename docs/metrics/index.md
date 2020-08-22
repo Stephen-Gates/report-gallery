@@ -1,0 +1,26 @@
+---
+title: "Metrics Reports"
+---
+
+!!! note "Work in progress"
+
+# Metrics Reports
+
+The Metrics reports show...
+
+![Placeholder](https://dummyimage.com/320x240/eee/aaa) 
+
+<!--
+![](https://www.leanix.net/hubfs/2019%20LX%20Website/General/Illu/bubblechart-8-Col-XL.svg)
+-->
+
+There are four types of reports:
+
+1. [Application Portfolio](application-portfolio-report.md) - *What is the question about fitness and criticality?*
+1. [Project Portfolio](project-portfolio-report.md) - *What is the question about risk and value?*
+1. [Provider Portfolio](provider-portfolio-report.md) - *What is the question about criticality and quality?*
+1. [Lifecycle and Age](lifecycle-and-age-report.md) 
+    - *How many Applications are Active or being Phased out each month?*
+    - *How many Applications became Active each year?*
+
+:fontawesome-regular-check-circle:{: .check-circle }  Metrics reports are standard LeanIX reports.

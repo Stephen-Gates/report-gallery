@@ -1,0 +1,63 @@
+---
+title: "Application Portfolio report"
+---
+
+# Application Portfolio report
+
+## Overview
+
+The Application Portfolio report answers the question:
+
+***[Which applications need investment or replacement?](../questions.md#application)***
+
+- Applications with both low Functional Fit and Technical Fit may need to be replaced
+- Applications with low Functional Fit but high Business Criticality may need investment
+- Applications with low Technical Fit but high Business Criticality may need investment
+
+![](../assets/images/application-portfolio.png)
+
+*Application Portfolio report, Functional Fit vs. Technical Fit view.*
+
+## Requirements
+
+### Factsheets
+
+The following factsheets and associated properties are required:
+
+- Application
+    - Functional Fit
+    - Technical Fit
+    - Business Criticality
+
+<!--
+### Tags 
+
+No tags are required for this report.
+
+### Other requirement
+
+No other requirements
+-->
+
+## Settings
+
+This report may be displayed as a grid or a table. 
+
+![](../assets/images/application-portfolio-table.png)
+
+## View
+
+The views available are:
+
+1. Functional Fit vs. Technical Fit 
+1. Functional Fit vs. Business Criticality 
+1. Technical Fit vs. Business Criticality 
+## Filters
+
+Filters can be used to focus on the required areas and timeframes
+
+<!--
+#### Editing
+
+This report cannot be edited
+--> 

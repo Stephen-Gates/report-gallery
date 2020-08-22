@@ -2,7 +2,7 @@
 title: Contributors
 ---
 
-# :fontawesome-regular-heart: Contributors 
+# :fontawesome-regular-heart:{: .heart } Contributors 
 
 Thanks to all our contributors:
 

@@ -6,26 +6,36 @@ Title: "Difficult Questions"
 
 # Difficult Questions
 
-These questions can be difficult to answer using LeanIX reports
+These questions can be difficult to answer using standard LeanIX reports and a standard configuration. 
 
+<!--
 ## User Groups
 
 1. ?
+-->
 
 ## Business Capabilities
 
-1. What business capabilities are used in a processes?
-    - Business Capabilities used in a Processes will only appear if they a related via an Application
-    - As a work-around, create an Application called "Manual" to relate the Business Capabilities to the Process
-    - Use the Application Matrix report to show the relationship
+### What business capabilities are used in a processes?
+
+Business Capabilities used in a Processes will only appear if they a related via an Application. 
+As a work-around:
+
+- create an Application called "Manual" to relate the Business Capabilities to the Process. 
+- use the Application Matrix report to show the relationship
 
 ## Processes
 
-1. Who performs what processes?
-    - Processes performed by a User Group will only appear if they a related via an Application
-    - As a work-around, create an Application called "Manual" to relate the Process to the User Group
-    - Use the Application Matrix report to show the relationship (horizontal axis: Process; Vertical axis: User Group)
+### Who performs what processes?
 
+Processes performed by a User Group will only appear if they a related via an Application. 
+
+As a work-around:
+
+- create an Application called "Manual" to relate the Process to the User Group
+- use the Application Matrix report to show the relationship (horizontal axis: Process; Vertical axis: User Group)
+
+<!--
 
 ## Applications
 
@@ -54,3 +64,4 @@ These questions can be difficult to answer using LeanIX reports
 ## Technical Stack
 
 1. ?
+-->

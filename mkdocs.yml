@@ -5,13 +5,12 @@ site_author: Stephen Gates
 site_description: >-
   Discover the questions you can answer using LeanIX reports.
   
-# GitHub Repository  
-#repo_url:  https://github.com/Stephen-Gates/report-gallery
+# GitHub Repository displays github details in header 
+#repo_url: https://github.com/Stephen-Gates/report-gallery
 #repo_name: Stephen-Gates/report-gallery
-# this appends index.md to the uri. Consider move all about topics to /about
-#edit_uri: about/
+# Adds pen to top of content and links to edit_uri. Link appends index.md to the uri. Can't link to right location after published
+  #edit_uri: ""
 
-  
 # Copyright
 copyright: Copyright &copy; 2020 LeanIX Report Gallery - CC BY-SA 4.0
     
@@ -25,8 +24,9 @@ theme:
     code: Roboto Mono  
   logo: assets/images/logo.png
   favicon: assets/images/favicon.png
-  features:
-    - navigation.expand
+  #features:
+    #- tabs
+  custom_dir: overrides 
 # if you use edit_uri then default icon appears!    
   icon:
     repo: fontawesome/brands/github   
@@ -42,8 +42,8 @@ extra_css:
 extra:
   social:
     #- icon: fontawesome/brands/creative-commons
-      #link: ../licence 
-      #name: Licence on LeanIX Report Gallery
+      #link: /about/licence 
+      #name: Licence for LeanIX Report Gallery
     #- icon: fontawesome/brands/twitter
       #link: https://twitter.com/SGatesHQ
       #name: SGatesHQ on twitter
@@ -53,9 +53,12 @@ extra:
     - icon: fontawesome/brands/github
       link: https://github.com/Stephen-Gates/report-gallery
       name: LeanIX Report Gallery on GitHub  
-    #- icon: fontawesome/regular/edit
-      #link: ../contribute
-      #name: Contribute on LeanIX Report Gallery
+    - icon: material/lightbulb-on-outline
+      link: https://citadelgroup.com.au/eaaas/
+      name: Request a report   
+    #- icon: fontawesome/solid/pen
+      #link: /about/index
+      #name: Contribute to LeanIX Report Gallery
    
 # Extensions  
 markdown_extensions:
@@ -74,58 +77,62 @@ markdown_extensions:
   - toc:
       #permalink: true
       toc_depth: 2
-              
+          
+# Extra javascripts including sortable tables     
+extra_javascript:
+  - https://cdnjs.cloudflare.com/ajax/libs/tablesort/5.2.1/tablesort.min.js
+  - javascripts/tables.js
+  
 # Google Analytics
 # google_analytics:
 #  - !!python/object/apply:os.getenv ["GOOGLE_ANALYTICS_KEY"]
 #  - auto
     
-      
 # Page tree - only 2 levels allowed
 nav:
   - Home: index.md
   - Questions you can answer: questions.md
   - Types of reports: reports.md
-  - Factsheet Map: factsheet-map-reports/index.md
+  - Factsheet Map: factsheet-map/index.md
   - Metrics:
-    - Metrics reports: metrics-reports/index.md
-    - Application Portfolio: metrics-reports/application-portfolio-reports.md
-    - Project Portfolio: metrics-reports/project-portfolio-reports.md
-    - Provider Portfolio: metrics-reports/provider-portfolio-reports.md
-    - Lifecycle and Age: metrics-reports/lifecycle-and-age-reports.md
+    - Metrics reports: metrics/index.md
+    - Application Portfolio: metrics/application-portfolio-report.md
+    - Project Portfolio: metrics/project-portfolio-report.md
+    - Provider Portfolio: metrics/provider-portfolio-report.md
+    - Lifecycle and Age: metrics/lifecycle-and-age-report.md
   - Cost: 
-    - Cost reports: cost-reports/index.md
-    - Business Capability Costs: cost-reports/business-capability-cost-report.md
-    - Project Costs: cost-reports/project-cost-report.md
-    - Provider Costs: cost-reports/provider-cost-report.md    
+    - Cost reports: cost/index.md
+    - Business Capability Costs: cost/business-capability-cost-report.md
+    - Project Costs: cost/project-cost-report.md
+    - Provider Costs: cost/provider-cost-report.md    
   - Landscape: 
-    - Landscape reports: landscape-reports/index.md
-    - Application Landscape: landscape-reports/application-landscape-reports.md
-    - IT Component Landscape: landscape-reports/it-component-landscape-reports.md
-    - Project Landscape: landscape-reports/project-landscape-reports.md
+    - Landscape reports: landscape/index.md
+    - Application Landscape: landscape/application-landscape-reports.md
+    - IT Component Landscape: landscape/it-component-landscape-reports.md
+    - Project Landscape: landscape/project-landscape-reports.md
   - Location:
-    - Location reports: location-reports/index.md
-    - Application Sourcing: location-reports/application-sourcing-report.md
-    - Application Usage: location-reports/application-usage-report.md
-    - IT Component Location: location-reports/it-component-location-report.md
+    - Location reports: location/index.md
+    - Application Sourcing: location/application-sourcing-report.md
+    - Application Usage: location/application-usage-report.md
+    - IT Component Location: location/it-component-location-report.md
   - Interface:
-    - Interface reports: interface-reports/index.md
-    - Interface Circle Map: interface-reports/interface-circle-map-report.md
-    - Data Flow diagram: interface-reports/data-flow-diagram.md        
+    - Interface reports: interface/index.md
+    - Interface Circle Map: interface/interface-circle-map-report.md
+    - Data Flow diagram: interface/data-flow-diagram.md        
   - Matrix:
-    - Matrix reports: matrix-reports/index.md
-    - Application Matrix: matrix-reports/application-matrix-reports.md
-    - IT Component Matrix: matrix-reports/it-component-matrix-reports.md
-    - Project Matrix: matrix-reports/project-matrix-reports.md
+    - Matrix reports: matrix/index.md
+    - Application Matrix: matrix/application-matrix-reports.md
+    - IT Component Matrix: matrix/it-component-matrix-reports.md
+    - Project Matrix: matrix/project-matrix-reports.md
   - Roadmap:
-    - Roadmap reports: roadmap-reports/index.md
-    - Application Roadmap: roadmap-reports/application-roadmap-reports.md
-    - IT Component Roadmap: roadmap-reports/it-component-roadmap-reports.md
-    - Project Roadmap: roadmap-reports/project-roadmap-reports.md
-  - Inventory : inventory-reports/index.md  
+    - Roadmap reports: roadmap/index.md
+    - Application Roadmap: roadmap/application-roadmap-reports.md
+    - IT Component Roadmap: roadmap/it-component-roadmap-reports.md
+    - Project Roadmap: roadmap/project-roadmap-reports.md
+  - Inventory : inventory/index.md  
   - Difficult questions: cant-answer.md
   - About:
     - Suggest a change: about/index.md
     - Contributors: about/contributors.md
-    - License and Attribution: about/licence.md
+    - Licence: about/licence.md
     - The Project: about/about.md

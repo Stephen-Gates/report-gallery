@@ -5,3 +5,33 @@
   --md-primary-fg-color--light: #509FFF;
   --md-primary-fg-color--dark:  #033AAA;
 }
+
+.twitter {
+  color: #1DA1F2;
+}
+
+.linkedin {
+  color: #0072b1;
+}
+
+@keyframes heart {
+  0%, 40%, 80%, 100% {
+    transform: scale(1);
+  }
+  20%, 60% {
+    transform: scale(1.15);
+  }
+}
+
+.heart {
+  animation: heart 1000ms 3;
+  color: #FE6690;
+}
+
+.check-circle {
+  color: #33CC58;
+}
+
+.store {
+  color: #9755CD;
+}
