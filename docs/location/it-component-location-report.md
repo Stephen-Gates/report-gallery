@@ -40,7 +40,7 @@ The following factsheets and associated properties are required:
 
 ## Settings
 
-This report may be displayed as a map or a table. 
+Displayed this report as a map or a table. 
 
 ## View
 
@@ -62,7 +62,7 @@ Use **Zoom** to pan and zoom to a geographic area:
 
 ## Filters
 
-Filters can be used to focus on the required IT Components.
+Use Filters to focus on the required IT Components.
 
 Consider adding a Tag to the IT Component to reflect the highest Data Classification of data it stores or processes. This will enable you to filter for IT Components that manage "Confidential&nbsp;(L-3)" or "Restricted&nbsp;(L-2)" data.
 

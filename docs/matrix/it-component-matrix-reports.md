@@ -41,7 +41,7 @@ The following factsheets and associated properties are required:
 
 #### Settings
 
-This report may be displayed as a map or a table. 
+Display this report as a chart or table. 
 
 #### View
 
@@ -49,7 +49,7 @@ The views available are:
 
 #### Filters
 
-Filters can be used to focus on the required IT Components.
+Use Filters to focus on the required IT Components.
 
 Consider adding a Tag to the IT Component to reflect the highest Data Classification of data it stores or processes. This will enable you to filter for IT Components that manage "Confidential&nbsp;(L-3)" or "Restricted&nbsp;(L-2)" data.
 
@@ -100,7 +100,7 @@ Specific view available are:
 
 #### Filters
 
-Specific Filters can be used to focus on the required IT Components.
+Specific Use Filters to focus on the required IT Components.
 
 --- 
 
@@ -143,7 +143,7 @@ Specific view available are:
 
 #### Filters
 
-Specific Filters can be used to focus on the required IT Components.
+Specific Use Filters to focus on the required IT Components.
 
 --- 
 
@@ -186,4 +186,4 @@ Specific view available are:
 
 #### Filters
 
-Specific Filters can be used to focus on the required IT Components.
+Specific Use Filters to focus on the required IT Components.

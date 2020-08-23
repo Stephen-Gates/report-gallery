@@ -6,7 +6,7 @@ Title: "Difficult Questions"
 
 # Difficult Questions
 
-These questions can be difficult to answer using standard LeanIX reports and a standard configuration. 
+It is difficult to answer these questions using standard LeanIX reports and standard configuration. 
 
 <!--
 ## User Groups

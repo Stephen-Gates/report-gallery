@@ -36,7 +36,7 @@ This report answers the question:
 
 - *[What Applications support Business Capabilities?](../questions/#business-capability)*
 
-This is useful specifically for... 
+This is useful for... 
 
 ![Placeholder](https://dummyimage.com/800x450/eee/aaa)
 
@@ -70,7 +70,7 @@ Specific view available are:
 
 ### Filters
 
-Specific Filters can be used to focus on the required Business Capabilities.
+Use Filters to focus on the required Business Capabilities.
 
 --- 
 
@@ -113,7 +113,7 @@ Specific view available are:
 
 ### Filters
 
-Specific Filters can be used to focus on the required Processes.
+Use Filters to focus on the required Processes.
 
 --- 
 
@@ -157,4 +157,4 @@ Specific view available are:
 
 ### Filters
 
-Specific Filters can be used to focus on the required User Groups.
+Use Filters to focus on the required User Groups.

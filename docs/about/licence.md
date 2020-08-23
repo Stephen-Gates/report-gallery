@@ -33,6 +33,6 @@ This work, "[*Your works title here*]", is a derivative of [Provider Cost report
 
 ## Notice of Non-Affiliation and Disclaimer
 
-The LeanIX Report Gallery is not affiliated, associated, authorized, endorsed by, or in any way officially connected with LeanIX, or any of its subsidiaries or its affiliates. The official LeanIX website can be found at [https://www.leanix.net](https://www.leanix.net).
+The LeanIX Report Gallery is not affiliated, associated, authorized, endorsed by, or in any way officially connected with LeanIX, or any of its subsidiaries or its affiliates. Find the official LeanIX website at [https://www.leanix.net](https://www.leanix.net).
 
 The name LeanIX as well as related names, marks, and emblems are registered trademarks of their respective owners.

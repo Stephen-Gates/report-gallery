@@ -10,7 +10,7 @@ You can suggest a change by contacting us or contribute using GitHub.
 
 ## Before you start
 
-The LeanIX Report Gallery is an openly licensed project. By contributing to this project, you agree to your contribution being licensed under the site's [open licence](licence.md). 
+The LeanIX Report Gallery is an openly licensed project. By contributing to this project, you agree that your contribution is licensed under the site's [open licence](licence.md). 
 
 Make sure you have permission to share the submitted content.
 

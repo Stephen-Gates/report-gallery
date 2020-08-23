@@ -45,7 +45,7 @@ The following factsheets and associated properties are required:
 
 ### Settings
 
-This report may be displayed as a map or a table. 
+Display this report as a chart or table. 
 
 
 ### View
@@ -84,7 +84,7 @@ As your LeanIX Administrator has defined for the Business Capability factsheet
 
 ### Filters
 
-Filters can be used to focus on the required application.
+Use Filters to focus on the required application.
 
 ### Editing
 
@@ -189,7 +189,7 @@ As your LeanIX Administrator has defined for the Business Capability factsheet
 
 ### Filters
 
-Specific Filters can be used to focus on the required IT Components.
+Use Filters to focus on the required IT Components.
 
 
 
@@ -233,7 +233,7 @@ Specific view available are:
 
 ### Filters
 
-Specific Filters can be used to focus on the required IT Components.
+Use Filters to focus on the required IT Components.
 
 
 --- 
@@ -306,7 +306,7 @@ As your LeanIX Administrator has defined for the Business Capability factsheet
 
 ### Filters
 
-Specific Filters can be used to focus on the required IT Components.
+Use Filters to focus on the required IT Components.
 
 
 --- 
@@ -383,7 +383,7 @@ As your LeanIX Administrator has defined for the Business Capability factsheet
 
 ### Filters
 
-Specific Filters can be used to focus on the required IT Components.
+Use Filters to focus on the required IT Components.
 
 
 --- 
@@ -457,4 +457,4 @@ As your LeanIX Administrator has defined for the Business Capability factsheet
 
 ### Filters
 
-Specific Filters can be used to focus on the required IT Components.
+Use Filters to focus on the required IT Components.

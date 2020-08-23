@@ -45,7 +45,7 @@ The following factsheets and associated properties are required:
 
 ## Settings
 
-This report may be displayed as a map or a table. 
+Displayed this report as a map or a table. 
 
 ## View
 
@@ -67,7 +67,7 @@ Use **Zoom** to pan and zoom to a geographic area:
 
 ## Filters
 
-Filters can be used to focus on the required ???.
+Use Filters to focus on the required ???.
 
 <!--
 ## Editing

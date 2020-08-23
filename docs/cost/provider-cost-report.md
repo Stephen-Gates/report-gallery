@@ -51,19 +51,19 @@ No tags are required for this report.
 Overlapping dates on relationships and report date filter.
 <!-- See https://docs.leanix.net/docs/insights-through-reports#knowledge-about--relations-in-eg-application-landscape -->
 
-## Settings
+## Settings 
 
-This report may be displayed as a chart or a table. The table view cannot show the costs as they are stored on the Provider relationships.
-
-## View
-
-This report can be viewed as a report or a table.
+Display this report as a chart or table. The table view cannot show the annual costs as they are stored on the Provider - IT Component relationship.
 
 ![Provider Cost report](/assets/images/cost-provider-table.png)
 
+## View
+
+None.
+
 ## Filters
 
-Filters can be used to focus on the required areas and timeframes
+Use Filters to focus on the required areas and timeframes.
 
 <!--
 ## Editing

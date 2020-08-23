@@ -41,7 +41,7 @@ No other requirements
 
 ## Settings
 
-This report may be displayed as a grid or a table. 
+Display this report as a chart or table. 
 
 ![](../assets/images/application-portfolio-table.png)
 
@@ -54,7 +54,7 @@ The views available are:
 1. Technical Fit vs. Business Criticality 
 ## Filters
 
-Filters can be used to focus on the required areas and timeframes
+Use Filters to focus on the required areas and timeframes
 
 <!--
 #### Editing

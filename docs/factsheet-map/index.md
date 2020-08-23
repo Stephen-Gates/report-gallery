@@ -77,11 +77,11 @@ As your LeanIX Administrator has defined for the Business Capability factsheet
 
 ### Filters
 
-Filters can be used to focus on the required Business Capabilities
+Use Filters to focus on the required Business Capabilities
 
 ### Editing
 
-Editing can be enabled in the report allowing you to move, remove or add factsheets. These changes are made to the Inventory, not just visually in the report.
+Enable editing to allow you to move, remove or add factsheets. These changes are made to the Inventory, not just visually in the report.
 
 ---
 
@@ -140,11 +140,11 @@ As your LeanIX Administrator has defined for the Data Object factsheet
 
 ### Filters
 
-Filters can be used to focus on the required Data Object
+Use Filters to focus on the required Data Object
 
 ### Editing
 
-Editing can be enabled in the report allowing you to move, remove or add factsheets. These changes are made to the Inventory, not just visually in the report.
+Enable editing to allow you to move, remove or add factsheets. These changes are made to the Inventory, not just visually in the report.
 
 ---
 
@@ -205,11 +205,11 @@ As your LeanIX Administrator has defined for the Process factsheet
 
 ### Filters
 
-Filters can be used to focus on the required Business Capabilities
+Use Filters to focus on the required Business Capabilities
 
 ### Editing
 
-Editing can be enabled in the report allowing you to move, remove or add factsheets. These changes are made to the Inventory, not just visually in the report.
+Enable editing to allow you to move, remove or add factsheets. These changes are made to the Inventory, not just visually in the report.
 
 ---
 
@@ -265,11 +265,11 @@ The views available will vary based on the chosen factsheet type. Choose from:
 
 ### Filters
 
-Filters can be used to focus on the required Technical Stack categories.
+Use Filters to focus on the required Technical Stack categories.
 
 ### Editing
 
-Editing can be enabled in the report allowing you to move, remove or add factsheets. These changes are made to the Inventory, not just visually in the report.
+Enable editing to allow you to move, remove or add factsheets. These changes are made to the Inventory, not just visually in the report.
 
 ---
 
@@ -331,8 +331,8 @@ As your LeanIX Administrator has defined for the User Group factsheet
 
 ### Filters
 
-Filters can be used to focus on the required Business Capabilities
+Use Filters to focus on the required Business Capabilities
 
 ### Editing
 
-Editing can be enabled in the report allowing you to move, remove or add factsheets. These changes are made to the Inventory, not just visually in the report.
+Enable editing to allow you to move, remove or add factsheets. These changes are made to the Inventory, not just visually in the report.
