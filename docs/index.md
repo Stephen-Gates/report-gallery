@@ -21,4 +21,4 @@ The LeanIX Report Gallery helps Enterprise Architects find and re-create reports
 
 - Get a refresher on **[how to use LeanIX reports](https://docs.leanix.net/docs/insights-through-reports)**.
 
-[:fontawesome-solid-rocket: &nbsp; Get started](questions.md){: .md-button .md-button--primary }
+[:fontawesome-solid-rocket: &nbsp; Get started](reports.md){: .md-button .md-button--primary }
