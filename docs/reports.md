@@ -17,19 +17,66 @@ LeanIX provides many different ways to view and filter data to answer key questi
 <a href="interface/index.md" title="Inventory report"><img src="https://www.leanix.net/hubfs/2019-LX-Website/Product/UC%20-%20IntArch/ia-customer-data-8-Col-XL.svg" alt="Landscape report" width="320"></a>
 -->
 
-<!-- Grid of report images -->
+<!-- Grid with text alt -->
+[![Factsheet Map reports](../assets/images/factsheet-map-thumbnail.png)][factsheet-map]
 
-[![Factsheet Map](../assets/images/factsheet-map-thumbnail.png)][factsheet-map]
-[![Landscape](../assets/images/landscape-thumbnail.png)][landscape]
-[![Matrix](../assets/images/matrix-thumbnail.png)][matrix]
-[![Roadmap](../assets/images/roadmap-thumbnail.png)][roadmap]
-[![Interface](../assets/images/interface-circle-map-thumbnail.png)][interface]
-[![Data Flow](../assets/images/data-flow-thumbnail.png)][data-flow]
-[![Location](../assets/images/location-thumbnail.png)][location]
-[![Cost](../assets/images/cost-thumbnail.png)][cost]
-[![Portfolio](../assets/images/portfolio-thumbnail.png)][portfolio]
-[![Lifecycle and Age](../assets/images/lifecycle-age-thumbnail.png)][lifecycle-age]
-[![Inventory](../assets/images/inventory-thumbnail.png)][inventory]
+[Factsheet Map reports][factsheet-map] show a hierarchy of one type of factsheet.
+
+[![Landscape reports](../assets/images/landscape-thumbnail.png)][landscape]
+
+[Landscape reports][landscape] show one type of factsheet within the hierarchy of another. 
+
+[![Matrix reports](../assets/images/matrix-thumbnail.png)][matrix]
+
+[Matrix reports][matrix] show one type of factsheet within a matrix of other factsheet types or time.
+
+[![Roadmap reports](../assets/images/roadmap-thumbnail.png)][roadmap]
+
+[Roadmap reports][roadmap] show the lifecycle of factsheets over time. 
+
+[![Interface Circle Map report](../assets/images/interface-circle-map-thumbnail.png)][interface]
+
+The [Interface Circle Map][interface] shows...
+
+[![Data Flow diagram](../assets/images/data-flow-thumbnail.png)][data-flow]
+
+[Data Flow diagrams][data-flow] are drawn to show...
+
+[![Location reports](../assets/images/location-thumbnail.png)][location]
+
+[Location reports][location] show a geographic map of where user groups or IT components are located.
+
+[![Cost reports](../assets/images/cost-thumbnail.png)][cost]
+
+[Cost reports][cost] total to costs associated with a business capability, project or provider.
+
+[![Portfolio reports](../assets/images/portfolio-thumbnail.png)][portfolio]
+
+[Portfolio reports][portfolio] show a grid of applications, projects or providers measured against two criteria.
+
+[![Lifecycle and Age reports](../assets/images/lifecycle-age-thumbnail.png)][lifecycle-age]
+
+[Lifecycle and Age reports][lifecycle-age] show how applications are added or removed from the application portfolio over time. 
+
+[![Inventory reports](../assets/images/inventory-thumbnail.png)][inventory]
+
+[Inventory reports][inventory] show a table of factsheets and they properties.
+
+<!-- Grid of report images 
+
+[![Factsheet Map reports](../assets/images/factsheet-map-thumbnail.png)][factsheet-map]
+[![Landscape reports](../assets/images/landscape-thumbnail.png)][landscape]
+[![Matrix reports](../assets/images/matrix-thumbnail.png)][matrix]
+[![Roadmap reports](../assets/images/roadmap-thumbnail.png)][roadmap]
+[![Interface Circle Map report](../assets/images/interface-circle-map-thumbnail.png)][interface]
+[![Data Flow diagram](../assets/images/data-flow-thumbnail.png)][data-flow]
+[![Location reports](../assets/images/location-thumbnail.png)][location]
+[![Cost reports](../assets/images/cost-thumbnail.png)][cost]
+[![Portfolio reports](../assets/images/portfolio-thumbnail.png)][portfolio]
+[![Lifecycle and Age reports](../assets/images/lifecycle-age-thumbnail.png)][lifecycle-age]
+[![Inventory reports](../assets/images/inventory-thumbnail.png)][inventory]
+
+-->
 
 <!-- links -->
 [factsheet-map]: factsheet-map/index.md "Factsheet Map reports"
@@ -42,4 +89,4 @@ LeanIX provides many different ways to view and filter data to answer key questi
 [cost]: cost/index.md "Cost reports"
 [lifecycle-age]: metrics/lifecycle-and-age-report.md "Lifecycle and Age reports"
 [portfolio]: metrics/index.md "Portfolio reports"
-[inventory]: inventory/index.md "Inventory report"
+[inventory]: inventory/index.md "Inventory reports"
