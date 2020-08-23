@@ -7,9 +7,9 @@ site_description: >-
   
 # GitHub Repository displays github details in header 
 #repo_url: https://github.com/Stephen-Gates/report-gallery
-#repo_name: Stephen-Gates/report-gallery
+#repo_name: " "
 # Adds pen to top of content and links to edit_uri. Link appends index.md to the uri. Can't link to right location after published
-  #edit_uri: ""
+#edit_uri: edit/master/docs/
 
 # Copyright
 copyright: Copyright &copy; 2020 LeanIX Report Gallery - CC BY-SA 4.0
@@ -17,6 +17,9 @@ copyright: Copyright &copy; 2020 LeanIX Report Gallery - CC BY-SA 4.0
 # Configuration
 theme:
   name: material
+  # Insiders
+  #name: null  
+    #custom_dir: mkdocs-material/material
   palette:
     scheme: leanix
   font:
@@ -26,6 +29,8 @@ theme:
   favicon: assets/images/favicon.png
   #features:
     #- tabs
+    # Insiders
+    #- search.highlight
   custom_dir: overrides 
 # if you use edit_uri then default icon appears!    
   icon:
@@ -44,12 +49,12 @@ extra:
     #- icon: fontawesome/brands/creative-commons
       #link: /about/licence 
       #name: Licence for LeanIX Report Gallery
-    #- icon: fontawesome/brands/twitter
-      #link: https://twitter.com/SGatesHQ
-      #name: SGatesHQ on twitter
-    #- icon: fontawesome/brands/linkedin
-      #link: https://www.linkedin.com/in/sdgates/ 
-      #name: Stephen Gates on LinkedIn
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/SGatesHQ
+      name: SGatesHQ on twitter
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/sdgates/ 
+      name: Stephen Gates on LinkedIn
     - icon: fontawesome/brands/github
       link: https://github.com/Stephen-Gates/report-gallery
       name: LeanIX Report Gallery on GitHub  
@@ -57,7 +62,7 @@ extra:
       #link: https://citadelgroup.com.au/eaaas/
       #name: Request a report   
     #- icon: fontawesome/solid/pen
-      #link: /about/index
+      #link: 
       #name: Contribute to LeanIX Report Gallery
    
 # Extensions  
@@ -82,6 +87,13 @@ markdown_extensions:
 extra_javascript:
   - https://cdnjs.cloudflare.com/ajax/libs/tablesort/5.2.1/tablesort.min.js
   - javascripts/tables.js
+
+# Insiders
+#plugins:
+  #- search
+
+  
+
   
 # Google Analytics
 # google_analytics:

@@ -9,6 +9,11 @@
 .external-link {
   color: #C1CDDF;
 }
+
+.edit {
+  color: #c0c0c0;
+}
+
 .twitter {
   color: #1DA1F2;
 }
@@ -30,6 +35,11 @@
   animation: heart 1000ms 3;
   color: #FE6690;
 }
+
+.pink {
+  color: #FE6690;
+}
+
 
 .check-circle {
   color: #33CC58;

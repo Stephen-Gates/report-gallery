@@ -19,10 +19,11 @@ The LeanIX Report Gallery project:
 
 ## Contact
 
-- [Stephen Gates][LinkedIn] :fontawesome-brands-linkedin:{: .linkedin } 
-
 - [@SGatesHQ][Twitter] :fontawesome-brands-twitter:{: .twitter } 
+- [Stephen Gates][LinkedIn] :fontawesome-brands-linkedin:{: .linkedin } 
+- [Stephen-Gates][GitHub] :fontawesome-brands-github: 
 
 
 [LinkedIn]: https://www.linkedin.com/in/sdgates/ "Stephen Gates on LinkedIn"
 [Twitter]: https://twitter.com/SGatesHQ "Stephen Gates on Twitter" 
+[GitHub]: https://github.com/Stephen-Gates/report-gallery "Stephen Gates on GitHub"

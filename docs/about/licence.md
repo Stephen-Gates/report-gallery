@@ -4,7 +4,7 @@ title: Licence
 
 # Licence, Attribution and Disclaimer
 
-## Licence :fontawesome-brands-creative-commons: :fontawesome-brands-creative-commons-by: :fontawesome-brands-creative-commons-sa:
+## Licence 
 
 Except where otherwise noted, all material presented on this site is provided under a [Creative Commons Attribution Share-alike 4.0 licence](https://creativecommons.org/licenses/by-sa/4.0/) - CC BY-SA 4.0 :octicons-link-external-16:{: .external-link }
 

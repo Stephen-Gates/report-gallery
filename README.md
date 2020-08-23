@@ -25,3 +25,7 @@ Build `$ mkdocs build` creates html files in \site
 Deploy `$ mkdocs gh-deploy` 
 
 Go to https://stephen-gates.github.io/report-gallery/site/ to view the published site (there may be a small delay before the updates appear)
+
+Keep things up-to-date:
+
+`$ pip3 install --upgrade mkdocs-material`

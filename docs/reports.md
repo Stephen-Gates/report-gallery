@@ -2,9 +2,11 @@
 title: Types of reports
 ---
 
+<!--
 ??? note "Work in progress"  
     - Images needed. Include report type in image so no caption is needed so you have a grid of images.
     - Take inspiration for clickable images from the [Reshape your IT with 24 key Enterprise Architecture Views](https://www.leanix.net/en/download/reshape-your-it-with-24-key-enterprise-architecture-viewpoints) and [24 Key Enterprise Architecture Views for the Financial Services Industry](https://www.leanix.net/en/download/24-enterprise-architecture-views-financial-services)posters. Missing image for Factsheet Map report.
+-->
 
 LeanIX provides many different ways to view and filter data to answer key questions. 
 
@@ -36,11 +38,11 @@ LeanIX provides many different ways to view and filter data to answer key questi
 
 [![Interface Circle Map report](../assets/images/interface-circle-map-thumbnail.png)][interface]
 
-The [Interface Circle Map][interface] shows...
+The [Interface Circle Map][interface] shows a high-level view of interfaces between applications in the portfolio.
 
 [![Data Flow diagram](../assets/images/data-flow-thumbnail.png)][data-flow]
 
-[Data Flow diagrams][data-flow] are drawn to show...
+[Data Flow diagrams][data-flow] are drawn to show interfaces between selected applications.
 
 [![Location reports](../assets/images/location-thumbnail.png)][location]
 
@@ -56,11 +58,11 @@ The [Interface Circle Map][interface] shows...
 
 [![Lifecycle and Age reports](../assets/images/lifecycle-age-thumbnail.png)][lifecycle-age]
 
-[Lifecycle and Age reports][lifecycle-age] show how applications are added or removed from the application portfolio over time. 
+[Lifecycle and Age reports][lifecycle-age] show how applications are added or removed from the portfolio over time. 
 
 [![Inventory reports](../assets/images/inventory-thumbnail.png)][inventory]
 
-[Inventory reports][inventory] show a table of factsheets and they properties.
+[Inventory reports][inventory] show a table of factsheets and their properties.
 
 <!-- Grid of report images 
 

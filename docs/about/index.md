@@ -2,9 +2,9 @@
 title: Contribute
 ---
 
-# Suggest a change :fontawesome-solid-pen:
+# Suggest a change 
 
-**Thanks for being here** :fontawesome-solid-heart:{: .heart } 
+Thanks for being here :fontawesome-regular-heart:{: .pink }  
 
 You can suggest a change by contacting us or contribute using GitHub.
 
@@ -24,7 +24,10 @@ Make sure you have permission to share the submitted content.
 1. your name and/or organisation name as you'd like it to appear on the [contributors](contributors.md) page. Submissions can be anonymous.
 
 ## Contribute using GitHub
+<!--
+You can edit directly in GitHub by using the :fontawesome-solid-pen:{: .edit } icon at the top of each page. 
+-->
 
-You can [raise issues](https://github.com/Stephen-Gates/report-gallery/issues) :octicons-link-external-16:{: .external-link } or submit pull requests via [our GitHub repository][GitHub] :octicons-link-external-16:{: .external-link } 
+[Raise issues](https://github.com/Stephen-Gates/report-gallery/issues) :octicons-link-external-16:{: .external-link } or submit pull requests via [our GitHub repository][GitHub] :octicons-link-external-16:{: .external-link } 
 
 [GitHub]: https://github.com/Stephen-Gates/report-gallery "Stephen-Gates/report-gallery"
