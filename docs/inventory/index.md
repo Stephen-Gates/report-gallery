@@ -12,7 +12,7 @@ title: "Inventory reports"
 
 The Inventory report shows a table of information about one or more factsheet types. 
 
-[Placeholder](https://dummyimage.com/320x240/eee/aaa) 
+![Placeholder](../assets/images/inventory-thumbnail.png) 
 
 <!-- 
 ![Caption](https://www.leanix.net/hubfs/2019-LX-Website/Product/UC%20-%20IntArch/ia-customer-data-8-Col-XL.svg){: align=left }

@@ -53,9 +53,9 @@ extra:
     - icon: fontawesome/brands/github
       link: https://github.com/Stephen-Gates/report-gallery
       name: LeanIX Report Gallery on GitHub  
-    - icon: material/lightbulb-on-outline
-      link: https://citadelgroup.com.au/eaaas/
-      name: Request a report   
+    #- icon: material/lightbulb-on-outline
+      #link: https://citadelgroup.com.au/eaaas/
+      #name: Request a report   
     #- icon: fontawesome/solid/pen
       #link: /about/index
       #name: Contribute to LeanIX Report Gallery

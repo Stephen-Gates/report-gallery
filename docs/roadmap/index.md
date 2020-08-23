@@ -8,7 +8,7 @@ title: "Roadmap reports"
 
 The Roadmap report shows a Gnatt chart...
 
-![Placeholder](https://dummyimage.com/320x240/eee/aaa) 
+![Placeholder](../assets/images/roadmap-thumbnail.png) 
 
 There are three types of reports :
 

@@ -7,7 +7,7 @@ title: "Data Flow diagram"
 
 # Data Flow diagram
 
-![Placeholder](https://dummyimage.com/800x450/eee/aaa) 
+![Placeholder](../assets/images/data-flow-thumbnail.png) 
 
 <!--
 ![](https://www.leanix.net/hubfs/2019-LX-Website/Product/UC%20-%20IntArch/ia-information-flow-8-Col-XL.svg)

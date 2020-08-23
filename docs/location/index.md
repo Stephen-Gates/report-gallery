@@ -8,7 +8,7 @@ title: "Location reports"
 
 Location reports show a geographic map overlaid (by Country or location) associated with either the User Group or IT Component.
 
-![Placeholder](https://dummyimage.com/320x240/eee/aaa) 
+![Placeholder](../assets/images/location-thumbnail.png) 
 
 There are three reports: 
 

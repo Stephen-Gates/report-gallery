@@ -7,7 +7,7 @@ title: "Factsheet Map reports"
 
 The Factsheet Map report shows a hierarchy for one factsheet type. 
 
-![Placeholder](https://dummyimage.com/320x240/eee/aaa) 
+![Placeholder](../assets/images/factsheet-map-thumbnail.png) 
 
 There are five reports: 
 

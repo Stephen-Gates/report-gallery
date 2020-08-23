@@ -24,11 +24,11 @@ LeanIX provides many different ways to view and filter data to answer key questi
 [![Matrix](../assets/images/matrix-thumbnail.png)][matrix]
 [![Roadmap](../assets/images/roadmap-thumbnail.png)][roadmap]
 [![Interface](../assets/images/interface-circle-map-thumbnail.png)][interface]
-[![Data Flow](../assets/images/data-flow-thumbnail.png)][interface]
+[![Data Flow](../assets/images/data-flow-thumbnail.png)][data-flow]
 [![Location](../assets/images/location-thumbnail.png)][location]
 [![Cost](../assets/images/cost-thumbnail.png)][cost]
 [![Portfolio](../assets/images/portfolio-thumbnail.png)][portfolio]
-[![Lifecycle and Age](../assets/images/lifecycle-age-thumbnail.png)][metrics]
+[![Lifecycle and Age](../assets/images/lifecycle-age-thumbnail.png)][lifecycle-age]
 [![Inventory](../assets/images/inventory-thumbnail.png)][inventory]
 
 <!-- links -->
@@ -37,7 +37,8 @@ LeanIX provides many different ways to view and filter data to answer key questi
 [matrix]: matrix/index.md "Matrix reports"
 [roadmap]: roadmap/index.md "Roadmap reports"
 [location]: location/index.md "Location reports"
-[interface]: interface/index.md "Interface reports"
+[interface]: interface/interface-circle-map-report.md "Interface Circle Map report"
+[data-flow]: interface/data-flow-diagram.md "Data Flow diagram"
 [cost]: cost/index.md "Cost reports"
 [lifecycle-age]: metrics/lifecycle-and-age-report.md "Lifecycle and Age reports"
 [portfolio]: metrics/index.md "Portfolio reports"

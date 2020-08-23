@@ -13,7 +13,7 @@ The Interface Circle Map report answers the question:
 ***[What is the question?](../questions.md#interfaces)***
 
 
-![Placeholder](https://dummyimage.com/800x450/eee/aaa) 
+![Placeholder](../assets/images/interface-circle-map-thumbnail.png) 
 
 <!--
 ![](https://www.leanix.net/hubfs/2019%20LX%20Website/General/Illu/ia-interface-circle-8-Col-XL.svg)

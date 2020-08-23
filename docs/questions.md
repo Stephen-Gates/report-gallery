@@ -72,7 +72,9 @@ Title: "Questions you can answer with LeanIX reports"
     1. applications added, retired, change in status, renamed, change in roadmap dates, change in intent, etc.
     1. resource classification change
     1. lifecycle date changes (new Active, new Phase-out, End-of-life)
-1. Where are applications used?^4^    
+1. Where are applications used?
+1. [How many Applications are Active or being Phased out each month?](/metrics/lifecycle-and-age-report.md)
+1. [How many Applications became Active each year?](/metrics/lifecycle-and-age-report.md)
     
 
 ## Data

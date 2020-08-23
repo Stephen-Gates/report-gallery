@@ -8,7 +8,7 @@ title: "Cost reports"
 
 The Cost reports show... 
 
-![Placeholder](https://dummyimage.com/320x240/eee/aaa) 
+![Placeholder](../assets/images/cost-thumbnail.png) 
 
 
 There are three reports: 

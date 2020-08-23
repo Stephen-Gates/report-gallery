@@ -6,7 +6,7 @@ title: "Landscape reports"
 
 The Landscape report shows within a hierarchy of one factsheet type, another factsheet type.
 
-[Placeholder](https://dummyimage.com/320x240/eee/aaa) 
+![Placeholder](../assets/images/landscape-thumbnail.png) 
 
 <!--
 ![](https://www.leanix.net/hubfs/landscape-functionalfit-8-Col-XL.svg)
