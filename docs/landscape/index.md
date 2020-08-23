@@ -1,8 +1,8 @@
 ---
-title: "Landscape Reports"
+title: "Landscape reports"
 ---
 
-# Landscape Reports
+# Landscape reports
 
 The Landscape report shows within a hierarchy of one factsheet type, another factsheet type.
 

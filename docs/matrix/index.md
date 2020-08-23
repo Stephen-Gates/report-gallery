@@ -1,14 +1,14 @@
 ---
-title: "Matrix Reports"
+title: "Matrix reports"
 ---
 
 !!! note "Work in progress"
 
-# Matrix Reports
+# Matrix reports
 
 The Matrix report shows...
 
-![Placeholder](https://dummyimage.com/320x240/eee/aaa) 
+![Placeholder](../assets/images/matrix-thumbnail.png) 
 
 There are three types of reports:
 

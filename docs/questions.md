@@ -11,42 +11,44 @@ Title: "Questions you can answer with LeanIX reports"
 
 ## User Groups
 
-1. [What user groups do we have?](/inventory)
-1. [How are user groups organised in a hierarchy?](/factsheet-map/#user-group) 
-1. [Who uses what applications?](/landscape/application-landscape-reports)^1^
+1. [What user groups are part of, or interact with, our organisation?](/inventory)
+1. [How are user groups organised?](/factsheet-map/#user-group) 
+1. [What user groups use which applications?](/landscape/application-landscape-reports)
     1. Who is impacted when an application fails? 
-1. ~~[Who uses what applications to provide a business capability?](/matrix/application-matrix-reports/#business-capability-user-group)~~ belongs in Application section
-1. ~~[Who uses what applications within a process?](/matrix/application-matrix-reports/#process-user-group)~~  belongs in Application section
-1. ~~[How will user group's use of applications change over time?](/matrix/application-matrix-reports/#time-user-group)~~  belongs in Application section
-1. [Where are user groups using applications located?](/location/application-usage-report)
+1. [Where are users of applications located?](/location/application-usage-report)
+    
+<!--    
+1. [Who uses which applications to provide a business capability?](/matrix/application-matrix-reports/#business-capability-user-group)
+1. [Who uses which applications within a process?](/matrix/application-matrix-reports/#process-user-group)
+1. [How will user groups use of applications change over time?](/matrix/application-matrix-reports/#time-user-group)
+-->
+
 
 ## Business Capabilities
 
 1. [What business capabilities do we have?](/inventory) 
 1. [What business capabilities support our business?](/factsheet-map/#business-capability)
-1. [Which business capabilities are supported by applications?](/landscape/application-landscape-reports)^2^ 
-1. ~~[Who uses what applications to provide a business capability?](/matrix/application-matrix-reports/#business-capability-user-group)* reword to have bc first? do we allow duplicate?~~ 
-1. ~~[Which business capabilities, supported by an application, are used in a process?](/matrix/application-matrix-reports/#business-capability-user-group)~~
-1. ~~[How will the support of business capabilities by applications change over time?](/matrix/application-matrix-reports/#time-business-capability)~~
-1. Which applications need to improve to met the desired business capability maturity level? Is this a Functional Fitness question? 
+1. [Which business capabilities are supported by applications?](/landscape/application-landscape-reports)
+    1. Which business capabilities are impacted when an application fails? 
 1. [What is the IT cost of supporting a business capability?](/cost/business-capability-cost-report)
 
 ## Processes
 
 1. [What Processes do we have?](/inventory)
-1. [How are our processes organised in hierarchies?](/factsheet-map/#user-group)
-1. [What processes are supported by which applications?](/landscape/application-landscape-reports)^3^
+1. [Who are the stakeholders involved in each process?](/inventory)
+1. [How are our processes organised?](/factsheet-map/#user-group)
+1. [What processes are supported by which applications?](/landscape/application-landscape-reports)
     1. What processes are impacted when an application fails?
 1. [Which applications support a business process?](/landscape/application-landscape-reports)
-1. [Who are the stakeholders involved in each process?](/inventory)
 
 ## Applications
 
 1. [What applications do we have?](/inventory)
-1. [What applications support which user groups?](/landscape/application-landscape-reports)^1^
-1. [What applications support which business capabilities?](/landscape/application-landscape-reports)^2^ 
+1. [Who are the stakeholders involved in each application?](/inventory)
+1. [What applications support which user groups?](/landscape/application-landscape-reports)
+1. [What applications support which business capabilities?](/landscape/application-landscape-reports)
     1. Can applications supporting the same business capability be rationalised?
-1. [What applications support which processes?](/landscape/application-landscape-reports)^3^
+1. [What applications support which processes?](/landscape/application-landscape-reports)
 1. [What applications are at risk due to obsolescent underlying IT components?](/matrix/application-matrix-reports/) 
 1. [What applications are changed or impacted by which projects?]() - free draw, project roadmap with applications as children
 1. [What applications are used by a user group to support a business capability?](/matrix/application-matrix-reports/#business-capability-user-group)
@@ -70,8 +72,8 @@ Title: "Questions you can answer with LeanIX reports"
     1. applications added, retired, change in status, renamed, change in roadmap dates, change in intent, etc.
     1. resource classification change
     1. lifecycle date changes (new Active, new Phase-out, End-of-life)
-
-
+1. Where are applications used?^4^    
+    
 
 ## Data
 
@@ -134,7 +136,6 @@ Title: "Questions you can answer with LeanIX reports"
 1. Is there an opportunity to reduce the number of providers we deal with by changing technologies](/matrix/it-component-matrix-reports/#technical-stack-provider)
 1. [What is the aggregate IT spend by provider?](../cost/provider-cost-report/) 
 1. [Which provider relationships need closer management?](/metrics/provider-portfolio-report)
-]
 
 <!--
 
@@ -175,22 +176,6 @@ BTM
 
 1. 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 -->
+
+<!-- Links -->

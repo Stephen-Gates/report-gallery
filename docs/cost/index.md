@@ -1,10 +1,10 @@
 ---
-title: "Cost Reports"
+title: "Cost reports"
 ---
 
 !!! note "Work in progress"
     
-# Cost Reports
+# Cost reports
 
 The Cost reports show... 
 

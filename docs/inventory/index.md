@@ -1,5 +1,5 @@
 ---
-title: "Inventory Reports"
+title: "Inventory reports"
 ---
 
 ??? note "Work in progress"
@@ -8,7 +8,7 @@ title: "Inventory Reports"
       - subscription
       - data classification
 
-# Inventory Reports
+# Inventory reports
 
 The Inventory report shows a table of information about one or more factsheet types. 
 

@@ -29,7 +29,7 @@ An acceptable shortened attribution is:
 
 ### Attribution for derived works
 
-This work, "[*Your works title here*]", is a derivative of [Provider Cost Reports](../cost/provider-cost-report.md) from the [LeanIX Report Gallery](../index.md) used under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). "[*Your works title here*]" is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) by [*Your name here*]
+This work, "[*Your works title here*]", is a derivative of [Provider Cost reports](../cost/provider-cost-report.md) from the [LeanIX Report Gallery](../index.md) used under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). "[*Your works title here*]" is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) by [*Your name here*]
 
 ## Notice of Non-Affiliation and Disclaimer
 

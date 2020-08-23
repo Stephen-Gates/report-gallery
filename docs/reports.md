@@ -27,8 +27,8 @@ LeanIX provides many different ways to view and filter data to answer key questi
 [![Data Flow](../assets/images/data-flow-thumbnail.png)][interface]
 [![Location](../assets/images/location-thumbnail.png)][location]
 [![Cost](../assets/images/cost-thumbnail.png)][cost]
-[![Metrics](../assets/images/portfolio-thumbnail.png)][metrics]
-[![Metrics](../assets/images/lifecycle-age-thumbnail.png)][metrics]
+[![Portfolio](../assets/images/portfolio-thumbnail.png)][portfolio]
+[![Lifecycle and Age](../assets/images/lifecycle-age-thumbnail.png)][metrics]
 [![Inventory](../assets/images/inventory-thumbnail.png)][inventory]
 
 <!-- links -->
@@ -39,6 +39,6 @@ LeanIX provides many different ways to view and filter data to answer key questi
 [location]: location/index.md "Location reports"
 [interface]: interface/index.md "Interface reports"
 [cost]: cost/index.md "Cost reports"
-[metrics]: metrics/lifecycle-and-age-report.md "Metrics reports"
+[lifecycle-age]: metrics/lifecycle-and-age-report.md "Lifecycle and Age reports"
 [portfolio]: metrics/index.md "Portfolio reports"
 [inventory]: inventory/index.md "Inventory report"

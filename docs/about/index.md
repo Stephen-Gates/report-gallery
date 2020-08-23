@@ -6,7 +6,7 @@ title: Contribute
 
 **Thanks for being here** :fontawesome-solid-heart:{: .heart } 
 
-You can [suggest a change](#suggest-a-change) by contacting us or [contribute using GitHub](#contribute-using-github).
+You can suggest a change by contacting us or contribute using GitHub.
 
 ## Before you start
 

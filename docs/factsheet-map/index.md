@@ -1,8 +1,8 @@
 ---
-title: "Factsheet Map Reports"
+title: "Factsheet Map reports"
 ---
 
-# Factsheet Map Reports
+# Factsheet Map reports
 ## Overview
 
 The Factsheet Map report shows a hierarchy for one factsheet type. 
@@ -29,7 +29,7 @@ The Business Capability Factsheet Map report answers the question:
 
 ![Business Capability Factsheet Map report](../assets/images/factsheet-map-business-capability.png)
 
-*Factsheet Map Report for Business Capabilities, Lifecycle view, Wrapped layout, Editing enabled.*
+*Factsheet Map report for Business Capabilities, Lifecycle view, Wrapped layout, Editing enabled.*
 
 ### Requirements
 
@@ -156,7 +156,7 @@ The Process Factsheet Map report answers the question:
 
 ![Process Factsheet Map report](../assets/images/factsheet-map-process.png)
 
-*Factsheet Map Report for Process, Lifecycle view.*
+*Factsheet Map report for Processes, Lifecycle view.*
 
 ### Requirements
 

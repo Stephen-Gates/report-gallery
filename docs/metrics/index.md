@@ -1,14 +1,14 @@
 ---
-title: "Metrics Reports"
+title: "Metrics reports"
 ---
 
 !!! note "Work in progress"
 
-# Metrics Reports
+# Metrics reports
 
 The Metrics reports show...
 
-![Placeholder](https://dummyimage.com/320x240/eee/aaa) 
+![Placeholder](../assets/images/portfolio-thumbnail.png) 
 
 <!--
 ![](https://www.leanix.net/hubfs/2019%20LX%20Website/General/Illu/bubblechart-8-Col-XL.svg)

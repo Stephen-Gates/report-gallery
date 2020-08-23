@@ -1,12 +1,12 @@
 ---
-title: "Interface Reports"
+title: "Interface reports"
 ---
 
 ??? note "Work in progress"
     - What do the reports show?
     - What is the question?
 
-# Interface Reports
+# Interface reports
 
 
 ![Placeholder](https://dummyimage.com/320x240/eee/aaa) 
