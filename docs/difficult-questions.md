@@ -22,7 +22,7 @@ Business Capabilities used in a Processes will only appear if they a related via
 As a work-around:
 
 - create an Application called "Manual" to relate the Business Capabilities to the Process. 
-- use the Application Matrix report to show the relationship
+- use the [Application Matrix report](/matrix/application-matrix-reports/#process-business-capability) to show the relationship.
 
 ## Processes
 
@@ -32,8 +32,8 @@ Processes performed by a User Group will only appear if they a related via an Ap
 
 As a work-around:
 
-- create an Application called "Manual" to relate the Process to the User Group
-- use the Application Matrix report to show the relationship (horizontal axis: Process; Vertical axis: User Group)
+- create an Application called "Manual" to relate the Process to the User Group.
+- use the [Application Matrix report](/matrix/application-matrix-reports/#process-user-group) to show the relationship.
 
 <!--
 

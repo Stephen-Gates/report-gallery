@@ -91,8 +91,10 @@ extra_javascript:
 # Page tree - only 2 levels allowed
 nav:
   - Home: index.md
-  - Types of reports: reports.md
-  - Questions you can answer: questions.md
+  #- Types of reports: reports.md
+  - Reports: reports.md
+  #- Questions you can answer: questions.md
+  - Questions: questions.md
   - Factsheet Map: factsheet-map/index.md
   - Landscape: 
     - Landscape reports: landscape/index.md
@@ -130,7 +132,7 @@ nav:
     - Provider Portfolio: metrics/provider-portfolio-report.md
     - Lifecycle and Age: metrics/lifecycle-and-age-report.md
   - Inventory : inventory/index.md  
-  - Difficult questions: cant-answer.md
+  - Difficult questions: difficult-questions.md
   - About:
     - Suggest a change: about/index.md
     - Contributors: about/contributors.md
