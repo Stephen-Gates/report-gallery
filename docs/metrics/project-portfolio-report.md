@@ -52,7 +52,7 @@ The views available are:
 
 ## Filters
 
-Use Filters to focus on the required areas and timeframes
+Use filters to focus on the required areas and timeframes.
 
 <!--
 #### Editing

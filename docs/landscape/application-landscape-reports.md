@@ -70,7 +70,7 @@ Specific view available are:
 
 ### Filters
 
-Use Filters to focus on the required Business Capabilities.
+Use filters to focus on the required Business Capabilities.
 
 --- 
 
@@ -113,7 +113,7 @@ Specific view available are:
 
 ### Filters
 
-Use Filters to focus on the required Processes.
+Use filters to focus on the required Processes.
 
 --- 
 
@@ -157,4 +157,4 @@ Specific view available are:
 
 ### Filters
 
-Use Filters to focus on the required User Groups.
+Use filters to focus on the required User Groups.

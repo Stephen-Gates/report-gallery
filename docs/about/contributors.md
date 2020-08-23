@@ -12,9 +12,10 @@ Thanks to all our contributors:
 
 ## Acknowledgements
 
-We acknowledge the great work of others, especially [LeanIX](https://www.leanix.net/en/) and the LeanIX community. We are inspired by:
+We acknowledge the great work of others, especially LeanIX and the LeanIX community. We are inspired by:
 
-- [LeanIX Resources](https://www.leanix.net/en/resources/download)
-- [LeanIX User docs](https://docs.leanix.net/)
-- [LeanIX Technical docs](https://dev.leanix.net/docs)
-- [LeanIX Videos on YouTube](https://www.youtube.com/channel/UCuQgcdrp4Pf9-6ygAPC0PYA)
+- [LeanIX](https://www.leanix.net/en/) :octicons-link-external-16:{: .external-link } 
+- [LeanIX Resources](https://www.leanix.net/en/resources/download) :octicons-link-external-16:{: .external-link } 
+- [LeanIX User docs](https://docs.leanix.net/) :octicons-link-external-16:{: .external-link } 
+- [LeanIX Technical docs](https://dev.leanix.net/docs) :octicons-link-external-16:{: .external-link } 
+- [LeanIX Videos on YouTube](https://www.youtube.com/channel/UCuQgcdrp4Pf9-6ygAPC0PYA) :octicons-link-external-16:{: .external-link } 

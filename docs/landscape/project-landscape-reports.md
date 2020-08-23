@@ -62,7 +62,7 @@ Specific view available are:
 
 ### Filters
 
-Use Filters to focus on the required projects.
+Use filters to focus on the required projects.
 
 --- 
 
@@ -105,7 +105,7 @@ Specific view available are:
 
 ### Filters
 
-Use Filters to focus on the required projects.
+Use filters to focus on the required projects.
 
 --- 
 
@@ -149,4 +149,4 @@ Specific view available are:
 
 ### Filters
 
-Use Filters to focus on the required projects.
+Use filters to focus on the required projects.

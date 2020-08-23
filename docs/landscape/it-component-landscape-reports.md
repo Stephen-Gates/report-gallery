@@ -65,7 +65,7 @@ Specific view available are:
 
 ### Filters
 
-Use Filters to focus on the required IT Component.
+Use filters to focus on the required IT Component.
 
 --- 
 
@@ -108,4 +108,4 @@ Specific view available are:
 
 ### Filters
 
-Use Filters to focus on the required IT Component.
+Use filters to focus on the required IT Component.

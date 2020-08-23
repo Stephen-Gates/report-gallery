@@ -77,7 +77,7 @@ As your LeanIX Administrator has defined for the Business Capability factsheet
 
 ### Filters
 
-Use Filters to focus on the required Business Capabilities
+Use filters to focus on the required Business Capabilities
 
 ### Editing
 
@@ -140,7 +140,7 @@ As your LeanIX Administrator has defined for the Data Object factsheet
 
 ### Filters
 
-Use Filters to focus on the required Data Object
+Use filters to focus on the required Data Object
 
 ### Editing
 
@@ -205,7 +205,7 @@ As your LeanIX Administrator has defined for the Process factsheet
 
 ### Filters
 
-Use Filters to focus on the required Business Capabilities
+Use filters to focus on the required Business Capabilities
 
 ### Editing
 
@@ -265,7 +265,7 @@ The views available will vary based on the chosen factsheet type. Choose from:
 
 ### Filters
 
-Use Filters to focus on the required Technical Stack categories.
+Use filters to focus on the required Technical Stack categories.
 
 ### Editing
 
@@ -331,7 +331,7 @@ As your LeanIX Administrator has defined for the User Group factsheet
 
 ### Filters
 
-Use Filters to focus on the required Business Capabilities
+Use filters to focus on the required Business Capabilities
 
 ### Editing
 

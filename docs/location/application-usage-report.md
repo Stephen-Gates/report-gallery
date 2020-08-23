@@ -67,7 +67,7 @@ Use **Zoom** to pan and zoom to a geographic area:
 
 ## Filters
 
-Use Filters to focus on the required ???.
+Use filters to focus on the required ???.
 
 <!--
 ## Editing

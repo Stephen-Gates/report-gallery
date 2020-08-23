@@ -6,6 +6,9 @@
   --md-primary-fg-color--dark:  #033AAA;
 }
 
+.external-link {
+  color: #C1CDDF;
+}
 .twitter {
   color: #1DA1F2;
 }

@@ -18,13 +18,13 @@ Make sure you have permission to share the submitted content.
 
 [Contact us](about.md) about your improvement idea. Report contributions should include:
 
-1. a description of the report, ideally formatted using [Markdown](https://commonmark.org/help/). 
+1. a description of the report, ideally formatted using [Markdown](https://commonmark.org/help/) :octicons-link-external-16:{: .external-link } 
 1. one or more full screen images of the report in .png format.
 1. the category for the report.
 1. your name and/or organisation name as you'd like it to appear on the [contributors](contributors.md) page. Submissions can be anonymous.
 
 ## Contribute using GitHub
 
-You can [raise issues](https://github.com/Stephen-Gates/report-gallery/issues) or submit pull requests via [our GitHub repository][GitHub].
+You can [raise issues](https://github.com/Stephen-Gates/report-gallery/issues) :octicons-link-external-16:{: .external-link } or submit pull requests via [our GitHub repository][GitHub] :octicons-link-external-16:{: .external-link } 
 
 [GitHub]: https://github.com/Stephen-Gates/report-gallery "Stephen-Gates/report-gallery"

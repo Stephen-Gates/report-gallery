@@ -48,7 +48,7 @@ The views available are:
 
 #### Filters
 
-Use Filters to focus on the required Projects.
+Use filters to focus on the required Projects.
 
 <!--
 #### Editing
@@ -96,7 +96,7 @@ Specific view available are:
 
 #### Filters
 
-Use Filters to focus on the required Projects.
+Use filters to focus on the required Projects.
 
 --- 
 
@@ -138,7 +138,7 @@ Specific view available are:
 
 #### Filters
 
-Use Filters to focus on the required Projects.
+Use filters to focus on the required Projects.
 
 --- 
 
@@ -180,7 +180,7 @@ Specific view available are:
 
 #### Filters
 
-Use Filters to focus on the required Projects.
+Use filters to focus on the required Projects.
 
 
 --- 
@@ -223,7 +223,7 @@ Specific view available are:
 
 #### Filters
 
-Use Filters to focus on the required Projects.
+Use filters to focus on the required Projects.
 
 
 
@@ -267,4 +267,4 @@ Specific view available are:
 
 #### Filters
 
-Use Filters to focus on the required Projects.
+Use filters to focus on the required Projects.

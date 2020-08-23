@@ -49,7 +49,7 @@ The views available are:
 
 #### Filters
 
-Use Filters to focus on the required IT Components.
+Use filters to focus on the required IT Components.
 
 Consider adding a Tag to the IT Component to reflect the highest Data Classification of data it stores or processes. This will enable you to filter for IT Components that manage "Confidential&nbsp;(L-3)" or "Restricted&nbsp;(L-2)" data.
 
@@ -100,7 +100,7 @@ Specific view available are:
 
 #### Filters
 
-Specific Use Filters to focus on the required IT Components.
+Specific Use filters to focus on the required IT Components.
 
 --- 
 
@@ -143,7 +143,7 @@ Specific view available are:
 
 #### Filters
 
-Specific Use Filters to focus on the required IT Components.
+Specific Use filters to focus on the required IT Components.
 
 --- 
 
@@ -186,4 +186,4 @@ Specific view available are:
 
 #### Filters
 
-Specific Use Filters to focus on the required IT Components.
+Specific Use filters to focus on the required IT Components.

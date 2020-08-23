@@ -84,7 +84,7 @@ As your LeanIX Administrator has defined for the Business Capability factsheet
 
 ### Filters
 
-Use Filters to focus on the required application.
+Use filters to focus on the required application.
 
 ### Editing
 
@@ -189,7 +189,7 @@ As your LeanIX Administrator has defined for the Business Capability factsheet
 
 ### Filters
 
-Use Filters to focus on the required IT Components.
+Use filters to focus on the required IT Components.
 
 
 
@@ -233,7 +233,7 @@ Specific view available are:
 
 ### Filters
 
-Use Filters to focus on the required IT Components.
+Use filters to focus on the required IT Components.
 
 
 --- 
@@ -306,7 +306,7 @@ As your LeanIX Administrator has defined for the Business Capability factsheet
 
 ### Filters
 
-Use Filters to focus on the required IT Components.
+Use filters to focus on the required IT Components.
 
 
 --- 
@@ -383,7 +383,7 @@ As your LeanIX Administrator has defined for the Business Capability factsheet
 
 ### Filters
 
-Use Filters to focus on the required IT Components.
+Use filters to focus on the required IT Components.
 
 
 --- 
@@ -457,4 +457,4 @@ As your LeanIX Administrator has defined for the Business Capability factsheet
 
 ### Filters
 
-Use Filters to focus on the required IT Components.
+Use filters to focus on the required IT Components.

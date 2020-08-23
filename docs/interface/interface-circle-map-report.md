@@ -55,7 +55,7 @@ No tags are required for this report.
 
 ## Filters
 
-Use Filters to focus on the required Interfaces
+Use filters to focus on the required Interfaces
 
 <!--
 ## Editing
