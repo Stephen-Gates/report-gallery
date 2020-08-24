@@ -12,9 +12,9 @@ title: "Project Landscape reports"
 
 There are three Project Landscape reports that show the Project Landscape, within a hierarchy of:
 
-- [Business Capabilities]() - *What Projects impact Business Capabilities?*
-- [Processes]() - *What Projects impact Processes?*
-- [User Groups]() - *What Projects impact User Groups?*
+- [Business Capabilities](#business-capability) - *What Projects impact Business Capabilities?*
+- [Processes](#process) - *What Projects impact Processes?*
+- [User Groups](#user-group) - *What Projects impact User Groups?*
 
 ![Placeholder](https://dummyimage.com/800x450/eee/aaa)
 

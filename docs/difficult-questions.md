@@ -48,11 +48,14 @@ As a work-around:
 ## Interfaces
 
 1. ?
+--> 
 
 ## Projects 
 
-1. ?
+1. What applications will be changed by projects? - *(multiple projects changing the same application may create constraints)*
+1. Are any technology elements missing that are needed to support the proposed project portfolio? - *(unanswerable - human needed*)
 
+<!--
 ## IT Components
 
 1. ?
