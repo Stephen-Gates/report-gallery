@@ -2,11 +2,11 @@
 title: Types of reports
 ---
 
-<!--
+
 ??? note "Work in progress"  
-    - Images needed. Include report type in image so no caption is needed so you have a grid of images.
-    - Take inspiration for clickable images from the [Reshape your IT with 24 key Enterprise Architecture Views](https://www.leanix.net/en/download/reshape-your-it-with-24-key-enterprise-architecture-viewpoints) and [24 Key Enterprise Architecture Views for the Financial Services Industry](https://www.leanix.net/en/download/24-enterprise-architecture-views-financial-services)posters. Missing image for Factsheet Map report.
--->
+    - Images needed. 
+    - Include report type in image so page still works if images don't display 
+
 
 LeanIX provides many different ways to view and filter data to answer key questions. 
 

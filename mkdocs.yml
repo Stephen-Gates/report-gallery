@@ -6,10 +6,10 @@ site_description: >-
   Discover the questions you can answer using LeanIX reports.
   
 # GitHub Repository displays github details in header 
-#repo_url: https://github.com/Stephen-Gates/report-gallery
+repo_url: https://github.com/Stephen-Gates/report-gallery
 #repo_name: " "
 # Adds pen to top of content and links to edit_uri. Link appends index.md to the uri. Can't link to right location after published
-#edit_uri: edit/master/docs/
+edit_uri: edit/master/docs/
 
 # Copyright
 copyright: Copyright &copy; 2020 LeanIX Report Gallery - CC BY-SA 4.0

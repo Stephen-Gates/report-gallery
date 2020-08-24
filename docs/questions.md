@@ -4,19 +4,20 @@ Title: "Questions you can answer with LeanIX reports"
 
 ??? note "Work in progress"
     - This list needed to be rationalised and link to report pages.
+        - Decide if duplication is allow with question reported or re-phrased in another section
     - Try use:
-      - "Where" questions for location reports
-      - "How much" questions for cost reports
-      - "Who" for User Group reports
-      - "How" for hierarchies
-      - "When" for roadmaps or time matrix reports
-      - "What" first, then "Which"; 
-    - Focus on the factsheet part of the question with views as sub-questions  
+        - "Where" questions for location reports
+        - "How much" questions for cost reports
+        - "Who" for User Group reports
+        - "How" for hierarchies
+        - "When" for roadmaps or time matrix reports
+        - "What" first, then "Which"; 
+    - Focus on the factsheet part of the question first, with views as sub-questions  
     - Check question list against:
-      - [How to Answer the Top Questions of Enterprise Architecture Stakeholders](https://www.leanix.net/en/download/how-to-answer-the-top-questions-of-enterprise-architecture-stakeholders)
-      - [Smart Enterprise Architecture Governance in an Agile World](https://www.leanix.net/en/download/smart-ea-governance-in-an-agile-world)
-      -[24 Key Enterprise Architecture Views for the Financial Services Industry](https://www.leanix.net/en/download/24-enterprise-architecture-views-financial-services)
-      - [Reshape your IT with 24 Key Enterprise Architecture Views](https://www.leanix.net/en/download/reshape-your-it-with-24-key-enterprise-architecture-viewpoints) - doesn't have questions
+        - [How to Answer the Top Questions of Enterprise Architecture Stakeholders](https://www.leanix.net/en/download/how-to-answer-the-top-questions-of-enterprise-architecture-stakeholders)
+        - [Smart Enterprise Architecture Governance in an Agile World](https://www.leanix.net/en/download/smart-ea-governance-in-an-agile-world)
+        -[24 Key Enterprise Architecture Views for the Financial Services Industry](https://www.leanix.net/en/download/24-enterprise-architecture-views-financial-services)
+        - [Reshape your IT with 24 Key Enterprise Architecture Views](https://www.leanix.net/en/download/reshape-your-it-with-24-key-enterprise-architecture-viewpoints) - doesn't have questions
 
 # Questions you can answer with LeanIX reports
 
@@ -39,12 +40,11 @@ Title: "Questions you can answer with LeanIX reports"
 
 1. [What processes do we perform?](/inventory)
     1. Who are the stakeholders?
-1. [How are our processes grouped??](/factsheet-map/#user-group)
-1. [Which processes are supported by applications?](/landscape/application-landscape-reports) *(move to applications?)*
+1. [How are processes grouped??](/factsheet-map/#user-group)
+1. [Which processes are supported by applications?](/landscape/application-landscape-reports) 
     1. What processes are impacted when an application fails?
     1. Which applications are business critical in performing a process?
     1. [Which applications support a business process?](/landscape/application-landscape-reports)
-1. [What applications support which processes?](/landscape/application-landscape-reports)  *(move to applications?)*
 
 ## Applications
 
@@ -97,7 +97,7 @@ Title: "Questions you can answer with LeanIX reports"
     1. Who are the stakeholders?
     1. What is the data classification? 
 1. [How are data objects grouped?](/factsheet-map/#data-object) 
-1. [What applications manage or access data?](https://store.leanix.net/en/report-details/753b11a9-4e86-4fad-a840-f76341bad983/c7d772df-2988-4024-920f-fb732d95cedc) - *(Custom report)* 
+1. [What applications manage or access data?](https://store.leanix.net/en/report-details/753b11a9-4e86-4fad-a840-f76341bad983/c7d772df-2988-4024-920f-fb732d95cedc) :octicons-link-external-16:{: .external-link } 
     1. What applications manage or access sensitive data?
 1. [Where is data stored?](location/it-component-location-report)
     1. Is any sensitive data stored in other countries? i.e.  Is there a sovereignty risk?
@@ -136,15 +136,16 @@ Title: "Questions you can answer with LeanIX reports"
     1. What projects are implementing the technology roadmap?
 1. What are our technical standards (preferred product to perform a function)? IT Component landscape with resource classification view - not answering functional bit. Need resource classification between application and business capability
   1. Which are standard technologies and can we reuse a solution?
+1. What is the  our technical standards (preferred product to perform a function)? IT Component landscape with resource classification view - not answering functional bit. Need resource classification between application and business capability
 1. [Is there opportunity to consolidate technologies?](/landscape/it-component-landscape/) 
 1. How is an application hosted and how is this planned to evolve?
 
 
 ## Technical Stack
 
-1. [What technology categories do we use?](/inventory)
-1. [How are technology categories grouped to help classify IT components?](/factsheet-map/#technical-stack)
-1. [What IT components are preferred to use in a technology category?](/landscape/it-component-landscape/) 
+1. [What technology categories do we use to classify IT components?](/inventory)
+1. [How are technology categories grouped](/factsheet-map/#technical-stack)
+1. [What IT components are preferred to implement a technology category?](/landscape/it-component-landscape/) 
 
 
 ## Providers
