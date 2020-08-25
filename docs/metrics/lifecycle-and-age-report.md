@@ -10,8 +10,8 @@ title: "Lifecycle and Age report"
 
 The Lifecycle and Age report answers the questions:
 
->How many applications are active or are being phased out each year?
->How many applications became active each year?
+>- How many applications are active or are being phased out each year?
+>- How many applications became active each year?
 
 ![](../assets/images/lifecycle-age-active-view.png)
 
