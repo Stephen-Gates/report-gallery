@@ -1,21 +1,21 @@
 ---
-title: "Factsheet Map reports"
+title: "Factsheet Map report"
 ---
 
-# Factsheet Map reports
+# Factsheet Map report
 ## Overview
 
-The Factsheet Map report shows a hierarchy for one factsheet type. 
+The Factsheet Map report shows a hierarchy of one factsheet type. 
 
-![Placeholder](../assets/images/factsheet-map-thumbnail.png) 
+![Factsheet Map report](../assets/images/factsheet-map-thumbnail.png) 
 
-There are five reports: 
+The Factsheet Map report can be displayed as a:
 
-- [Business Capability Map](#business-capability) - *What business capabilities support our business?* 
-- [Data Object Map](#data-object) - *What data objects do we manage?*
-- [Process Map](#process) - *What processes support our business?*
-- [Technical Stack Map](#technical-stack) - *What is the technical stack used to classify our IT components?*
-- [User Group Map](#user-group) - *What user groups are part of, or interact with, our business?*
+- [Business Capability Map](#business-capability) - How are business capabilities grouped?
+- [Data Object Map](#data-object) - How are data objects grouped?
+- [Process Map](#process) - How are processes grouped?
+- [Technical Stack Map](#technical-stack) - How are technology categories grouped?
+- [User Group Map](#user-group) - How are user groups organised in a hierarchy?
 
 :material-arrow-down-circle:{: .store } The Factsheet Map report is a custom LeanIX report available in the [LeanIX Store](https://store.leanix.net/en/report-details/f7fd185e-10a5-4496-affe-8884f54de96d/749ef021-c59a-4fd1-8ae6-65e05dcf9bbd).
 

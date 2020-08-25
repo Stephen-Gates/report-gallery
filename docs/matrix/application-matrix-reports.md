@@ -96,7 +96,7 @@ This report can be edited
 
 This report answers the question:
 
-***[???](../questions.md#)***
+> What is the question?
 
 This is useful specifically for... 
 
@@ -199,7 +199,7 @@ Use filters to focus on the required IT Components.
 
 This report answers the question:
 
-***[???](../questions.md#)***
+> What is the question?
 
 This is useful specifically for... 
 
@@ -242,7 +242,7 @@ Use filters to focus on the required IT Components.
 
 This report answers the question:
 
-***[???](../questions.md#)***
+> What is the question?
 
 This is useful specifically for... 
 
@@ -315,7 +315,7 @@ Use filters to focus on the required IT Components.
 
 This Report Instance One name report answers the question:
 
-***[???](../questions.md#)***
+> What is the question?
 
 This is useful specifically for... 
 
@@ -392,7 +392,7 @@ Use filters to focus on the required IT Components.
 
 This Report Instance Two name report answers the question:
 
-***[???](../questions.md#)***
+> What is the question?
 
 This is useful specifically for... 
 

@@ -23,33 +23,32 @@ Title: "Questions you can answer with LeanIX reports"
 
 ## User Groups
 
-1. [What user groups are part of, or interact with, our organisation?](/inventory)
-1. [How are user groups organised in a hierarchy?](/factsheet-map/#user-group) 
-1. [Who uses which applications?](/landscape/application-landscape-reports/#user-group)
+1. [What user groups are part of, or interact with, our organisation?][inventory]
+1. [How are user groups organised in a hierarchy?][user-group-map] 
+1. [Who uses which applications?][user-group-application-landscape]
 1. [Where are users of applications located?](/location/application-usage-report)
 
 ## Business Capabilities
 
-1. [What business capabilities support our organisation?](/inventory)
-1. [How are business capabilities grouped??](/factsheet-map/#business-capability)
-1. [Which business capabilities are supported by applications?](/landscape/application-landscape-reports)  
+1. [What business capabilities support our organisation?][inventory]
+1. [How are business capabilities grouped?][business-capability-map]
+1. [Which business capabilities are supported by applications?][business-capability-application-landscape]  
     1. Which business capabilities are impacted when an application fails? 
 1. [What is the IT cost of supporting business capabilities?](/cost/business-capability-cost-report)
 
 ## Processes
 
-1. [What processes do we perform?](/inventory)
+1. [What processes do we perform?][inventory]
     1. Who are the stakeholders?
-1. [How are processes grouped??](/factsheet-map/#user-group)
-1. [Which processes are supported by applications?](/landscape/application-landscape-reports) 
+1. [How are processes grouped?][process-map]
+1. [Which processes are supported by applications?][process-application-landscape]
     1. What processes are impacted when an application fails?
     1. Which applications are business critical in performing a process?
-    1. [Which applications support a business process?](/landscape/application-landscape-reports)
 
 ## Applications
 
 <!-- Application factsheet only questions -->
-1. [What applications do we have?](/inventory)
+1. [What applications do we have?][inventory]
     1. Who are the stakeholders?
 1. [When are applications planned to change?](/roadmap/application-roadmap-reports)
     1. When will successor applications replace existing applications?  
@@ -93,10 +92,10 @@ Title: "Questions you can answer with LeanIX reports"
 
 ## Data
 
-1. [What data objects do we use?](/inventory)
+1. [What data objects do we use?][inventory]
     1. Who are the stakeholders?
     1. What is the data classification? 
-1. [How are data objects grouped?](/factsheet-map/#data-object) 
+1. [How are data objects grouped?][data-object-map]
 1. [What applications manage or access data?](https://store.leanix.net/en/report-details/753b11a9-4e86-4fad-a840-f76341bad983/c7d772df-2988-4024-920f-fb732d95cedc) :octicons-link-external-16:{: .external-link } 
     1. What applications manage or access sensitive data?
 1. [Where is data stored?](location/it-component-location-report)
@@ -104,9 +103,9 @@ Title: "Questions you can answer with LeanIX reports"
 
 ## Interfaces
 
-1. [What interfaces do we use?](/inventory) 
-1. [Which applications provide or consume interfaces?](interface/interface-circle-map-report/)  
-1. [How does data flow between applications?](/interface/data-flow-diagram/)
+1. [What interfaces do we use?][inventory] 
+1. [Which applications provide or consume interfaces?][interface]  
+1. [How does data flow between applications?][data-flow]
     1. How is it the data transported? e.g. by file or API
     1. What is the frequency of data flows? e.g. real-time, hourly, or daily
     1. What is the data classification?
@@ -115,7 +114,7 @@ Title: "Questions you can answer with LeanIX reports"
 
 ## Projects 
 
-1. [What projects do we have?](/inventory)
+1. [What projects do we have?][inventory]
     1. How are projects grouped? e.g. Portfolios, Programs, and Projects
 1. [When will a project start or end?](/roadmap/project-roadmap-reports)
 1. What applications will be changed by a project? - *(Free Draw diagram? Use smart explorer for a single project)*
@@ -128,7 +127,7 @@ Title: "Questions you can answer with LeanIX reports"
 
 ## IT Components
 
-1. [What IT Components do we have](/inventory), what are their properties, and who manages them? 
+1. [What IT Components do we have?][inventory], what are their properties, and who manages them? 
 1. [Where are IT Components located?](location/it-component-location-report)
 1. What technology implements an application? IT Component matrix with Application children or data flow or free draw
 1. [How is the technology portfolio planned to evolve year by year?](/matrix/it-component-matrix-reports/#time-technical-stack) 
@@ -143,18 +142,18 @@ Title: "Questions you can answer with LeanIX reports"
 
 ## Technical Stack
 
-1. [What technology categories do we use to classify IT components?](/inventory)
-1. [How are technology categories grouped](/factsheet-map/#technical-stack)
+1. [What technology categories do we use to classify IT components?][inventory]
+1. [How are technology categories grouped?][technical-stack-map]
 1. [What IT components are preferred to implement a technology category?](/landscape/it-component-landscape/) 
 
 
 ## Providers
 
-1. [What providers do we use?](/inventory)
+1. [What providers do we use?][inventory]
 1. [What IT components does a provider supply?](http://localhost:8000/landscape/it-component-landscape-reports/#provider)
 1. What is the aggregate risk around a provider?
 1. [Is there an opportunity to reduce the number of providers we deal with by changing technologies](/matrix/it-component-matrix-reports/#technical-stack-provider)
-1. [What is the aggregate IT spend by provider?](../cost/provider-cost-report/) 
+1. [What is the aggregate IT spend by provider?](/cost/provider-cost-report/) 
 1. [Which provider relationships need closer management?](/metrics/provider-portfolio-report)
 
 <!-- 
@@ -201,4 +200,26 @@ from https://www.leanix.net/en/product/use-cases/technology-risk-management
 
 -->
 
-<!-- Links -->
+<!-- link reference: link "tool tip" -->
+<!-- does link have a .. and/or / in front? https://www.mkdocs.org/user-guide/writing-your-docs/#linking-to-pages-->
+[factsheet-map]: /factsheet-map/index.md "Factsheet Map reports"
+[user-group-map]: /factsheet-map/#user-group "User Group map"
+[business-capability-map]: /factsheet-map/#business-capability "Business Capability map"
+[process-map]: /factsheet-map/#process "Process map"
+[data-object-map]: /factsheet-map/#data-object "Data Object map"
+[technical-stack-map]: /factsheet-map/#technical-stack "Technical Stack map"
+
+[landscape]: landscape/index.md "Landscape reports"
+[user-group-application-landscape]: /landscape/application-landscape-reports/#user-group 
+[business-capability-application-landscape]: /landscape/application-landscape-reports/#business-capability
+[process-application-landscape]: /landscape/application-landscape-reports/#process
+
+[matrix]: matrix/index.md "Matrix reports"
+[roadmap]: roadmap/index.md "Roadmap reports"
+[location]: location/index.md "Location reports"
+[interface]: interface/interface-circle-map-report.md "Interface Circle Map report"
+[data-flow]: interface/data-flow-diagram.md "Data Flow diagram"
+[cost]: cost/index.md "Cost reports"
+[lifecycle-age]: metrics/lifecycle-and-age-report.md "Lifecycle and Age reports"
+[portfolio]: metrics/index.md "Portfolio reports"
+[inventory]: inventory/index.md "Inventory"

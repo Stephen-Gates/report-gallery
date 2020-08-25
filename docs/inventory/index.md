@@ -1,5 +1,5 @@
 ---
-title: "Inventory reports"
+title: "Inventory"
 ---
 
 ??? note "Work in progress"
@@ -8,14 +8,27 @@ title: "Inventory reports"
       - subscription
       - data classification
 
-# Inventory reports
+# Inventory 
 
-The Inventory report shows a table of information about one or more factsheet types. 
+The Inventory shows a table of information about one or more factsheet types. 
 
-![Placeholder](../assets/images/inventory-thumbnail.png) 
+![Inventory report](../assets/images/inventory-thumbnail.png) 
 
 <!-- 
-![Caption](https://www.leanix.net/hubfs/2019-LX-Website/Product/UC%20-%20IntArch/ia-customer-data-8-Col-XL.svg){: align=left }
+![Caption](https://www.leanix.net/hubfs/2019-LX- Website/Product/UC%20-%20IntArch/ia-customer-data-8-Col-XL.svg){: align=left }
 -->
+
+The Inventory answers the questions:
+
+- What user groups are part of, or interact with, our organisation?
+- What business capabilities support our organisation?
+- What processes do we perform?
+- What applications do we have?
+- What data objects do we use?
+- What interfaces do we use?
+- What projects do we have?
+- What IT components do we have?
+- What technology categories do we use to classify IT components?
+- What providers do we use?
 
 :fontawesome-regular-check-circle:{: .check-circle } Inventory reports are standard LeanIX reports.

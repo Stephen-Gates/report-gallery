@@ -29,3 +29,7 @@ Go to https://stephen-gates.github.io/report-gallery/site/ to view the published
 Keep things up-to-date:
 
 `$ pip3 install --upgrade mkdocs-material`
+
+or if using Insiders 
+
+`pip3  install --upgrade  git+https://{GH_TOKEN}@github.com/squidfunk/mkdocs-material-insiders.git`

@@ -5,6 +5,12 @@
   --md-primary-fg-color--light: #509FFF;
   --md-primary-fg-color--dark:  #033AAA;
 }
+/* need to adjust colours to dark mode */
+[data-md-color-scheme="leanix-dark"] {
+  --md-primary-fg-color:        #166BFF;
+  --md-primary-fg-color--light: #509FFF;
+  --md-primary-fg-color--dark:  #033AAA;
+}
 
 .external-link {
   color: #C1CDDF;

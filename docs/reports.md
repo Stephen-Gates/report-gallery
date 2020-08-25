@@ -60,9 +60,9 @@ The [Interface Circle Map][interface] shows a high-level view of interfaces betw
 
 [Lifecycle and Age reports][lifecycle-age] show how applications are added or removed from the portfolio over time. 
 
-[![Inventory reports](../assets/images/inventory-thumbnail.png)][inventory]
+[![Inventory](../assets/images/inventory-thumbnail.png)][inventory]
 
-[Inventory reports][inventory] show a table of factsheets and their properties.
+The [Inventory][inventory] shows a table of factsheets and their properties.
 
 <!-- Grid of report images 
 
@@ -91,4 +91,4 @@ The [Interface Circle Map][interface] shows a high-level view of interfaces betw
 [cost]: cost/index.md "Cost reports"
 [lifecycle-age]: metrics/lifecycle-and-age-report.md "Lifecycle and Age reports"
 [portfolio]: metrics/index.md "Portfolio reports"
-[inventory]: inventory/index.md "Inventory reports"
+[inventory]: inventory/index.md "Inventory"
