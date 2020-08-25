@@ -12,9 +12,9 @@ title: "Application Landscape reports"
 
 The Application Landscape report answers the questions:
 
-- *[What Applications support Business Capabilities?](../questions/#business-capabilities)*
-- *[What Applications support Processes?](../questions/#processes)*
-- *[What Applications support User Groups?](../questions/#user-groups)*
+>What Applications support Business Capabilities?
+>What Applications support Processes?
+>What Applications support User Groups?
 
 The report shows Applications, within a hierarchy of either, [Business Capabilities](#business-capability), [Processes](#process), or [User Groups](#user-group)
 

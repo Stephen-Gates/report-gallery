@@ -10,7 +10,7 @@ title: "Project Matrix reports"
 
 The Project Matrix report answers the question:
 
-***[???](../questions.md#projects)***
+>Question?
 
 This is useful if generic statement about all reports of this type with this focus
 
@@ -62,7 +62,7 @@ This report cannot be edited
 
 This Report Instance One name report answers the question:
 
-***[???](../questions.md#)***
+>Question?
 
 This is useful specifically for... 
 
@@ -104,7 +104,7 @@ Use filters to focus on the required Projects.
 
 This Report Instance Two name report answers the question:
 
-***[???](../questions.md#)***
+>Question?
 
 This is useful specifically for... 
 
@@ -146,7 +146,7 @@ Use filters to focus on the required Projects.
 
 This Report Instance Two name report answers the question:
 
-***[???](../questions.md#)***
+>Question?
 
 This is useful specifically for... 
 
@@ -189,7 +189,7 @@ Use filters to focus on the required Projects.
 
 This Report Instance Two name report answers the question:
 
-***[???](../questions.md#)***
+>Question?
 
 This is useful specifically for... 
 
@@ -233,7 +233,7 @@ Use filters to focus on the required Projects.
 
 This Report Instance Two name report answers the question:
 
-***[???](../questions.md#)***
+>Question?
 
 This is useful specifically for... 
 

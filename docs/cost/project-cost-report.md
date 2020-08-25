@@ -11,7 +11,7 @@ title: "Project Cost report"
 
 The Project Cost report answers the question:
 
-***[What is the IT spend by Project?](../questions.md#projects)***
+>What is the IT spend by Project?
 
 The costs for a Project are calculated based on:
 

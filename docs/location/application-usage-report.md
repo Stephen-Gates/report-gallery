@@ -9,7 +9,7 @@ title: "Application Usage reports"
 
 The Application Usage report answers the question:
 
-***[Where are ??? located?](../questions.md#???)***
+>Where are ??? located?
 
 This is useful... ???
 

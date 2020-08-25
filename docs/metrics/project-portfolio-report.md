@@ -7,7 +7,7 @@ title: "Project Portfolio report"
 
 The Project Portfolio report answers the question:
 
-***[Which projects provide the highest value at the lowest risk?](../questions.md#projects)***
+>Which projects provide the highest value at the lowest risk?
 
 At risk projects with large budgets or delivering significant benefits may need closer management
 

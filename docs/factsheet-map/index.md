@@ -25,7 +25,7 @@ There are five reports:
 
 The Business Capability Factsheet Map report answers the question:
 
-***[What business capabilities support our business?](../questions.md#business-capabilities)***
+> What business capabilities support our business?
 
 ![Business Capability Factsheet Map report](../assets/images/factsheet-map-business-capability.png)
 
@@ -89,7 +89,7 @@ Enable editing to allow you to move, remove or add factsheets. These changes are
 
 The Data Object Factsheet Map report answers the question:
 
-***[What data objects do we manage?](../questions.md#data)***
+> What data objects do we manage?
 
 ![Business Capability Factsheet Map report](../assets/images/factsheet-map-data-object.png)
 
@@ -152,7 +152,7 @@ Enable editing to allow you to move, remove or add factsheets. These changes are
 
 The Process Factsheet Map report answers the question:
 
-***[What processes support our business?](../questions.md#process)***
+> What processes support our business?
 
 ![Process Factsheet Map report](../assets/images/factsheet-map-process.png)
 
@@ -217,7 +217,7 @@ Enable editing to allow you to move, remove or add factsheets. These changes are
 
 The Technical Stack Factsheet Map report answers the question:
 
-***[What Technical Stacks classify our IT Components?](../questions.md#technical-stack)***
+>What Technical Stacks classify our IT Components?]
 
 ![Technical Stack Map report](../assets/images/factsheet-map-technical-stack.png)
 
@@ -277,7 +277,7 @@ Enable editing to allow you to move, remove or add factsheets. These changes are
 
 The User Group Factsheet Map report answers the question:
 
-***[What User Groups are part of, or interact with, our business?](../questions.md#user-groups)***
+>What User Groups are part of, or interact with, our business?
 
 ![User Group Factsheet Map report](../assets/images/factsheet-map-user-group.png)
 

@@ -11,7 +11,7 @@ title: "IT Component Matrix reports"
 
 The Application Matrix report answers the question:
 
-***[???](../questions.md#it-components)***
+>?
 
 This is useful if generic statement about all reports of this type with this focus
 
@@ -65,7 +65,7 @@ This report cannot be edited
 
 This Report Instance One name report answers the question:
 
-***[???](../questions.md#)***
+>?
 
 This is useful specifically for... 
 
@@ -108,7 +108,7 @@ Specific Use filters to focus on the required IT Components.
 
 This Report Instance Two name report answers the question:
 
-***[???](../questions.md#)***
+>?
 
 This is useful specifically for... 
 
@@ -151,7 +151,7 @@ Specific Use filters to focus on the required IT Components.
 
 This Report Instance Two name report answers the question:
 
-***[???](../questions.md#)***
+>?
 
 This is useful specifically for... 
 

@@ -8,7 +8,7 @@ title: "Application Portfolio report"
 
 The Application Portfolio report answers the question:
 
-***[Which applications need investment or replacement?](../questions.md#application)***
+>Which applications need investment or replacement?](../questions.md#application)
 
 - Applications with both low Functional Fit and Technical Fit may need to be replaced
 - Applications with low Functional Fit but high Business Criticality may need investment

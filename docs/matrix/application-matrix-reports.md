@@ -10,7 +10,7 @@ title: "Application Matrix reports"
 
 The Application Matrix report answers the question:
 
-***[???](../questions.md#application)***
+>?
 
 This is useful if generic statement about all reports of this type with this focus
 

@@ -8,7 +8,7 @@ title: "Provider Portfolio report"
 
 The Provider Portfolio report answers the question:
 
-***[Which provider relationships need closer management?](../questions.md#providers)***
+>Which provider relationships need closer management?
 
 - Critical providers delivering low quality service may need closer management
 - Expanding relationships with providers delivering high quality service could be considered

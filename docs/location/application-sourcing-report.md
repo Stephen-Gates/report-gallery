@@ -9,7 +9,7 @@ title: "Application Sourcing report"
 
 The Application Sourcing report answers the question:
 
-***[Where are ??? located?](../questions.md#it-components)***
+>Where are ??? located?
 
 This is useful...
 

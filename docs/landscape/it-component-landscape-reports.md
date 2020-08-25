@@ -30,7 +30,7 @@ There are two IT Component Landscape reports that show the IT Component Landscap
 
 This report answers the question:
 
-- *[Question](../questions/#technical-stack)*
+>Question
 
 This is useful specifically for... 
 
@@ -73,7 +73,7 @@ Use filters to focus on the required IT Component.
 
 This report answers the question:
 
-- *[Question?](../questions/#provider)*
+>Question?
 
 This is useful specifically for... 
 

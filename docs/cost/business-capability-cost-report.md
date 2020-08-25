@@ -7,7 +7,7 @@ title: "Business Capability Cost report"
 
 The Business Capability Cost report answers the question:
 
-***[What is the IT spend by business capability?](../questions.md#costs)***
+>What is the IT spend by business capability?
 
 The costs for a Business Capability are calculated based on:
 

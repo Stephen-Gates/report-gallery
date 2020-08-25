@@ -11,7 +11,7 @@ title: "Provider Cost report"
 
 The Provider Cost report answers the question:
 
-***[What is the IT spend by Provider?](../questions.md#costs)***
+>What is the IT spend by Provider?
 
 The costs for a Provider are calculated based on:
 

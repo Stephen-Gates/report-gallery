@@ -26,7 +26,7 @@ There are three Project Landscape reports that show the Project Landscape, withi
 
 This report answers the question:
 
-- *[What Projects impact  Business Capabilities?](../questions/#business-capability)*
+>What Projects impact  Business Capabilities?
 
 This is useful specifically for... 
 
@@ -69,7 +69,7 @@ Use filters to focus on the required projects.
 ## Process
 This report answers the question:
 
-- *[What Projects impact Process?](../questions/#process)*
+>What Projects impact Process?
 
 This is useful specifically for... 
 
@@ -113,7 +113,7 @@ Use filters to focus on the required projects.
 
 This report answers the question:
 
-- *[What Project impact User Groups?](../questions/#user-groups)*
+>What Project impact User Groups?
 
 This is useful specifically for... 
 

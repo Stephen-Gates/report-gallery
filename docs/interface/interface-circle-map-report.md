@@ -10,7 +10,7 @@ title: "Interface Circle Map report"
 
 The Interface Circle Map report answers the question:
 
-***[What is the question?](../questions.md#interfaces)***
+>What is the question?
 
 
 ![Placeholder](../assets/images/interface-circle-map-thumbnail.png) 

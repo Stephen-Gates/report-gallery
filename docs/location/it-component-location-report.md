@@ -10,7 +10,7 @@ title: "IT Component Location report"
 
 The IT Component Location report answers the question:
 
-***[Where are IT Components located?](../questions.md#it-components)***
+>Where are IT Components located?
 
 This is useful if your company has policies or regulations it needs to follow regarding data held in other Countries.
 
