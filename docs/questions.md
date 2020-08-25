@@ -200,64 +200,64 @@ from https://www.leanix.net/en/product/use-cases/technology-risk-management
 <!-- does link have a .. and/or / in front? https://www.mkdocs.org/user-guide/writing-your-docs/#linking-to-pages-->
 <!-- on local using .. I can't go up a level, but I can on /site -->
 
-[factsheet-map]: /factsheet-map/ "Factsheet Map reports"
-[factsheet-map-user-group]: /factsheet-map/#user-group "User Group map"
-[factsheet-map-business-capability]: /factsheet-map/#business-capability "Business Capability map"
-[factsheet-map-process]: /factsheet-map/#process "Process map"
-[factsheet-map-data-object]: /factsheet-map/#data-object "Data Object map"
-[factsheet-map-technical-stack]: /factsheet-map/#technical-stack "Technical Stack map"
+[factsheet-map]: ../factsheet-map/ "Factsheet Map reports"
+[factsheet-map-user-group]: ../factsheet-map/#user-group "User Group map"
+[factsheet-map-business-capability]: ../factsheet-map/#business-capability "Business Capability map"
+[factsheet-map-process]: ../factsheet-map/#process "Process map"
+[factsheet-map-data-object]: ../factsheet-map/#data-object "Data Object map"
+[factsheet-map-technical-stack]: ../factsheet-map/#technical-stack "Technical Stack map"
 
-[landscape]: /landscape/ "Landscape reports"
-[landscape-application]: /landscape/application-landscape-reports/
-[landscape-application-user-group]: /landscape/application-landscape-reports/#user-group 
-[landscape-application-business-capability]: /landscape/application-landscape-reports/#business-capability
-[landscape-application-process]: /landscape/application-landscape-reports/#process
-[landscape-it-component]: /landscape/it-component-landscape-reports/
-[landscape-it-component-technical-stack]: /landscape/it-component-landscape-reports/#technical-stack
-[landscape-it-component-provider]: /landscape/it-component-landscape-reports/#provider
-[landscape-project]: /landscape/project-landscape-reports/
-[landscape-project-user-group]: /landscape/project-landscape-reports/#user-group 
-[landscape-project-business-capability]: /landscape/project-landscape-reports/#business-capability
-[landscape-project-process]: /landscape/project-landscape-reports/#process
+[landscape]: ../landscape/ "Landscape reports"
+[landscape-application]: ../landscape/application-landscape-reports/
+[landscape-application-user-group]: ../landscape/application-landscape-reports/#user-group 
+[landscape-application-business-capability]: ../landscape/application-landscape-reports/#business-capability
+[landscape-application-process]: ../landscape/application-landscape-reports/#process
+[landscape-it-component]: ../landscape/it-component-landscape-reports/
+[landscape-it-component-technical-stack]: ../landscape/it-component-landscape-reports/#technical-stack
+[landscape-it-component-provider]: ../landscape/it-component-landscape-reports/#provider
+[landscape-project]: ../landscape/project-landscape-reports/
+[landscape-project-user-group]: ../landscape/project-landscape-reports/#user-group 
+[landscape-project-business-capability]: ../landscape/project-landscape-reports/#business-capability
+[landscape-project-process]: ../landscape/project-landscape-reports/#process
 
-[matrix]: /matrix/ "Matrix reports"
-[application-matrix]: /matrix/application-matrix-reports
-[application-matrix-business-capability-user-group]: /matrix/application-matrix-reports/#business-capability-user-group
-[application-matrix-process-user-group]: /matrix/application-matrix-reports/#process-user-group
-[application-matrix-process-business-capability]: /matrix/application-matrix-reports/#process-business-capability
-[application-matrix-time-business-capability]: /matrix/application-matrix-reports/#time-business-capability
-[application-matrix-time-user-group]: /matrix/application-matrix-reports/#time-user-group
+[matrix]: ../matrix/ "Matrix reports"
+[application-matrix]: ../matrix/application-matrix-reports
+[application-matrix-business-capability-user-group]: ../matrix/application-matrix-reports/#business-capability-user-group
+[application-matrix-process-user-group]: ../matrix/application-matrix-reports/#process-user-group
+[application-matrix-process-business-capability]: ../matrix/application-matrix-reports/#process-business-capability
+[application-matrix-time-business-capability]: ../matrix/application-matrix-reports/#time-business-capability
+[application-matrix-time-user-group]: ../matrix/application-matrix-reports/#time-user-group
 
-[it-component-matrix]: /matrix/it-component-matrix-reports/
+[it-component-matrix]: ../matrix/it-component-matrix-reports/
 <!-- 3 settings -->
 
-[project-matrix]: /matrix/project-matrix-reports
+[project-matrix]: ../matrix/project-matrix-reports
 <!-- 5 settings -->
 
 
-[roadmap]: /roadmap/ "Roadmap reports"
-[roadmap-application]: /roadmap/application-roadmap-reports
-[roadmap-it-component]: /roadmap/it-component-roadmap-reports
-[roadmap-project]: /roadmap/project-roadmap-reports
+[roadmap]: ../roadmap/ "Roadmap reports"
+[roadmap-application]: ../roadmap/application-roadmap-reports
+[roadmap-it-component]: ../roadmap/it-component-roadmap-reports
+[roadmap-project]: ../roadmap/project-roadmap-reports
 
 
-[location]: /location/ "Location reports"
-[location-application-usage]: /location/application-usage-report
-[location-it-component-location]: /location/it-component-location-report
+[location]: ../location/ "Location reports"
+[location-application-usage]: ../location/application-usage-report
+[location-it-component-location]: ../location/it-component-location-report
 
-[interface]: /interface/ "Interface reports"
-[interface-circle]: /interface/interface-circle-map-report "Interface Circle Map report"
-[data-flow]: /interface/data-flow-diagram "Data Flow diagram"
+[interface]: ../interface/ "Interface reports"
+[interface-circle]: ../interface/interface-circle-map-report "Interface Circle Map report"
+[data-flow]: ../interface/data-flow-diagram "Data Flow diagram"
 
-[cost]: /cost/ "Cost reports"
-[cost-business-capability]: /cost/business-capability-cost-report
-[cost-project]: /cost/project-cost-report
-[cost-provider]: /cost/provider-cost-report
+[cost]: ../cost/ "Cost reports"
+[cost-business-capability]: ../cost/business-capability-cost-report
+[cost-project]: ../cost/project-cost-report
+[cost-provider]: ../cost/provider-cost-report
 
-[lifecycle-age]: /metrics/lifecycle-and-age-report "Lifecycle and Age reports"
-[portfolio]: /metrics/ "Portfolio reports"
-[portfolio-application]: /metrics/application-portfolio-report/
-[portfolio-project]: /metrics/project-portfolio-report/
-[portfolio-provider]: /metrics/provider-portfolio-report/
+[lifecycle-age]: ../metrics/lifecycle-and-age-report "Lifecycle and Age reports"
+[portfolio]: ../metrics/ "Portfolio reports"
+[portfolio-application]: ../metrics/application-portfolio-report/
+[portfolio-project]: ../metrics/project-portfolio-report/
+[portfolio-provider]: ../metrics/provider-portfolio-report/
 
-[inventory]: /inventory/ "Inventory"
+[inventory]: ../inventory/ "Inventory"
