@@ -192,7 +192,6 @@ As your LeanIX Administrator has defined for the Business Capability factsheet
 Use filters to focus on the required IT Components.
 
 
-
 --- 
 
 ## Process × Business Capability 

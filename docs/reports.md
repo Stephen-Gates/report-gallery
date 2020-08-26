@@ -5,19 +5,8 @@ title: Types of reports
 
 ??? note "Work in progress"  
     - Images needed. 
-    - Include report type in image so page still works if images don't display 
 
-
-LeanIX provides many different ways to view and filter data to answer key questions. 
-
-<!--
-<a href="metrics/index.md" title="Portfolio report"><img src="https://www.leanix.net/hubfs/2019%20LX%20Website/General/Illu/bubblechart-8-Col-XL.svg" alt="Portfolio report" width="320"></a> 
-<a href="landscape/index.md" title="Landscape report"><img src="https://www.leanix.net/hubfs/landscape-functionalfit-8-Col-XL.svg" alt="Landscape report" width="320"></a> 
-<a href="interface/index.md" title="Interface Circle map report"><img src="https://www.leanix.net/hubfs/2019%20LX%20Website/General/Illu/ia-interface-circle-8-Col-XL.svg" alt="Landscape report" width="320"></a>
-<a href="location/index.md" title="Location report"><img src="https://www.leanix.net/hubfs/2019%20LX%20Website/General/Illu/ia-countrymap-8-Col-XL.svg" alt="Location report"  width="320"></a>
-<a href="interface/index.md" title="Data Flow diagram"><img src="https://www.leanix.net/hubfs/2019-LX-Website/Product/UC%20-%20IntArch/ia-information-flow-8-Col-XL.svg" alt="Landscape report" width="320"></a>
-<a href="interface/index.md" title="Inventory report"><img src="https://www.leanix.net/hubfs/2019-LX-Website/Product/UC%20-%20IntArch/ia-customer-data-8-Col-XL.svg" alt="Landscape report" width="320"></a>
--->
+Choose a report to discover the questions it can answer and how to re-create it using LeanIX.
 
 <!-- Grid with text alt -->
 [![Factsheet Map reports](../assets/images/factsheet-map-thumbnail.png)][factsheet-map]
@@ -65,7 +54,6 @@ The [Interface Circle Map][interface] shows a high-level view of interfaces betw
 The [Inventory][inventory] shows a table of factsheets and their properties.
 
 <!-- Grid of report images 
-
 [![Factsheet Map reports](../assets/images/factsheet-map-thumbnail.png)][factsheet-map]
 [![Landscape reports](../assets/images/landscape-thumbnail.png)][landscape]
 [![Matrix reports](../assets/images/matrix-thumbnail.png)][matrix]
@@ -77,7 +65,16 @@ The [Inventory][inventory] shows a table of factsheets and their properties.
 [![Portfolio reports](../assets/images/portfolio-thumbnail.png)][portfolio]
 [![Lifecycle and Age reports](../assets/images/lifecycle-age-thumbnail.png)][lifecycle-age]
 [![Inventory reports](../assets/images/inventory-thumbnail.png)][inventory]
+-->
 
+
+<!-- leanix images
+<a href="metrics/index.md" title="Portfolio report"><img src="https://www.leanix.net/hubfs/2019%20LX%20Website/General/Illu/bubblechart-8-Col-XL.svg" alt="Portfolio report" width="320"></a> 
+<a href="landscape/index.md" title="Landscape report"><img src="https://www.leanix.net/hubfs/landscape-functionalfit-8-Col-XL.svg" alt="Landscape report" width="320"></a> 
+<a href="interface/index.md" title="Interface Circle map report"><img src="https://www.leanix.net/hubfs/2019%20LX%20Website/General/Illu/ia-interface-circle-8-Col-XL.svg" alt="Landscape report" width="320"></a>
+<a href="location/index.md" title="Location report"><img src="https://www.leanix.net/hubfs/2019%20LX%20Website/General/Illu/ia-countrymap-8-Col-XL.svg" alt="Location report"  width="320"></a>
+<a href="interface/index.md" title="Data Flow diagram"><img src="https://www.leanix.net/hubfs/2019-LX-Website/Product/UC%20-%20IntArch/ia-information-flow-8-Col-XL.svg" alt="Landscape report" width="320"></a>
+<a href="interface/index.md" title="Inventory report"><img src="https://www.leanix.net/hubfs/2019-LX-Website/Product/UC%20-%20IntArch/ia-customer-data-8-Col-XL.svg" alt="Landscape report" width="320"></a>
 -->
 
 <!-- links -->
