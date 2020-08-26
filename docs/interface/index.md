@@ -6,7 +6,7 @@ title: "Interface reports"
     - What do the reports show?
     - What is the question?
 
-# Interface reports
+# About Interface reports
 
 Interface reports shows, either:
 

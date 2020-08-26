@@ -4,7 +4,7 @@ title: "Cost reports"
 
 !!! note "Work in progress"
     
-# Cost reports
+# About Cost reports
 
 The Cost reports show... 
 

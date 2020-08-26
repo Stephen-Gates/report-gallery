@@ -4,7 +4,7 @@ title: "Metrics reports"
 
 !!! note "Work in progress"
 
-# Metrics reports
+# About Metrics reports
 
 The Metrics reports show...
 

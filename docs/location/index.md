@@ -4,7 +4,7 @@ title: "Location reports"
 
 !!! note "Work in progress"
 
-# Location reports
+# About Location reports
 
 Location reports show a geographic map overlaid (by Country or location) associated with either the User Group or IT Component.
 
