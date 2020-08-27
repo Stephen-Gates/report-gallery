@@ -1,6 +1,7 @@
 # Project information
 site_name: LeanIX Report Gallery
-site_url: https://stephen-gates.github.io/report-gallery/site
+site_url: https://stephen-gates.github.io/report-gallery
+#site_url: https://stephen-gates.github.io/report-gallery/site
 site_author: Stephen Gates
 site_description: >-
   Discover the questions you can answer using LeanIX reports.
