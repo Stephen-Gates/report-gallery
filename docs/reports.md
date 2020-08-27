@@ -46,7 +46,7 @@ The [Interface Circle Map][interface] shows a high-level view of interfaces betw
 
 [![Lifecycle and Age reports](../assets/images/lifecycle-age-thumbnail.png)][lifecycle-age]
 
-[Lifecycle and Age reports][lifecycle-age] show applications added or removed from the portfolio over time
+[Lifecycle and Age reports][lifecycle-age] show the number of applications added or removed from the portfolio over time.
 
 [![Inventory](../assets/images/inventory-thumbnail.png)][inventory]
 
