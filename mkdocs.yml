@@ -102,10 +102,10 @@ extra_javascript:
   #- search
     #lang: en
   
-# Google Analytics
-# google_analytics:
-#  - !!python/object/apply:os.getenv ["GOOGLE_ANALYTICS_KEY"]
-#  - auto
+#Google Analytics
+google_analytics:
+  - UA-176515086-1
+  - auto
     
 # Page tree - only 2 levels allowed
 nav:

@@ -2,7 +2,6 @@
 title: Types of reports
 ---
 
-
 ??? note "Work in progress"  
     - Images needed. 
 
@@ -11,15 +10,15 @@ Choose a report to discover the questions it can answer and how to re-create it 
 <!-- Grid with text alt -->
 [![Factsheet Map reports](../assets/images/factsheet-map-thumbnail.png)][factsheet-map]
 
-[Factsheet Map reports][factsheet-map] show a hierarchy of one type of factsheet.
+[Factsheet Map reports][factsheet-map] show a hierarchy of one factsheet type.
 
 [![Landscape reports](../assets/images/landscape-thumbnail.png)][landscape]
 
-[Landscape reports][landscape] show one type of factsheet within the hierarchy of another. 
+[Landscape reports][landscape] show one factsheet type within the hierarchy of another. 
 
 [![Matrix reports](../assets/images/matrix-thumbnail.png)][matrix]
 
-[Matrix reports][matrix] show one type of factsheet within a matrix of other factsheet types or time.
+[Matrix reports][matrix] show one factsheet type within a matrix of other factsheet types or time.
 
 [![Roadmap reports](../assets/images/roadmap-thumbnail.png)][roadmap]
 
@@ -31,11 +30,11 @@ The [Interface Circle Map][interface] shows a high-level view of interfaces betw
 
 [![Data Flow diagram](../assets/images/data-flow-thumbnail.png)][data-flow]
 
-[Data Flow diagrams][data-flow] are drawn to show interfaces between selected applications.
+[Data Flow diagrams][data-flow] show interfaces between selected applications.
 
 [![Location reports](../assets/images/location-thumbnail.png)][location]
 
-[Location reports][location] show a geographic map of where user groups or IT components are located.
+[Location reports][location] show a geographic map of user group or IT component locations.
 
 [![Cost reports](../assets/images/cost-thumbnail.png)][cost]
 

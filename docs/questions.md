@@ -32,7 +32,7 @@ Title: "Questions you can answer with LeanIX reports"
 
 1. [What business capabilities support our organisation?][inventory]
 1. [How are business capabilities grouped?][factsheet-map-business-capability]
-1. [Which business capabilities are supported by applications?][landscape-application-business-capability]  
+1. [Which applications support business capabilities?][landscape-application-business-capability]  
     1. Which business capabilities are impacted when an application fails? 
 1. [What is the IT cost of supporting business capabilities?][cost-business-capability]
 
@@ -41,7 +41,7 @@ Title: "Questions you can answer with LeanIX reports"
 1. [What processes do we perform?][inventory]
     1. Who are the stakeholders?
 1. [How are processes grouped?][factsheet-map-process]
-1. [Which processes are supported by applications?][landscape-application-process]
+1. [Which applications support processes?][landscape-application-process]
     1. What processes are impacted when an application fails?
     1. Which applications are business critical in performing a process?
 
@@ -55,8 +55,8 @@ Title: "Questions you can answer with LeanIX reports"
 <!-- Application × User Group factsheet questions -->
 1. [What applications are used by a user group to support a business capability?][application-matrix-business-capability-user-group]
 1. [What applications are used by a user group to perform a process?][application-matrix-process-user-group]
-1. Who is impacted when an application fails? - *(smart explorer)*
-1. Which applications are business critical for a user group? 
+    1. Who is impacted when an application fails? - *(smart explorer)*
+    1. Which applications are business critical for a user group? 
 1. [Where are applications used?](location/application-usage-report)
 <!-- Application × Business Capability factsheet questions -->
 1. [Which applications support business capabilities?](landscape/application-landscape-reports) - repeat BC3
