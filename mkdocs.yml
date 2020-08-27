@@ -9,6 +9,7 @@ site_description: >-
 #repo_url: https://github.com/Stephen-Gates/report-gallery
 #repo_name: "Report Gallery"
 #edit_uri: edit/master/docs/
+#edit_uri: blob/master/docs/
 
 # Copyright
 copyright: Copyright &copy; 2020 LeanIX Report Gallery - CC BY-SA 4.0
