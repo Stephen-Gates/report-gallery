@@ -3,7 +3,7 @@ title: Types of reports
 ---
 
 ??? note "Work in progress"  
-    - Images needed. 
+    - Images needed
 
 Choose a report to discover the questions it can answer and how to re-create it using LeanIX.
 
