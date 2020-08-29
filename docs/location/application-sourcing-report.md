@@ -3,17 +3,18 @@ title: "Application Sourcing report"
 ---
 
 ??? note "Work in progress"
-    - change ??? for the truth!
+    - Is the map based on the location of all the IT components related to the Application?
 
 # Application Sourcing report
 
 The Application Sourcing report answers the question:
 
->Where are ??? located?
+>Where are applications hosted?
 
-This is useful...
+The answer is based on the location of the IT components that are linked to the application factsheet.
 
-![Placeholder](https://dummyimage.com/800x450/eee/aaa)
+
+[![Application Sourcing](/assets/images/application-sourcing-country.png)](/assets/images/application-sourcing-country.png)
 
 <!--
 ![](https://www.leanix.net/hubfs/2019%20LX%20Website/General/Illu/ia-countrymap-8-Col-XL.svg)
@@ -27,17 +28,17 @@ This is useful...
 
 The following factsheets and associated properties are required:
 
-- User Group
-    - location
 - Application    
-    - relationship to User Group 
+    - relationship to IT Component
+- IT Component
+    - location
 
 <!--
 #### Tags 
 
 - No tags are required for this report
 
-#### Other requirement
+#### Other requirements
 
 - No other requirements
 -->
@@ -51,7 +52,13 @@ Displayed this report as a map or a table.
 The views available are: 
 
 1. **By Country** (default)
-2. **By Location** - a circle centred on a City, State, or Country (based on the location precision provided), with the size of the circle representing the relative number of ??? at that location
+2. **By Location** - a circle centred on a City, State, or Country (based on the location precision provided), with the size of the circle representing the relative number of Applications at that location.
+
+
+[![Application Sourcing](/assets/images/application-sourcing-location.png)](/assets/images/application-sourcing-location.png)
+
+*Application Sourcing report, By Location view.*
+
 
 Use **Zoom** to pan and zoom to a geographic area:
 
@@ -66,7 +73,7 @@ Use **Zoom** to pan and zoom to a geographic area:
 
 ## Filters
 
-Use filters to focus on the required ???.
+Use filters to focus on the required Applications.
 
 <!--
 ## Editing

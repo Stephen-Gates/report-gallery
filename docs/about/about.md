@@ -10,11 +10,11 @@ The LeanIX Report Gallery project:
 
 - is an open licensed community project 
 - can be contributed to by anyone that follows the [contribution guidelines](index.md) 
-- accepts contributions that are licensed using [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) :octicons-link-external-16:{: .external-link } licence to:
+- accepts contributions that are licensed using [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) :octicons-link-external-16:{: .grey } licence to:
 	- acknowledge contributors
 	- encourage reuse and sharing
 - acknowledges [contributors](contributors.md) based on they're preference for anonymous, personal or organisation attribution
-- follows the [benevolent dictator for life](https://en.wikipedia.org/wiki/Benevolent_dictator_for_life) :octicons-link-external-16:{: .external-link } leadership model
+- follows the [benevolent dictator for life](https://en.wikipedia.org/wiki/Benevolent_dictator_for_life) :octicons-link-external-16:{: .grey } leadership model
 - was founded by Stephen Gates  
 
 ## Contact

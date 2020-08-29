@@ -8,7 +8,7 @@ title: Types of reports
 Choose a report to discover the questions it can answer and how to re-create it using LeanIX.
 
 <!-- Grid with text alt -->
-[![Factsheet Map reports](../assets/images/factsheet-map-thumbnail.png)][factsheet-map]
+[![Factsheet Map reports](/assets/images/factsheet-map-thumbnail.png)][factsheet-map]
 
 [Factsheet Map reports][factsheet-map] show a hierarchy of one factsheet type.
 

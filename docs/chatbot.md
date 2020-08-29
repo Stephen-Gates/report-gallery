@@ -1,123 +1,68 @@
 ---
-Title: "Questions you can answer with LeanIX reports"
+Title: "Chatbot questions"
 ---
 
-??? note "Work in progress"
-    - This list needed to be rationalised and link to report pages.
-        - Decide if duplication is allow with question reported or re-phrased in another section
-    - Try use:
-        - "Where" questions for location reports
-        - "How much" questions for cost reports
-        - "Who" for User Group reports
-        - "How" for hierarchies
-        - "When" for roadmaps or time matrix reports
-        - "What" first, then "Which"; 
-    - Focus on the factsheet part of the question first, with views as sub-questions  
-    - Check question list against:
-        - [How to Answer the Top Questions of Enterprise Architecture Stakeholders](https://www.leanix.net/en/download/how-to-answer-the-top-questions-of-enterprise-architecture-stakeholders)
-        - [Smart Enterprise Architecture Governance in an Agile World](https://www.leanix.net/en/download/smart-ea-governance-in-an-agile-world)
-        -[24 Key Enterprise Architecture Views for the Financial Services Industry](https://www.leanix.net/en/download/24-enterprise-architecture-views-financial-services)
-        - [Reshape your IT with 24 Key Enterprise Architecture Views](https://www.leanix.net/en/download/reshape-your-it-with-24-key-enterprise-architecture-viewpoints) - doesn't have questions.
+!!! note "Work in progress"
 
-# Questions you can answer with LeanIX reports
+# Chatbot questions :fontawesome-solid-robot:{: .grey }
 
-- The questions below are arranged by the factsheets involved in answering the question. 
-- Questions answered by using a built-in view are shown as sub-questions. 
-- Questions based on a view using tags may not listed as tags are unique to your LeanIX implementation. Questions requiring tags are marked with *[tags]* 
-- Where I don't know how best to phrase a question, there may be an alternative phrasing as a sub-question, marked with *[alternative]*. 
-    - My leaning is to put the factsheet that provides the answer as the first part of the question but sometime this doesn't sound natural.
-    - If questions are phrased how people commonly ask, then it will be easier to turn this resource into a [chatbot](/chatbot/).
+A Chatbot is another way to answer questions. [Chatbots require development](https://www.youtube.com/watch?v=buq0Q-0vdcw&feature=youtu.be) so a limited number of questions may be implemented. Common questions are usually implemented first.
+
+Chatbot questions may be:
+
+- about the collection of factsheets, e.g. "How many applications do we have?"
+- about a specific factsheet *name*, e.g. "Who is responsible for the application *Dynamics*?".  
+- small talk to test the Chatbot's capabilities, e.g. "Are you a robot?” or "What can you do?"
+
+The Chatbot will respond with:
+
+- [the answer](/chatbot-answers/#answer), e.g. "*Alex Bailey* is responsible for the application *Dynamics 365*"
+- a [clarifying question](/chatbot-answers/#clarifying-question), e.g. "Do you mean *Dynamics 365 Marketing* or *Dynamics 365 Field Service*?" 
+- [how to access the answer](/chatbot-answers/#how-to-access-the-answer) if it can't be displayed, e.g. "To see a list of all applications and who is responsible, view the [Inventory][inventory]."
+- an [apology](/chatbot-answers/#apology) for not answering the question, and a call to action e.g. "I'm sorry, I can only answer these [questions](/chatbot/#user-groups)."
+- [small talk](/chatbot-answers/#small-talk) and a call to action, e.g. "I'm a very clever robot. Ask me something."
+
 
 ## User Groups
 
-1. [What user groups do we have?][inventory]
-    1. [What user groups are #internal to our organisation?][inventory] *[tags]*
-    1. [What user groups are #external to our organisation?][inventory] *[tags]*
-1. [How are user groups organised?][factsheet-map-user-group] 
-    1. [How are user groups organised in a hierarchy?][factsheet-map-user-group]  *[alternative]*
-1. [Which applications are used by a user group?][landscape-application-user-group] 
-    1. [Which applications are used by #external user groups?][landscape-application-user-group] *[tags]* <!-- this requires an internal/external tag on the user group factsheet -->
-    1. Who uses application *name*? :fontawesome-solid-robot:{: .grey }
-1. [Where are users of applications located?][location-application-usage]
-    1. Where are applications used? *[alternative]* 
-    
+1. Which applications do user group *Customers* use?
+
 ## Business Capabilities
 
-1. [What business capabilities support our organisation?][inventory]
-1. [How are business capabilities grouped?][factsheet-map-business-capability]
-1. [Which applications support business capabilities?][landscape-application-business-capability] 
-    1. Which business capabilities are supported by applications?  *[alternative]*
-    1. Which business capabilities are impacted when an application fails? 
-1. [What is the IT cost of supporting business capabilities?][cost-business-capability]
+1. Which applications support business capability *Customer Management*?
+1. What is the IT cost of business capability *Human Resource Management*?
 
 ## Processes
 
-1. [What processes do we perform?][inventory]
-    1. Who are the stakeholders?
-1. [How are processes grouped?][factsheet-map-process]
-1. [Which applications support processes?][landscape-application-process]
-    1. Which processes are supported by applications?  *[alternative]*
-    1. What processes are impacted when an application fails?
-    1. Which applications are business critical in supporting a process?
+1. Who is responsible for process *Onboard Staff*?
+1. Which applications support process *Define Project Portfolio*?
+    1. Which business critical applications support process *Identify Customer*?
 
 ## Applications
 
-<!-- Application factsheet only questions -->
-1. [What applications do we have?][inventory]
-    1. Who are the stakeholders?
-    1. Who is responsible for an application?
-1. [How many applications do we have?][inventory]    
-1. [When are applications planned to change?][roadmap-application]
-    1. When will successor applications replace existing applications?  
-<!-- Application × User Group factsheet questions -->
-1. [What applications are used by a user group to support a business capability?][application-matrix-business-capability-user-group]
-1. [What applications are used by a user group to perform a process?][application-matrix-process-user-group]
-    1. Who is impacted when an application fails? - *(smart explorer)*
-    1. Which applications are business critical for a user group? 
-1. [Where are applications used?](location/application-usage-report)
-<!-- Application × Business Capability factsheet questions -->
-1. [Which applications support business capabilities?](landscape/application-landscape-reports) 
-    1. Can applications supporting the same business capability be rationalised?
-1. For a group of related functions, what is the overall driver for change, intent and roadmap? 
-1. For applications implementing a group of related functions, what is the target application, roadmap, and what is the status of the roadmap plan? 
-1. What applications are critical to support which business capabilities?
-<!-- Application × IT Components factsheet questions -->
-1. [What applications are at risk due to obsolescent underlying IT components?](matrix/application-matrix-reports/) 
-1. What is the health of applications and what action is required? (TIME: Tolerate, Invest, Migrate, Enhance) based on functional and technical fitness survey and other inputs. 
-1. In which applications should we invest, which divest?
-1. [Where are applications hosted?](location/application-sourcing-report/)
-<!-- ### A x Project -->
-1. [What applications are impacted by projects?]() - free draw, project roadmap with applications as children
-1. [Which projects impact applications?]() *[alternative]*
-<!-- ### A x D x I -->
-1. Does an application process any sensitive data, how is this data classified, where is it located? 
-<!-- ### A x ITC x Provider  -->
-1. [What is the IT cost of operating applications?][cost-provider]
-<!-- ### Matrix  -->
-1. [What applications are used to support a business capability used to perform a process?](matrix/application-matrix-reports/#process-user-group)
-<!-- ### unknown  -->
-1. For a group of related functions, what applications implement these, what is there status and roadmap? 
-1. How does the application portfolio change over time (planned and proposed)? 
-1. What changes have occurred in the application portfolio since the last reporting period? 
-    1. applications added, retired, change in status, renamed, change in roadmap dates, change in intent, etc.
-    1. resource classification change
-    1. lifecycle date changes (new Active, new Phase-out, End-of-life)
-<!-- ### metrics -->
-1. [How many applications are active or being phased out each month?](metrics/lifecycle-and-age-report.md)
-1. [How many applications became active each year?](metrics/lifecycle-and-age-report)
-    
+1. How many applications do we have?
+1. Show me application *Dynamics 365*?
+1. Which applications will become end-of-life this year?
+1. Which applications will become active this year?
+1. Who is responsible for an application *Dynamics 365*?
+1. Who uses application *Zoom*? 
+1. What will replace application *Zoom*? 
+1. What applications have changed to #contain?[^1]
+1. What applications are impacted by project *Cloud Migration*?
+1. Does application *Dynamics 365* process sensitive data? 
+1. What is the IT cost of operating application  *Dynamics 365*?
 
 ## Data
 
-1. [What data objects do we use?][inventory]
-    1. Who are the stakeholders?
-    1. What is the data classification? 
+1. Who is the Data Steward[^2] for the data object *Customer*?
+1. What is the data classification? 
 1. [How are data objects grouped?][factsheet-map-data-object]
 1. [What applications manage or access data?](https://store.leanix.net/en/report-details/753b11a9-4e86-4fad-a840-f76341bad983/c7d772df-2988-4024-920f-fb732d95cedc) :octicons-link-external-16:{: .grey } 
     1. What applications manage or access sensitive data?
 1. Where is data stored? <!-- /location/it-component-location-report -->
     1. Is any sensitive data stored in other countries? i.e.  Is there a sovereignty risk?
 
+<!--
 ## Interfaces
 
 1. [What interfaces do we use?][inventory] 
@@ -128,6 +73,8 @@ Title: "Questions you can answer with LeanIX reports"
     1. What is the data classification?
     1. Which application provides the interface?
     1. Which applications consume the interface?
+
+-->
 
 ## Projects 
 
@@ -163,16 +110,13 @@ Title: "Questions you can answer with LeanIX reports"
 1. [What technology categories do we use to classify IT components?][inventory]
 1. [How are technology categories grouped?][factsheet-map-technical-stack]
 1. [What IT components are preferred to implement a technology category?][landscape-it-component-technical-stack]
-
+1. What is our standard for 
 
 ## Providers
 
-1. [What providers do we use?][inventory]
-1. [What IT components does a provider supply?][landscape-it-component-provider]
-1. What is the aggregate risk around a provider?
-1. [Is there an opportunity to reduce the number of providers we deal with by changing technologies](/matrix/it-component-matrix-reports/#technical-stack-provider)
-1. [What is the aggregate IT spend by provider?][cost-provider]
-1. [Which provider relationships need closer management?][portfolio-provider]
+1. Show me provider *name*?
+1. Who is the provider of IT Component *name*?
+1. How much be we spend with Provider *name*? 
 
 <!-- 
 
@@ -212,6 +156,61 @@ from https://www.leanix.net/en/product/use-cases/technology-risk-management
 1. Which actions are planned to mitigate the risk by the individual Application owners?
 
 -->
+
+## Small talk
+
+People like to test the limits of a chatbot. It's good to respond to smalltalk.
+
+### Greetings
+
+1. How are you? / How are you doing/going?
+1. What’s up?
+1. Good morning/evening/afternoon/night
+1. Tell me something
+1. Ok / Yes / I’ll do that now
+1. Hello, Thank you, Goodbye
+1. How can you help me? / what can you do?
+1. Hi, my name is……
+1. Happy birthday!
+1. I have a question / can you help me?
+
+### Fun phrases
+
+1. Do you know a joke? / You’re funny!
+1. Do you love me? / I love you
+1. Will you marry me? / Are you single?
+1. Do you like people?
+1. Does Santa Claus exist?
+1. Are you part of the Matrix?
+1. You’re cute / beautiful / handsome
+1. Do you have a hobby?
+1. You’re smart / clever / intelligent
+1. Tell me about your personality
+
+### Phrases from users that are NOT HAPPY
+
+1. !#$#% (swear words)
+1. You’re annoying / you suck / you’re boring/bad /crazy
+1. I want to speak to a human / live agent / customer service
+1. Don’t you speak English?!
+1. I want the answer NOW!
+
+### Testing questions 
+
+1. Are you human? / Are you a robot?
+1. What is your name?
+1. How old are you? / What’s your age?
+1. What day is it today?
+1. What do you do with my data? / Do you save what I say?
+1. Who made you?
+1. Which languages can you speak?
+1. What is your mother’s name?
+1. Where do you live?
+1. What’s the weather like today?
+1. Are you expensive?
+1. Who’s your boss / master?
+1. Do you get smarter?
+
 
 <!-- link reference: link "tool tip" -->
 <!-- does link have a .. and/or / in front? https://www.mkdocs.org/user-guide/writing-your-docs/#linking-to-pages-->
@@ -278,3 +277,6 @@ from https://www.leanix.net/en/product/use-cases/technology-risk-management
 [portfolio-provider]: ../metrics/provider-portfolio-report/
 
 [inventory]: ../inventory/ "Inventory"
+
+[^1]: As changing lifecycle to "Phase out" seems extreme when going shopping, we could try using resource classification between IT Component and Technical Stack. People say "Application" but in LeaniX it's "IT Component".
+[^2]: "Data Steward" is a configured [subscription role](https://docs.leanix.net/docs/manage-subscription-roles) on the Data Object factsheet 
