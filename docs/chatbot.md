@@ -25,10 +25,10 @@ The Chatbot will respond with:
 
 ## User Groups
 
-1. What user groups do we have? [^1]^,^[^2]^,^[^6]
+1. What user groups do we have? [^1]^,^[^2]^,^[^4]
     - Returns a count of level 1 user groups.  
     - Returns Factsheet cards for level 1 user groups ordered alphabetically.
-1. Decompose the user group *Marketing*? [^1]^,^[^6]
+1. Decompose the user group *Marketing*? [^1]^,^[^4]
     - Returns a count of the next level of user groups.  
     - Returns Factsheet cards for the next level of user groups ordered alphabetically.
 1. Show me the user group *Direct Marketing*. [^1]
@@ -45,10 +45,10 @@ The Chatbot will respond with:
 
 ## Business Capabilities
 
-1. What business capabilities do we have? [^1]^,^[^2]^,^[^6]
+1. What business capabilities do we have? [^1]^,^[^2]^,^[^4]
     - Returns a count of level 1 business capabilities.  
     - Returns Factsheet cards for level 1 business capabilities in alphabetical order.
-1. Decompose the business capability *Human Resource Management*? [^1]^,^[^6]
+1. Decompose the business capability *Human Resource Management*? [^1]^,^[^4]
     - Returns a count of the next level of business capabilities.  
     - Returns Factsheet cards for the next level of business capabilities ordered alphabetically.
 1. Show me the business capability *Recruiting*. [^1]
@@ -66,10 +66,10 @@ The Chatbot will respond with:
 
 ## Processes
 
-1. What processes do we have? [^1]^,^[^2]^,^[^6]
+1. What processes do we have? [^1]^,^[^2]^,^[^4]
     - Returns a count of level 1 processes.  
     - Returns Factsheet cards for level 1 processes in alphabetical order. 
-1. Decompose the processes *Manage Human Resources*? [^1]^,^[^6]
+1. Decompose the processes *Manage Human Resources*? [^1]^,^[^4]
     - Returns the next level of processes under *Manage Human Resources* in alphabetical order.
 1. Show me the process *Onboard Staff*. [^1]
     - Returns a Factsheet card for the process, e.g. Name, description, tags      
@@ -89,7 +89,7 @@ The Chatbot will respond with:
 
 1. How many applications do we have?
     - Returns a count of Active and Phase out applications
-1. What applications are tagged #Re-assess? [^1]^,^[^2]^,^[^5]
+1. What applications are tagged #Re-assess? [^1]^,^[^2]^,^[^3]
     - Returns a count of applications tagged #Re-assess. 
     - Factsheet cards are returned ordered by date the tag was applied.
 1. Which applications are end-of-life this year? [^2]
@@ -131,7 +131,7 @@ The Chatbot will respond with:
     - Returns a Factsheet cards applications using the data object ordered first by Create, Update, Deleted operations, then Read operations, and second alphabetically.
     
 <!-- hide uncommon questions for now   
-1. Who is the Data Steward[^3] for the data object *Customer*?
+1. Who is the Data Steward[^5] for the data object *Customer*?
     - Returns a Factsheet card for the data object.
 1. What is the data classification of data object *Customer*? 
     - Returns a Factsheet card for the data object.
@@ -140,7 +140,7 @@ The Chatbot will respond with:
 
         
 <!-- hide uncommon questions for now       
-1. ~~Where is data object *Customer* stored?~~ [^7] 
+1. ~~Where is data object *Customer* stored?~~ [^6] 
 --> 
 
 <!--
@@ -149,10 +149,10 @@ The Chatbot will respond with:
 
 ## Projects 
 
-1. What projects/programs do we have? [^2]^,^[^6]
+1. What projects/programs do we have? [^2]^,^[^4]
     - Returns a count of level 1 projects.
     - Factsheet cards are returned for active, level 1 projects in alphabetical order. 
-1. Decompose the project/program *IT Modernisation*? [^1]^,^[^6]
+1. Decompose the project/program *IT Modernisation*? [^1]^,^[^4]
     - Returns a count of the next level projects.  
     - Factsheet cards are returned for the next level of projects in alphabetical order.
 1. Show me project *Cloud Migration*?
@@ -174,10 +174,10 @@ The Chatbot will respond with:
 
 ## Technical Stack
 
-1. What technical categories do we have? [^2]^,^[^6]
+1. What technical categories do we have? [^2]^,^[^4]
     - Returns a count of level 1 technical categories. 
     - Returns level 1 technical categories in alphabetical order. 
-1. Decompose the technical category *Databases*? [^6]
+1. Decompose the technical category *Databases*? [^4]
     - Returns the next level of technical categories in alphabetical order.
 1. What IT Components are in the technical category *Relational Databases*? 
     - Returns a count of IT Components.
@@ -325,8 +325,10 @@ People like to test the limits of a Chatbot. It's good to [respond to small talk
 
 [^1]: Common questions suggested to implement first. 
 [^2]: Perhaps this will return too many factsheets to be useful? Return results in a meaning order. 
-[^3]: "Data Steward" is a configured [subscription role](https://docs.leanix.net/docs/manage-subscription-roles) on the Data Object factsheet 
-[^4]: As changing lifecycle to "Phase out" seems extreme when going shopping, we could try using resource classification between IT Component and Technical Stack. People say "Application" but in LeaniX it's "IT Component".
-[^5]: Useful to inform people performing application upgrades that these make not be required.
-[^6]: This question may be needed to help ask other questions if people aren't familiar with the factsheet names.
-[^7]: Too complex.
+[^3]: Useful to inform people performing application upgrades that these make not be required.
+[^4]: This question may be needed to help ask other questions if people aren't familiar with the factsheet names.
+
+<!--
+[^5]: "Data Steward" is a configured [subscription role](https://docs.leanix.net/docs/manage-subscription-roles) on the Data Object factsheet 
+[^6]: Too complex.
+-->
