@@ -2,7 +2,9 @@
 Title: "Chatbot answers"
 ---
 
-!!! note "Work in progress"
+??? note "Work in progress"
+    - Azure bot [cards](https://docs.microsoft.com/en-us/azure/bot-service/bot-service-design-user-experience?view=azure-bot-service-4.0#cards)
+
 
 # Chatbot answers :fontawesome-solid-robot:{: .grey }
 

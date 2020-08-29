@@ -32,7 +32,7 @@ The Chatbot will respond with:
     - Returns a count of the next level of user groups.  
     - Returns Factsheet cards for the next level of user groups ordered alphabetically.
 1. Show me the user group *Direct Marketing*. [^1]
-    - Returns a Factsheet card for the user group, e.g. Name, description, location, tags   
+    - Returns a Factsheet card for the user group, e.g. Name, description, location, responsible subscription(s), tags   
 1. Which applications support user group *Direct Marketing*? [^1]^,^[^2]
     - Returns a count of used applications. 
     - Returns Application Factsheet cards ordered alphabetically.
@@ -52,7 +52,7 @@ The Chatbot will respond with:
     - Returns a count of the next level of business capabilities.  
     - Returns Factsheet cards for the next level of business capabilities ordered alphabetically.
 1. Show me the business capability *Recruiting*. [^1]
-    - Returns a Factsheet card for the business capability, e.g. Name, description, tags      
+    - Returns a Factsheet card for the business capability, e.g. Name, description, responsible subscription(s), tags      
 1. Which applications support business capability *Staff Recruitment*? [^1]
     - Returns a count of supporting applications. 
     - Returns Factsheet cards ordered alphabetically.
@@ -72,14 +72,14 @@ The Chatbot will respond with:
 1. Decompose the processes *Manage Human Resources*? [^1]^,^[^4]
     - Returns the next level of processes under *Manage Human Resources* in alphabetical order.
 1. Show me the process *Onboard Staff*. [^1]
-    - Returns a Factsheet card for the process, e.g. Name, description, tags      
-1. Who is responsible for process *Onboard Staff*? [^1]
-    - Returns Process Factsheet card     
+    - Returns a Factsheet card for the process, e.g. Name, description, responsible subscription(s), tags       
 1. Which applications support process *Onboard Staff*? [^1]
     - Returns a count of supporting applications. 
     - Returns Application Factsheet cards ordered alphabetically. 
 
-<!-- hide uncommon questions for now           
+<!-- hide uncommon questions for now 
+1. Who is responsible for process *Onboard Staff*? [^1]
+    - Returns Process Factsheet card 
 1. What processes are impacted by project *Cloud Migration*?    
 -->
 
@@ -89,12 +89,28 @@ The Chatbot will respond with:
 
 1. How many applications do we have?
     - Returns a count of Active and Phase out applications
-1. What applications are tagged #Re-assess? [^1]^,^[^2]^,^[^3]
-    - Returns a count of applications tagged #Re-assess. 
+1. What applications are tagged *#Re-assess*? [^1]^,^[^2]^,^[^3]
+    - Returns a count of applications tagged. 
     - Factsheet cards are returned ordered by date the tag was applied.
-1. Which applications are end-of-life this year? [^2]
+1. Which applications are end-of-life this year? [^2]^,^[^5] 
     - Returns a count of applications that have an end&#8209;of&#8209;life lifecycle status within the calendar year. 
-    - Factsheet cards are returned ordered by the end&#8209;of&#8209;life lifecycle status date.
+    - Factsheet cards are returned ordered by the end&#8209;of&#8209;life lifecycle status date.     
+<!--  Questions about a specific Application factsheet -->
+1. Show me application *Dynamics 365*? [^1]
+    - Returns a Factsheet card for the application, e.g. Name, description, lifecycle dates, successor, responsible subscription(s), tags
+    - Asks a clarifying question if the application cannot be uniquely identified.
+1. Who uses application *Zoom*? [^1]
+    - Returns a count of user groups.
+    - Returns a user groups Factsheet cards ordered alphabetically.
+1. What will replace application *Zoom*? [^1]
+    - Returns a Factsheet card for the application.
+    - Returns a Factsheet card for the successor application.
+    - Asks a clarifying question if the application cannot be uniquely identified.
+
+<!--
+1. Does application *Dynamics 365* process sensitive data? 
+    - Returns a count of data objects classified as sensitive that are processed (CRUD) by the application.
+    - Returns a Factsheet card for the data objects classified as sensitive that are processed by the application. Factsheet cards are returned ordered by data classification and then alphabetically.
 1. Which applications are end-of-life this financial year? 
     - Returns a count of applications that have an end&#8209;of&#8209;life lifecycle status within the financial year. Factsheet cards are returned ordered by the end&#8209;of&#8209;life lifecycle status date.  
 1. Which applications will become end-of-life this year? 
@@ -102,36 +118,28 @@ The Chatbot will respond with:
     - Factsheet cards are returned ordered by the end&#8209;of&#8209;life lifecycle status date.    
 1. Which applications will become active this year? 
     - Returns a count of applications that have an active lifecycle status between today and the end of the calendar year. 
-    - Factsheet cards are returned ordered by the active lifecycle status start date.      
+    - Factsheet cards are returned ordered by the active lifecycle status start date. 
 1. What applications are impacted by project *Cloud Migration*?
     - Returns a count of impacted applications. 
     - Factsheet cards are returned ordered alphabetically.
-<!--  Questions about a specific Application factsheet -->
-1. Show me application *Dynamics 365*? [^1]
-    - Returns a Factsheet card for the application, e.g. Name, description, lifecycle dates, successor, responsible subscription(s), tags
-    - Asks a clarifying question if the application cannot be uniquely identified.
 1. Who is responsible for application *Dynamics 365*? [^1]
     - Returns a Factsheet card for the application.
     - Asks a clarifying question if the application cannot be uniquely identified.
-1. Does application *Dynamics 365* process sensitive data? 
-    - Returns a count of data objects classified as sensitive that are processed (CRUD) by the application.
-    - Returns a Factsheet card for the data objects classified as sensitive that are processed by the application. Factsheet cards are returned ordered by data classification and then alphabetically.
-1. Who uses application *Zoom*? [^1]   
-1. What will replace application *Zoom*? [^1]
-    - Returns a Factsheet card for the application.
-    - Returns a Factsheet card for the successor application.
-    - Asks a clarifying question if the application cannot be uniquely identified.
+-->
 
 ## Data
 
+1. What data objects do we have? [^1]^,^[^2]^,^[^4]
+    - Returns a count of level 1 data object.  
+    - Returns Factsheet cards for level 1 data object ordered alphabetically.
 1. Show me the data object *Customer*. [^1]
     - Returns a Factsheet card for the data object showing name, description, data classification and responsible subscriptions.
-1. Which applications use data object *Customer* 
+1. Which applications use data object *Customer*? 
     - Returns a count of applications using the data object.
     - Returns a Factsheet cards applications using the data object ordered first by Create, Update, Deleted operations, then Read operations, and second alphabetically.
     
 <!-- hide uncommon questions for now   
-1. Who is the Data Steward[^5] for the data object *Customer*?
+1. Who is the Data Steward[^6] for the data object *Customer*?
     - Returns a Factsheet card for the data object.
 1. What is the data classification of data object *Customer*? 
     - Returns a Factsheet card for the data object.
@@ -140,12 +148,12 @@ The Chatbot will respond with:
 
         
 <!-- hide uncommon questions for now       
-1. ~~Where is data object *Customer* stored?~~ [^6] 
+1. ~~Where is data object *Customer* stored?~~ [^7] 
 --> 
 
 <!--
 ## Interfaces
--->
+
 
 ## Projects 
 
@@ -155,10 +163,8 @@ The Chatbot will respond with:
 1. Decompose the project/program *IT Modernisation*? [^1]^,^[^4]
     - Returns a count of the next level projects.  
     - Factsheet cards are returned for the next level of projects in alphabetical order.
-1. Show me project *Cloud Migration*?
+1. Show me the project *Cloud Migration*?
     - Returns a Factsheet card for the project, e.g. Name, description, lifecycle dates, successor, responsible subscription(s), tags.
-
-<!-- hide uncommon questions for now 
 1. What is lifecycle of project *Cloud Migration* ? 
     - Returns a Factsheet card for the project with lifecycle dates promoted in the visual hierarchy. 
 -->
@@ -179,11 +185,12 @@ The Chatbot will respond with:
     - Returns level 1 technical categories in alphabetical order. 
 1. Decompose the technical category *Databases*? [^4]
     - Returns the next level of technical categories in alphabetical order.
-1. What IT Components are in the technical category *Relational Databases*? 
+1. What IT Components are in the technical category *Relational Database*? 
     - Returns a count of IT Components.
-    - Returns IT Component Factsheet cards ordered by resource classification (Approved, Conditional, Investigating, Retiring, Unapproved) 
-1. What is our standard IT Component for the technical category *Relational Databases*? 
-    - Returns a Factsheet card for the IT Component where the resource classification is Approved.
+    - Returns IT Component Factsheet cards showing name, description, lifecycle, resource classification and responsible subscriptions.
+    - Factsheet cards ordered by resource classification (Approved, Conditional, Investigating, Retiring, Unapproved) 
+1. What is our standard IT Component for the technical category *Relational Database*? 
+    - Returns a IT Component Factsheet card where the resource classification is Approved.
 
 <!-- hide uncommon questions for now   
 ## Providers
@@ -327,8 +334,9 @@ People like to test the limits of a Chatbot. It's good to [respond to small talk
 [^2]: Perhaps this will return too many factsheets to be useful? Return results in a meaning order. 
 [^3]: Useful to inform people performing application upgrades that these make not be required.
 [^4]: This question may be needed to help ask other questions if people aren't familiar with the factsheet names.
+[^5]: There a many lifecycle status and timeframe variants of this question. 
 
 <!--
-[^5]: "Data Steward" is a configured [subscription role](https://docs.leanix.net/docs/manage-subscription-roles) on the Data Object factsheet 
-[^6]: Too complex.
+[^6]: "Data Steward" is a configured [subscription role](https://docs.leanix.net/docs/manage-subscription-roles) on the Data Object factsheet 
+[^7]: Too complex.
 -->
