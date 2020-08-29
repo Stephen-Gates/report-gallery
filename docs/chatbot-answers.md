@@ -16,8 +16,11 @@ Chatbot questions will be responded to by providing:
 1. the Chatbots inability to answer the question and a call to action, e.g. "I'm sorry I don't understand. I can answer these [questions](/chatbot/#user-groups)."
 1. a small talk reply and call to action  e.g. "My name is Ita. How can I help?."
 
+The format of answers and the ability to show multiple factsheet cards will depend on the Chat platform used, e.g. Slack, [Teams](https://docs.microsoft.com/en-us/microsoftteams/platform/bots/what-are-bots), 
 
-## The answer
+## Answers
+
+#### An answer about the collection of factsheets
 
 The Chatbot can provide an answer about a collection of factsheets and one or more factsheet cards. These cards can be clicked to open the factsheet in the LeaniX inventory.
 
@@ -25,9 +28,19 @@ The Chatbot can provide an answer about a collection of factsheets and one or mo
 
 *Chatbot's answer to "How many applications do we have?", with extra information about recently created applications.*
 
+#### An answer returning multiple factsheets
+
 ![Chatbot Answer](/assets/images/chatbot-multiple-answers.png)
 
 *Chatbot provides a set of factsheets when asked, "Which application supports process Corporate Communications?".*
+
+#### A sample factsheet card 
+
+It may be useful to style factsheet cards based on the cards shown within LeaniX:
+
+![Chatbot Factsheet Card](/assets/images/chatbot-factsheet-card.png)
+
+*Factsheet card from LeanIX.*
 
 ## Clarifying question
 
@@ -36,7 +49,6 @@ Ask to choose between two or more factsheet cards to clarify the question:
 ![Chatbot Answer](/assets/images/chatbot-clarification.png)
 
 *Chatbot seeks clarification about which "Intranet" application when asked, "Who is responsible for application Intranet?".*
-
 
 ## How to access the answer
 

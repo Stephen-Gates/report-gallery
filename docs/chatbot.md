@@ -6,7 +6,7 @@ Title: "Chatbot questions"
 
 # Chatbot questions :fontawesome-solid-robot:{: .grey }
 
-A Chatbot is another way to answer questions. [Chatbots require development](https://www.youtube.com/watch?v=buq0Q-0vdcw&feature=youtu.be) so a limited number of questions may be implemented. Common questions are usually implemented first.
+A Chatbot is another way to answer questions. [Chatbots require development](https://www.youtube.com/watch?v=buq0Q-0vdcw&feature=youtu.be) so a limited number of questions may be implemented. Common questions[^1] are usually implemented first.
 
 Chatbot questions may be:
 
@@ -16,150 +16,195 @@ Chatbot questions may be:
 
 The Chatbot will respond with:
 
-- [the answer](/chatbot-answers/#answer), e.g. "*Alex Bailey* is responsible for the application *Dynamics 365*"
-- a [clarifying question](/chatbot-answers/#clarifying-question), e.g. "Do you mean *Dynamics 365 Marketing* or *Dynamics 365 Field Service*?" 
-- [how to access the answer](/chatbot-answers/#how-to-access-the-answer) if it can't be displayed, e.g. "To see a list of all applications and who is responsible, view the [Inventory][inventory]."
-- an [apology](/chatbot-answers/#apology) for not answering the question, and a call to action e.g. "I'm sorry, I can only answer these [questions](/chatbot/#user-groups)."
-- [small talk](/chatbot-answers/#small-talk) and a call to action, e.g. "I'm a very clever robot. Ask me something."
+- [the answer](../chatbot-answers/#answer), e.g. "*Alex Bailey* is responsible for the application *Dynamics 365*"
+- a [clarifying question](../chatbot-answers/#clarifying-question), e.g. "Do you mean *Dynamics 365 Marketing* or *Dynamics 365 Field Service*?" 
+- [how to access the answer](../chatbot-answers/#how-to-access-the-answer) if it can't be displayed, e.g. "To see a list of all applications and who is responsible, view the [Inventory][inventory]."
+- an [apology](../chatbot-answers/#apology) for not answering the question, and a call to action e.g. "I'm sorry, I can only answer these [questions](../chatbot/#user-groups)."
+- [small talk](../chatbot-answers/#small-talk) and a call to action, e.g. "I'm a very clever robot. Ask me something."
 
 
 ## User Groups
 
-1. Which applications do user group *Customers* use?
+1. What user groups do we have? [^1]^,^[^2]^,^[^6]
+    - Returns a count of level 1 user groups.  
+    - Returns Factsheet cards for level 1 user groups ordered alphabetically.
+1. Decompose the user group *Marketing*? [^1]^,^[^6]
+    - Returns a count of the next level of user groups.  
+    - Returns Factsheet cards for the next level of user groups ordered alphabetically.
+1. Show me the user group *Direct Marketing*. [^1]
+    - Returns a Factsheet card for the user group, e.g. Name, description, location, tags   
+1. Which applications support user group *Direct Marketing*? [^1]^,^[^2]
+    - Returns a count of used applications. 
+    - Returns Application Factsheet cards ordered alphabetically.
+    
+<!-- hide uncommon questions for now       
+1. Who is impacted by project *Cloud Migration*?
+    - Returns a count of impacted user groups. 
+    - Returns User Group Factsheet cards ordered alphabetically.  
+-->
 
 ## Business Capabilities
 
-1. Which applications support business capability *Customer Management*?
+1. What business capabilities do we have? [^1]^,^[^2]^,^[^6]
+    - Returns a count of level 1 business capabilities.  
+    - Returns Factsheet cards for level 1 business capabilities in alphabetical order.
+1. Decompose the business capability *Human Resource Management*? [^1]^,^[^6]
+    - Returns a count of the next level of business capabilities.  
+    - Returns Factsheet cards for the next level of business capabilities ordered alphabetically.
+1. Show me the business capability *Recruiting*. [^1]
+    - Returns a Factsheet card for the business capability, e.g. Name, description, tags      
+1. Which applications support business capability *Staff Recruitment*? [^1]
+    - Returns a count of supporting applications. 
+    - Returns Factsheet cards ordered alphabetically.
+    
+<!-- hide uncommon questions for now           
+1. What business capabilities are impacted by project *Cloud Migration*?
+    - Returns a count of impacted business capabilities. 
+    - Returns Business Capability Factsheet cards ordered alphabetically.     
 1. What is the IT cost of business capability *Human Resource Management*?
+-->
 
 ## Processes
 
-1. Who is responsible for process *Onboard Staff*?
-1. Which applications support process *Define Project Portfolio*?
-    1. Which business critical applications support process *Identify Customer*?
+1. What processes do we have? [^1]^,^[^2]^,^[^6]
+    - Returns a count of level 1 processes.  
+    - Returns Factsheet cards for level 1 processes in alphabetical order. 
+1. Decompose the processes *Manage Human Resources*? [^1]^,^[^6]
+    - Returns the next level of processes under *Manage Human Resources* in alphabetical order.
+1. Show me the process *Onboard Staff*. [^1]
+    - Returns a Factsheet card for the process, e.g. Name, description, tags      
+1. Who is responsible for process *Onboard Staff*? [^1]
+    - Returns Process Factsheet card     
+1. Which applications support process *Onboard Staff*? [^1]
+    - Returns a count of supporting applications. 
+    - Returns Application Factsheet cards ordered alphabetically. 
+
+<!-- hide uncommon questions for now           
+1. What processes are impacted by project *Cloud Migration*?    
+-->
 
 ## Applications
 
+<!-- Questions about the collection of Application factsheets -->
+
 1. How many applications do we have?
-1. Show me application *Dynamics 365*?
-1. Which applications will become end-of-life this year?
-1. Which applications will become active this year?
-1. Who is responsible for an application *Dynamics 365*?
-1. Who uses application *Zoom*? 
-1. What will replace application *Zoom*? 
-1. What applications have changed to #contain?[^1]
+    - Returns a count of Active and Phase out applications
+1. What applications are tagged #Re-assess? [^1]^,^[^2]^,^[^5]
+    - Returns a count of applications tagged #Re-assess. 
+    - Factsheet cards are returned ordered by date the tag was applied.
+1. Which applications are end-of-life this year? [^2]
+    - Returns a count of applications that have an end&#8209;of&#8209;life lifecycle status within the calendar year. 
+    - Factsheet cards are returned ordered by the end&#8209;of&#8209;life lifecycle status date.
+1. Which applications are end-of-life this financial year? 
+    - Returns a count of applications that have an end&#8209;of&#8209;life lifecycle status within the financial year. Factsheet cards are returned ordered by the end&#8209;of&#8209;life lifecycle status date.  
+1. Which applications will become end-of-life this year? 
+    - Returns a count of applications that have an end&#8209;of&#8209;life lifecycle status between today and the end of the  calendar year. 
+    - Factsheet cards are returned ordered by the end&#8209;of&#8209;life lifecycle status date.    
+1. Which applications will become active this year? 
+    - Returns a count of applications that have an active lifecycle status between today and the end of the calendar year. 
+    - Factsheet cards are returned ordered by the active lifecycle status start date.      
 1. What applications are impacted by project *Cloud Migration*?
+    - Returns a count of impacted applications. 
+    - Factsheet cards are returned ordered alphabetically.
+<!--  Questions about a specific Application factsheet -->
+1. Show me application *Dynamics 365*? [^1]
+    - Returns a Factsheet card for the application, e.g. Name, description, lifecycle dates, successor, responsible subscription(s), tags
+    - Asks a clarifying question if the application cannot be uniquely identified.
+1. Who is responsible for application *Dynamics 365*? [^1]
+    - Returns a Factsheet card for the application.
+    - Asks a clarifying question if the application cannot be uniquely identified.
 1. Does application *Dynamics 365* process sensitive data? 
-1. What is the IT cost of operating application  *Dynamics 365*?
+    - Returns a count of data objects classified as sensitive that are processed (CRUD) by the application.
+    - Returns a Factsheet card for the data objects classified as sensitive that are processed by the application. Factsheet cards are returned ordered by data classification and then alphabetically.
+1. Who uses application *Zoom*? [^1]   
+1. What will replace application *Zoom*? [^1]
+    - Returns a Factsheet card for the application.
+    - Returns a Factsheet card for the successor application.
+    - Asks a clarifying question if the application cannot be uniquely identified.
 
 ## Data
 
-1. Who is the Data Steward[^2] for the data object *Customer*?
-1. What is the data classification? 
-1. [How are data objects grouped?][factsheet-map-data-object]
-1. [What applications manage or access data?](https://store.leanix.net/en/report-details/753b11a9-4e86-4fad-a840-f76341bad983/c7d772df-2988-4024-920f-fb732d95cedc) :octicons-link-external-16:{: .grey } 
-    1. What applications manage or access sensitive data?
-1. Where is data stored? <!-- /location/it-component-location-report -->
-    1. Is any sensitive data stored in other countries? i.e.  Is there a sovereignty risk?
+1. Show me the data object *Customer*. [^1]
+    - Returns a Factsheet card for the data object showing name, description, data classification and responsible subscriptions.
+1. Which applications use data object *Customer* 
+    - Returns a count of applications using the data object.
+    - Returns a Factsheet cards applications using the data object ordered first by Create, Update, Deleted operations, then Read operations, and second alphabetically.
+    
+<!-- hide uncommon questions for now   
+1. Who is the Data Steward[^3] for the data object *Customer*?
+    - Returns a Factsheet card for the data object.
+1. What is the data classification of data object *Customer*? 
+    - Returns a Factsheet card for the data object.
+--> 
+    
+
+        
+<!-- hide uncommon questions for now       
+1. ~~Where is data object *Customer* stored?~~ [^7] 
+--> 
 
 <!--
 ## Interfaces
-
-1. [What interfaces do we use?][inventory] 
-1. [Which applications provide or consume interfaces?][interface-circle]
-1. [How does data flow between applications?][data-flow]
-    1. How is it the data transported? e.g. by file or API
-    1. What is the frequency of data flows? e.g. real-time, hourly, or daily
-    1. What is the data classification?
-    1. Which application provides the interface?
-    1. Which applications consume the interface?
-
 -->
 
 ## Projects 
 
-1. [What projects do we have?][inventory]
-    1. How are projects grouped? e.g. Portfolios, Programs, and Projects
-1. [When will a project start or end?][roadmap-project]
-1. What applications will be changed by a project? - *(Free Draw diagram? Use smart explorer for a single project)*
-1. [What user groups are impacted by projects because of the applications they change?][landscape-project-user-group]
-1. [What business capabilities are impacted by projects because of the applications they change?][landscape-project-business-capability]
-1. [What processes are impacted by projects because of the applications they change?][landscape-project-process]
-1. What is a project's budget? - *(factsheet?)*
-1. [Is the project budget on track?][cost-project]
-1. [Which projects provide the highest value at the lowest risk?][portfolio-project]
+1. What projects/programs do we have? [^2]^,^[^6]
+    - Returns a count of level 1 projects.
+    - Factsheet cards are returned for active, level 1 projects in alphabetical order. 
+1. Decompose the project/program *IT Modernisation*? [^1]^,^[^6]
+    - Returns a count of the next level projects.  
+    - Factsheet cards are returned for the next level of projects in alphabetical order.
+1. Show me project *Cloud Migration*?
+    - Returns a Factsheet card for the project, e.g. Name, description, lifecycle dates, successor, responsible subscription(s), tags.
 
+<!-- hide uncommon questions for now 
+1. What is lifecycle of project *Cloud Migration* ? 
+    - Returns a Factsheet card for the project with lifecycle dates promoted in the visual hierarchy. 
+-->
+
+<!-- hide uncommon questions for now
 ## IT Components
 
-1. [What IT Components do we have?][inventory], what are their properties, and who manages them? 
-1. [Where are IT Components located?][location-it-component-location]
-1. What technology implements an application? IT Component matrix with Application children or data flow or free draw
-1. [How is the technology portfolio planned to evolve year by year?](/matrix/it-component-matrix-reports/#time-technical-stack) 
-    1. [What is the technology roadmap?][roadmap-it-component]
-    1. [What projects are implementing the technology roadmap?][roadmap-project]
-1. What are our technical standards (preferred product to perform a function)? IT Component landscape with resource classification view - not answering functional bit. Need resource classification between application and business capability
-  1. Which are standard technologies and can we reuse a solution?
-1. What is the  our technical standards (preferred product to perform a function)? IT Component landscape with resource classification view - not answering functional bit. Need resource classification between application and business capability
-1. [Is there opportunity to consolidate technologies?][landscape-it-component-technical-stack]
-1. How is an application hosted and how is this planned to evolve?
-1. [What is the planned lifecycle of an IT component][roadmap-it-component]
-
+1. Show me IT Component *SQL Server*?
+    - Returns a Factsheet card for the IT Component, e.g. Name, description, lifecycle dates, successor, responsible subscription(s), tags, location
+1. Where is IT Component *SQL Server* located? 
+    - Returns a Factsheet card for the IT Component
+-->
 
 ## Technical Stack
 
-1. [What technology categories do we use to classify IT components?][inventory]
-1. [How are technology categories grouped?][factsheet-map-technical-stack]
-1. [What IT components are preferred to implement a technology category?][landscape-it-component-technical-stack]
-1. What is our standard for 
+1. What technical categories do we have? [^2]^,^[^6]
+    - Returns a count of level 1 technical categories. 
+    - Returns level 1 technical categories in alphabetical order. 
+1. Decompose the technical category *Databases*? [^6]
+    - Returns the next level of technical categories in alphabetical order.
+1. What IT Components are in the technical category *Relational Databases*? 
+    - Returns a count of IT Components.
+    - Returns IT Component Factsheet cards ordered by resource classification (Approved, Conditional, Investigating, Retiring, Unapproved) 
+1. What is our standard IT Component for the technical category *Relational Databases*? 
+    - Returns a Factsheet card for the IT Component where the resource classification is Approved.
 
+<!-- hide uncommon questions for now   
 ## Providers
 
-1. Show me provider *name*?
-1. Who is the provider of IT Component *name*?
-1. How much be we spend with Provider *name*? 
+1. Show me provider *Microsoft*?
+    - Returns a Factsheet card for the provider, e.g. Name, description, lifecycle dates, responsible subscription(s), tags.
+1. Who is the provider of IT component *Azure hosting*?
+    - Returns a Factsheet card for the provider.
+-->
 
-<!-- 
+<!-- hide uncommon questions for now   
+## Data quality
 
-## other
-
-From https://www.leanix.net/en/product/use-cases/integration-architecture-management
-
-1. Is the data flow compromised by outdated Applications?
-1. Are the Applications technically suited for the specific purpose?
-1. How critical are the Applications in the data flow?
-1. Which Applications are using employee data?
-1. Is any customer data stored outside Europe?
-1. Are there conflicts in manipulating data ("CRUD")?
-1. How is the information flow across the Application Portfolio?
-1. How are Applications interacting with each other and how often?
-1. Are certain Applications a point of failure due to their high number of interfaces?
-
-from https://www.leanix.net/en/product/use-cases/application-portfolio-management
-
-1. Spot insufficient or unreasonable Functional Fit in an instant.
-1. Communicate Applications that are going to be replaced with a Successor Application.
-1. Identify the highest priorities to tackle first and focus your investments.
-1. In which Applications to invest?
-1. How well are Business Capabilities supported by Applications?
-1. Who is using Applications where: Do we have support gaps? Do we have redundancies?
-1. Who is providing the Application: Is this an effective setup?
-1. How does the Application portfolio evolve over time?
-1. Is the Application portfolio in line with our strategic business priorities?
-
-from https://www.leanix.net/en/product/use-cases/technology-risk-management
-
-1. Insights into whether an Application and the Business Capability it supports are at risk is therefore derived from the underlying IT Components.
-1. How many IT Components are redundant?
-1. Which Applications are at risk as the underlying IT components are out of the lifecycle?
-1. Which IT Components go Out-of-Life?
-1. Which Countries are most affected by Tech Risk?
-1. Which actions are planned to mitigate the risk by the individual Application owners?
-
+1. Show my to dos.
+1. Show my overdue to dos.  
+1. Show my broken quality seals
 -->
 
 ## Small talk
 
-People like to test the limits of a chatbot. It's good to respond to smalltalk.
+People like to test the limits of a Chatbot. It's good to [respond to small talk](../chatbot-answers/#small-talk).
 
 ### Greetings
 
@@ -278,5 +323,10 @@ People like to test the limits of a chatbot. It's good to respond to smalltalk.
 
 [inventory]: ../inventory/ "Inventory"
 
-[^1]: As changing lifecycle to "Phase out" seems extreme when going shopping, we could try using resource classification between IT Component and Technical Stack. People say "Application" but in LeaniX it's "IT Component".
-[^2]: "Data Steward" is a configured [subscription role](https://docs.leanix.net/docs/manage-subscription-roles) on the Data Object factsheet 
+[^1]: Common questions suggested to implement first. 
+[^2]: Perhaps this will return too many factsheets to be useful? Return results in a meaning order. 
+[^3]: "Data Steward" is a configured [subscription role](https://docs.leanix.net/docs/manage-subscription-roles) on the Data Object factsheet 
+[^4]: As changing lifecycle to "Phase out" seems extreme when going shopping, we could try using resource classification between IT Component and Technical Stack. People say "Application" but in LeaniX it's "IT Component".
+[^5]: Useful to inform people performing application upgrades that these make not be required.
+[^6]: This question may be needed to help ask other questions if people aren't familiar with the factsheet names.
+[^7]: Too complex.
