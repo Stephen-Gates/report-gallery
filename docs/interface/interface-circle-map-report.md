@@ -4,20 +4,16 @@ title: "Interface Circle Map report"
 
 ??? note "Work in progress"
     - See [LeanIX Docs](https://docs.leanix.net/docs/integration-architecture#use-the-interface-circle-map-to-get-a-high-level-overview)
-    - Think of good wording for "what is the question"
+    - https://docs.leanix.net/docs/interfaces-modeling
 
 # Interface Circle Map report
 
 The Interface Circle Map report answers the question:
 
->What is the question?
+>Which applications provide or consume interfaces?
 
 
-![Placeholder](../assets/images/interface-circle-map-thumbnail.png) 
-
-<!--
-![](https://www.leanix.net/hubfs/2019%20LX%20Website/General/Illu/ia-interface-circle-8-Col-XL.svg)
--->
+[![Placeholder](../assets/images/interface-circle-map.png)](../assets/images/interface-circle-map.png)  
 
 *Interface Circle Map report.*
 
@@ -27,7 +23,10 @@ The Interface Circle Map report answers the question:
 
 The following factsheets and associated properties are required:
 
-- ???
+- Application
+- Interface
+- Data
+- IT Component
 
 <!--
 #### Tags 
@@ -41,11 +40,13 @@ The following factsheets and associated properties are required:
 
 ## Settings
 
-**???** setting
+Displayed this report as a map or a table.
 
 ## View
 
-???
+Application can be arranged Alphabetically or Grouped by Business Capability.
+
+Applications that don't provide or consume interfaces can be hidden on the map
 
 <!--
 ### Tags

@@ -7,7 +7,7 @@ title: "Factsheet Map report"
 
 The Factsheet Map report shows a hierarchy of one factsheet type. 
 
-![Factsheet Map report](../assets/images/factsheet-map-thumbnail.png) 
+![Factsheet Map report](../assets/images/factsheet-map-thumbnail.png)
 
 The Factsheet Map report can be displayed as a:
 
@@ -27,7 +27,7 @@ The Business Capability Factsheet Map report answers the question:
 
 > What business capabilities support our business?
 
-![Business Capability Factsheet Map report](../assets/images/factsheet-map-business-capability.png)
+[![Business Capability Factsheet Map report](../assets/images/factsheet-map-business-capability.png)](../assets/images/factsheet-map-business-capability.png)
 
 *Factsheet Map report for Business Capabilities, Lifecycle view, Wrapped layout, Editing enabled.*
 
@@ -91,7 +91,7 @@ The Data Object Factsheet Map report answers the question:
 
 > What data objects do we manage?
 
-![Business Capability Factsheet Map report](../assets/images/factsheet-map-data-object.png)
+[![Business Capability Factsheet Map report](../assets/images/factsheet-map-data-object.png)](../assets/images/factsheet-map-data-object.png)
 
 *Factsheet Map report for Data Objects, Data Classification view, Wrapped layout.*
 
@@ -154,7 +154,7 @@ The Process Factsheet Map report answers the question:
 
 > What processes support our business?
 
-![Process Factsheet Map report](../assets/images/factsheet-map-process.png)
+[![Process Factsheet Map report](../assets/images/factsheet-map-process.png)](../assets/images/factsheet-map-process.png)
 
 *Factsheet Map report for Processes, Lifecycle view.*
 
@@ -219,7 +219,7 @@ The Technical Stack Factsheet Map report answers the question:
 
 >What Technical Stacks classify our IT Components?]
 
-![Technical Stack Map report](../assets/images/factsheet-map-technical-stack.png)
+[![Technical Stack Map report](../assets/images/factsheet-map-technical-stack.png)](../assets/images/factsheet-map-technical-stack.png)
 
 *Factsheet Map report for Technical Stack, IT Component Resource Classification view, Wrapped layout.*
 
@@ -279,7 +279,7 @@ The User Group Factsheet Map report answers the question:
 
 >What User Groups are part of, or interact with, our business?
 
-![User Group Factsheet Map report](../assets/images/factsheet-map-user-group.png)
+[![User Group Factsheet Map report](../assets/images/factsheet-map-user-group.png)](../assets/images/factsheet-map-user-group.png)
 
 *Factsheet Map report for User Group, Lifecycle view, Wrapped layout.*
 

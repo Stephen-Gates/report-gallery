@@ -8,64 +8,50 @@ title: Types of reports
 Choose a report to discover the questions it can answer and how to re-create it using LeanIX.
 
 <!-- Grid with text alt -->
-[![Factsheet Map reports](/assets/images/factsheet-map-thumbnail.png)][factsheet-map]
+
+[![Factsheet Map reports](../assets/images/factsheet-map-thumbnail.png)][factsheet-map]
 
 [Factsheet Map reports][factsheet-map] show a hierarchy of one factsheet type.
 
-[![Landscape reports](/assets/images/landscape-thumbnail.png)][landscape]
+[![Landscape reports](../assets/images/landscape-thumbnail.png)][landscape]
 
 [Landscape reports][landscape] show one factsheet type within the hierarchy of another. 
 
-[![Matrix reports](/assets/images/matrix-thumbnail.png)][matrix]
+[![Matrix reports](../assets/images/matrix-thumbnail.png)][matrix]
 
 [Matrix reports][matrix] show one factsheet type within a matrix of other factsheet types or time.
 
-[![Roadmap reports](/assets/images/roadmap-thumbnail.png)][roadmap]
+[![Roadmap reports](../assets/images/roadmap-thumbnail.png)][roadmap]
 
 [Roadmap reports][roadmap] show the lifecycle of factsheets over time. 
 
-[![Interface Circle Map report](/assets/images/interface-circle-map-thumbnail.png)][interface]
+[![Interface Circle Map report](../assets/images/interface-circle-map-thumbnail.png)][interface]
 
 The [Interface Circle Map][interface] shows a high-level view of interfaces between applications in the portfolio.
 
-[![Data Flow diagram](/assets/images/data-flow-thumbnail.png)][data-flow]
+[![Data Flow diagram](../assets/images/data-flow-thumbnail.png)][data-flow]
 
 [Data Flow diagrams][data-flow] show interfaces between selected applications.
 
-[![Location reports](/assets/images/location-thumbnail.png)][location]
+[![Location reports](../assets/images/location-thumbnail.png)][location]
 
 [Location reports][location] show a geographic map of user group or IT component locations.
 
-[![Cost reports](/assets/images/cost-thumbnail.png)][cost]
+[![Cost reports](../assets/images/cost-thumbnail.png)][cost]
 
 [Cost reports][cost] total to costs associated with a business capability, project or provider.
 
-[![Portfolio reports](/assets/images/portfolio-thumbnail.png)][portfolio]
+[![Portfolio reports](../assets/images/portfolio-thumbnail.png)][portfolio]
 
 [Portfolio reports][portfolio] show a grid of applications, projects or providers measured against two criteria.
 
-[![Lifecycle and Age reports](/assets/images/lifecycle-age-thumbnail.png)][lifecycle-age]
+[![Lifecycle and Age reports](../assets/images/lifecycle-age-thumbnail.png)][lifecycle-age]
 
 [Lifecycle and Age reports][lifecycle-age] show the number of applications added or removed from the portfolio over time.
 
-[![Inventory](/assets/images/inventory-thumbnail.png)][inventory]
+[![Inventory](../assets/images/inventory-thumbnail.png)][inventory]
 
 The [Inventory][inventory] shows a table of factsheets and their properties.
-
-<!-- Grid of report images 
-[![Factsheet Map reports](../assets/images/factsheet-map-thumbnail.png)][factsheet-map]
-[![Landscape reports](../assets/images/landscape-thumbnail.png)][landscape]
-[![Matrix reports](../assets/images/matrix-thumbnail.png)][matrix]
-[![Roadmap reports](../assets/images/roadmap-thumbnail.png)][roadmap]
-[![Interface Circle Map report](../assets/images/interface-circle-map-thumbnail.png)][interface]
-[![Data Flow diagram](../assets/images/data-flow-thumbnail.png)][data-flow]
-[![Location reports](../assets/images/location-thumbnail.png)][location]
-[![Cost reports](../assets/images/cost-thumbnail.png)][cost]
-[![Portfolio reports](../assets/images/portfolio-thumbnail.png)][portfolio]
-[![Lifecycle and Age reports](../assets/images/lifecycle-age-thumbnail.png)][lifecycle-age]
-[![Inventory reports](../assets/images/inventory-thumbnail.png)][inventory]
--->
-
 
 <!-- leanix images
 <a href="metrics/index.md" title="Portfolio report"><img src="https://www.leanix.net/hubfs/2019%20LX%20Website/General/Illu/bubblechart-8-Col-XL.svg" alt="Portfolio report" width="320"></a> 
