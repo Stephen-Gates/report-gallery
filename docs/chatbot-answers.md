@@ -40,7 +40,7 @@ The Chatbot can provide an answer about a collection of factsheets and one or mo
 
 It may be useful to style factsheet cards based on the cards shown within LeaniX:
 
-![Chatbot Factsheet Card](../assets/images/chatbot-factsheet-card.png)
+![Chatbot Factsheet Card](../assets/images/chatbot-card-application.png)
 
 *Factsheet card from LeanIX.*
 
