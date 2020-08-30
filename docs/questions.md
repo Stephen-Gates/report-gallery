@@ -26,7 +26,7 @@ Title: "Questions you can answer with LeanIX reports"
 - Questions based on a view using tags may not listed as tags are unique to your LeanIX implementation. Questions requiring tags are marked with *[tags]* 
 - Where I don't know how best to phrase a question, there may be an alternative phrasing as a sub-question, marked with *[alternative]*. 
     - My leaning is to put the factsheet that provides the answer as the first part of the question but sometime this doesn't sound natural.
-    - If questions are phrased how people commonly ask, then it will be easier to turn this resource into a [chatbot][chatbot].
+    - If questions are phrased how people commonly ask, then it will be easier to turn this resource into a [chatbot][chatbot]. :fontawesome-solid-robot:{: .grey }
 
 ## User Groups
 
@@ -37,7 +37,7 @@ Title: "Questions you can answer with LeanIX reports"
     1. [How are user groups organised in a hierarchy?][factsheet-map-user-group]  *[alternative]*
 1. [Which applications are used by a user group?][landscape-application-user-group] 
     1. [Which applications are used by #external user groups?][landscape-application-user-group] *[tags]* <!-- this requires an internal/external tag on the user group factsheet -->
-    1. Who uses application *name*? :fontawesome-solid-robot:{: .grey }
+    1. Who uses application *name*? 
 1. [Where are users of applications located?][location-application-usage]
     1. Where are applications used? *[alternative]* 
     

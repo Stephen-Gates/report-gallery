@@ -44,6 +44,7 @@ theme:
   favicon: assets/images/favicon.png
   features:
     - search.highlight
+    - header.hide
     #- navigation.expand
   #clash with insiders custom_dir?   
   #custom_dir: overrides 
