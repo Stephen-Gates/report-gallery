@@ -26,7 +26,7 @@ Title: "Questions you can answer with LeanIX reports"
 - Questions based on a view using tags may not listed as tags are unique to your LeanIX implementation. Questions requiring tags are marked with *[tags]* 
 - Where I don't know how best to phrase a question, there may be an alternative phrasing as a sub-question, marked with *[alternative]*. 
     - My leaning is to put the factsheet that provides the answer as the first part of the question but sometime this doesn't sound natural.
-    - If questions are phrased how people commonly ask, then it will be easier to turn this resource into a [chatbot][https://stephen-gates.github.io/chatbot/site/]. :fontawesome-solid-robot:{: .grey }
+    - If questions are phrased how people commonly ask, then it will be easier to turn this resource into a [chatbot](https://stephen-gates.github.io/chatbot/site/). :fontawesome-solid-robot:{: .grey }
 
 ## User Groups
 
