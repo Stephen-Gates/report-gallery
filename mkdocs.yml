@@ -44,7 +44,7 @@ theme:
   favicon: assets/images/favicon.png
   features:
     - search.highlight
-    - header.hide
+    #- header.hide
     #- navigation.expand
   #clash with insiders custom_dir?   
   #custom_dir: overrides 
@@ -131,12 +131,12 @@ nav:
     - Application Roadmap: roadmap/application-roadmap-reports.md
     - IT Component Roadmap: roadmap/it-component-roadmap-reports.md
     - Project Roadmap: roadmap/project-roadmap-reports.md  
-  - Interface:
-    - About Interface reports: interface/index.md
+  - Circle Map:
+    #- About Interface reports: interface/index.md
     - Interface Circle Map: interface/interface-circle-map-report.md
-    - Data Flow diagram: interface/data-flow-diagram.md        
-  - Location:
-    - About Location reports: location/index.md
+    #- Data Flow diagram: interface/data-flow-diagram.md        
+  - World Map:
+    - About World Map reports: location/index.md
     - Application Sourcing: location/application-sourcing-report.md
     - Application Usage: location/application-usage-report.md
     - IT Component Location: location/it-component-location-report.md 
@@ -145,8 +145,8 @@ nav:
     - Business Capability Costs: cost/business-capability-cost-report.md
     - Project Costs: cost/project-cost-report.md
     - Provider Costs: cost/provider-cost-report.md                 
-  - Metrics:
-    - About Metrics reports: metrics/index.md
+  - Portfolio:
+    - About Portfolio reports: metrics/index.md
     - Application Portfolio: metrics/application-portfolio-report.md
     - Project Portfolio: metrics/project-portfolio-report.md
     - Provider Portfolio: metrics/provider-portfolio-report.md

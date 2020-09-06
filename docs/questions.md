@@ -23,28 +23,27 @@ Title: "Questions you can answer with LeanIX reports"
 
 - The questions below are arranged by the factsheets involved in answering the question. 
 - Questions answered by using a built-in view are shown as sub-questions. 
-- Questions based on a view using tags may not listed as tags are unique to your LeanIX implementation. Questions requiring tags are marked with *[tags]* 
+- Questions based on a view using tags are marked with *[tags]*. Tags are unique to your LeanIX implementation. 
 - Where I don't know how best to phrase a question, there may be an alternative phrasing as a sub-question, marked with *[alternative]*. 
     - My leaning is to put the factsheet that provides the answer as the first part of the question but sometime this doesn't sound natural.
     - If questions are phrased how people commonly ask, then it will be easier to turn this resource into a [chatbot](https://stephen-gates.github.io/chatbot/site/). :fontawesome-solid-robot:{: .grey }
 
 ## User Groups
 
-1. [What user groups do we have?][inventory]
-    1. [What user groups are #internal to our organisation?][inventory] *[tags]*
-    1. [What user groups are #external to our organisation?][inventory] *[tags]*
-1. [How are user groups organised?][factsheet-map-user-group] 
-    1. [How are user groups organised in a hierarchy?][factsheet-map-user-group]  *[alternative]*
-1. [Which applications are used by a user group?][landscape-application-user-group] 
-    1. [Which applications are used by #external user groups?][landscape-application-user-group] *[tags]* <!-- this requires an internal/external tag on the user group factsheet -->
-    1. Who uses application *name*? 
-1. [Where are users of applications located?][location-application-usage]
-    1. Where are applications used? *[alternative]* 
+1. [What user groups are part of, or interact with, our organisation?][inventory]
+    1. Which user groups are #internal to our organisation? *[tags]*
+    1. Which user groups are #external to our organisation? *[tags]*
+    1. Which #external user groups use our #internet channel? *[tags]*
+1. [How are user groups structured?][factsheet-map-user-group] 
+1. [What applications support user groups?][landscape-application-user-group] 
+    1. Which applications do #external user groups use? *[tags]* <!-- this requires an internal/external tag on the user group factsheet -->
+1. [Where are application users located?][location-application-usage]
+
     
 ## Business Capabilities
 
 1. [What business capabilities support our organisation?][inventory]
-1. [How are business capabilities grouped?][factsheet-map-business-capability]
+1. [How are business capabilities structured?][factsheet-map-business-capability]
 1. [Which applications support business capabilities?][landscape-application-business-capability] 
     1. Which business capabilities are supported by applications?  *[alternative]*
     1. Which business capabilities are impacted when an application fails? 
@@ -52,11 +51,10 @@ Title: "Questions you can answer with LeanIX reports"
 
 ## Processes
 
-1. [What processes do we perform?][inventory]
+1. [What processes does our organisation perform?][inventory]
     1. Who are the stakeholders?
-1. [How are processes grouped?][factsheet-map-process]
+1. [How are processes structured?][factsheet-map-process]
 1. [Which applications support processes?][landscape-application-process]
-    1. Which processes are supported by applications?  *[alternative]*
     1. What processes are impacted when an application fails?
     1. Which applications are business critical in supporting a process?
 
@@ -66,7 +64,7 @@ Title: "Questions you can answer with LeanIX reports"
 1. [What applications do we have?][inventory]
     1. Who are the stakeholders?
     1. Who is responsible for an application?
-1. [How many applications do we have?][inventory]    
+1. [How many applications do we have?][inventory]
 1. [When are applications planned to change?][roadmap-application]
     1. When will successor applications replace existing applications?  
 <!-- Application × User Group factsheet questions -->
@@ -112,7 +110,7 @@ Title: "Questions you can answer with LeanIX reports"
 1. [What data objects do we use?][inventory]
     1. Who are the stakeholders?
     1. What is the data classification? 
-1. [How are data objects grouped?][factsheet-map-data-object]
+1. [How are data objects structured?][factsheet-map-data-object]
 1. [What applications manage or access data?](https://store.leanix.net/en/report-details/753b11a9-4e86-4fad-a840-f76341bad983/c7d772df-2988-4024-920f-fb732d95cedc) :octicons-link-external-16:{: .grey } 
     1. What applications manage or access sensitive data?
 1. Where is data stored? <!-- /location/it-component-location-report -->
@@ -132,7 +130,7 @@ Title: "Questions you can answer with LeanIX reports"
 ## Projects 
 
 1. [What projects do we have?][inventory]
-    1. How are projects grouped? e.g. Portfolios, Programs, and Projects
+    1. How are projects structured? e.g. Portfolios, Programs, and Projects
 1. [When will a project start or end?][roadmap-project]
 1. What applications will be changed by a project? - *(Free Draw diagram? Use smart explorer for a single project)*
 1. [What user groups are impacted by projects because of the applications they change?][landscape-project-user-group]
@@ -161,7 +159,7 @@ Title: "Questions you can answer with LeanIX reports"
 ## Technical Stack
 
 1. [What technology categories do we use to classify IT components?][inventory]
-1. [How are technology categories grouped?][factsheet-map-technical-stack]
+1. [How are technology categories structured?][factsheet-map-technical-stack]
 1. [What IT components are preferred to implement a technology category?][landscape-it-component-technical-stack]
 
 
@@ -169,9 +167,9 @@ Title: "Questions you can answer with LeanIX reports"
 
 1. [What providers do we use?][inventory]
 1. [What IT components does a provider supply?][landscape-it-component-provider]
-1. What is the aggregate risk around a provider?
+1. What is the risk of a provider?
 1. [Is there an opportunity to reduce the number of providers we deal with by changing technologies](/matrix/it-component-matrix-reports/#technical-stack-provider)
-1. [What is the aggregate IT spend by provider?][cost-provider]
+1. [What is the total IT spend by provider?][cost-provider]
 1. [Which provider relationships need closer management?][portfolio-provider]
 
 <!-- 

@@ -1,14 +1,14 @@
 ---
-title: "Interface reports"
+title: "Circle Map reports"
 ---
 
 ??? note "Work in progress"
     - What do the reports show?
     - What is the question?
 
-# About Interface reports
+# About Circle Map reports
 
-Interface reports shows, either:
+Circle Map reports shows, either:
 
 - A high-level view of the applications that provide or consume interfaces
 - A detailed diagram of data flows between specific applications
@@ -29,9 +29,10 @@ A [Data Flow diagram][data-flow] answers the question:
 
 >How does data flow between applications?
 
-:fontawesome-regular-check-circle:{: .check-circle }  Interface reports are standard LeanIX reports.
+:fontawesome-regular-check-circle:{: .check-circle }  Interface Circle Map reports are standard LeanIX reports.
 
 <!-- Links --> 
 
 [interface]: interface-circle-map-report.md "Interface Circle Map report"
 [data-flow]: data-flow-diagram.md "Data Flow diagram"
+Circle Map

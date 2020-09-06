@@ -29,13 +29,15 @@ Choose a report to discover the questions it can answer and how to re-create it 
 
 The [Interface Circle Map][interface] shows a high-level view of interfaces between applications in the portfolio.
 
+<!--
 [![Data Flow diagram](../assets/images/data-flow-thumbnail.png)][data-flow]
 
 [Data Flow diagrams][data-flow] show interfaces between selected applications.
+-->
 
-[![Location reports](../assets/images/location-thumbnail.png)][location]
+[![World Map reports](../assets/images/world-map-thumbnail.png)][location]
 
-[Location reports][location] show a geographic map of user group or IT component locations.
+[World Maps][location] show a geographic map of user group or IT component locations.
 
 [![Cost reports](../assets/images/cost-thumbnail.png)][cost]
 

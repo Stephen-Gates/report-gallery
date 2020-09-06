@@ -1,12 +1,12 @@
 ---
-title: "Metrics reports"
+title: "Portfolio reports"
 ---
 
 !!! note "Work in progress"
 
-# About Metrics reports
+# About Portfolio reports
 
-The Metrics reports show...
+The Portfolio reports show...
 
 [![Portfolio](../assets/images/portfolio-thumbnail.png)][portfolio]
 [![Lifecycle and Age](../assets/images/lifecycle-age-thumbnail.png)][lifecycle-age]
@@ -24,7 +24,7 @@ There are four types of reports:
     - *How many Applications are Active or being Phased out each month?*
     - *How many Applications became Active each year?*
 
-:fontawesome-regular-check-circle:{: .check-circle }  Metrics reports are standard LeanIX reports.
+:fontawesome-regular-check-circle:{: .check-circle }  Portfolio reports are standard LeanIX reports.
 
 <!-- links -->
 
