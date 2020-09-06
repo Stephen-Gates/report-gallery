@@ -119,24 +119,27 @@ Title: "Questions you can answer with LeanIX reports"
 ## Interfaces
 
 1. [What interfaces do we use?][inventory] 
-1. [Which applications provide or consume interfaces?][interface-circle]
+1. [Which applications provide or consume interfaces?][circle-map]
+
+<!--
 1. [How does data flow between applications?][data-flow]
     1. How is it the data transported? e.g. by file or API
     1. What is the frequency of data flows? e.g. real-time, hourly, or daily
     1. What is the data classification?
     1. Which application provides the interface?
     1. Which applications consume the interface?
+-->
 
 ## Projects 
 
 1. [What projects do we have?][inventory]
-    1. How are projects structured? e.g. Portfolios, Programs, and Projects
+<!--    1. How are projects structured? e.g. Portfolios, Programs, and Projects. Not available in Factsheet Maps -->
 1. [When will a project start or end?][roadmap-project]
-1. What applications will be changed by a project? - *(Free Draw diagram? Use smart explorer for a single project)*
+<!-- 1. What applications will be changed by a project? *(Free Draw diagram? Use smart explorer for a single project)* -->
 1. [What user groups are impacted by projects because of the applications they change?][landscape-project-user-group]
 1. [What business capabilities are impacted by projects because of the applications they change?][landscape-project-business-capability]
 1. [What processes are impacted by projects because of the applications they change?][landscape-project-process]
-1. What is a project's budget? - *(factsheet?)*
+<!-- 1. What is a project's budget? - *(factsheet?)*  -->
 1. [Is the project budget on track?][cost-project]
 1. [Which projects provide the highest value at the lowest risk?][portfolio-project]
 
@@ -144,7 +147,7 @@ Title: "Questions you can answer with LeanIX reports"
 
 1. [What IT Components do we have?][inventory], what are their properties, and who manages them? 
 1. [Where are IT Components located?][location-it-component-location]
-1. What technology implements an application? IT Component matrix with Application children or data flow or free draw
+1. What technology implements an application? <!--IT Component matrix with Application children or data flow or free draw -->
 1. [How is the technology portfolio planned to evolve year by year?](/matrix/it-component-matrix-reports/#time-technical-stack) 
     1. [What is the technology roadmap?][roadmap-it-component]
     1. [What projects are implementing the technology roadmap?][roadmap-project]
@@ -260,9 +263,7 @@ from https://www.leanix.net/en/product/use-cases/technology-risk-management
 [location-application-usage]: ../location/application-usage-report
 [location-it-component-location]: ../location/it-component-location-report
 
-[interface]: ../interface/ "Interface reports"
-[interface-circle]: ../interface/interface-circle-map-report "Interface Circle Map report"
-[data-flow]: ../interface/data-flow-diagram "Data Flow diagram"
+[circle-map]: ../interface/ "Interface Circle Map"
 
 [cost]: ../cost/ "Cost reports"
 [cost-business-capability]: ../cost/business-capability-cost-report

@@ -314,7 +314,7 @@ People like to test the limits of a Chatbot. It's good to [respond to small talk
 [location-it-component-location]: ../location/it-component-location-report
 
 [interface]: ../interface/ "Interface reports"
-[interface-circle]: ../interface/interface-circle-map-report "Interface Circle Map report"
+[interface-circle]: ../interface/ "Interface Circle Map report"
 [data-flow]: ../interface/data-flow-diagram "Data Flow diagram"
 
 [cost]: ../cost/ "Cost reports"

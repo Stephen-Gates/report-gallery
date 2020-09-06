@@ -115,6 +115,7 @@ nav:
   - Home: index.md
   - Reports: reports.md
   - Questions: questions.md
+  - Inventory : inventory/index.md  
   - Factsheet Map: factsheet-map/index.md
   - Landscape: 
     - About Landscape reports: landscape/index.md
@@ -131,9 +132,9 @@ nav:
     - Application Roadmap: roadmap/application-roadmap-reports.md
     - IT Component Roadmap: roadmap/it-component-roadmap-reports.md
     - Project Roadmap: roadmap/project-roadmap-reports.md  
-  - Circle Map:
+  - Circle Map: interface/index.md
     #- About Interface reports: interface/index.md
-    - Interface Circle Map: interface/interface-circle-map-report.md
+    #- Interface Circle Map: interface/index.md
     #- Data Flow diagram: interface/data-flow-diagram.md        
   - World Map:
     - About World Map reports: location/index.md
@@ -151,7 +152,6 @@ nav:
     - Project Portfolio: metrics/project-portfolio-report.md
     - Provider Portfolio: metrics/provider-portfolio-report.md
     - Lifecycle and Age: metrics/lifecycle-and-age-report.md
-  - Inventory : inventory/index.md  
   - Difficult questions: difficult-questions.md
   - About:
     - Suggest a change: about/index.md

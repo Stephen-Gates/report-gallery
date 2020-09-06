@@ -1,38 +1,68 @@
 ---
-title: "Circle Map reports"
+title: "Interface Circle Map" 
 ---
 
 ??? note "Work in progress"
-    - What do the reports show?
-    - What is the question?
+    - See [LeanIX Docs](https://docs.leanix.net/docs/integration-architecture#use-the-interface-circle-map-to-get-a-high-level-overview)
+    - https://docs.leanix.net/docs/interfaces-modeling
 
-# About Circle Map reports
+# Interface Circle Map
 
-Circle Map reports shows, either:
+## Overview 
 
-- A high-level view of the applications that provide or consume interfaces
-- A detailed diagram of data flows between specific applications
-
-[![Interface Circle Map report](../assets/images/interface-circle-map-thumbnail.png)][interface]
-[![Data Flow diagram](../assets/images/data-flow-thumbnail.png)][data-flow]
-
-<!--
-![](https://www.leanix.net/hubfs/2019%20LX%20Website/General/Illu/ia-interface-circle-8-Col-XL.svg) ![](https://www.leanix.net/hubfs/2019-LX-Website/Product/UC%20-%20IntArch/ia-information-flow-8-Col-XL.svg)
---> 
-
-
-The [Interface Circle Map][interface] answers the question:
+The Interface Circle Map answers the question:
 
 >Which applications provide or consume interfaces?
 
-A [Data Flow diagram][data-flow] answers the question:
+[![Placeholder](../assets/images/interface-circle-map.png)](../assets/images/interface-circle-map.png)  
 
->How does data flow between applications?
+*Interface Circle Map, Applications not providing or consuming interfaces are hidden.*
 
-:fontawesome-regular-check-circle:{: .check-circle }  Interface Circle Map reports are standard LeanIX reports.
+:fontawesome-regular-check-circle:{: .check-circle } The Interface Circle Map is a standard LeanIX report.
 
-<!-- Links --> 
+## Requirements
 
-[interface]: interface-circle-map-report.md "Interface Circle Map report"
-[data-flow]: data-flow-diagram.md "Data Flow diagram"
-Circle Map
+### Factsheets
+
+The following factsheets and associated properties are required:
+
+- Application
+- Interface
+- Data
+- IT Component
+
+<!--
+#### Tags 
+
+- No tags are required for this report
+
+#### Other requirements
+
+- No other requirements
+-->
+
+## Settings
+
+Display this report as a map or a table.
+
+## View
+
+Applications can be arranged Alphabetically or Grouped by Business Capability.
+
+Applications that don't provide or consume interfaces can be hidden on the map.
+
+<!--
+### Tags
+
+No tags are required for this report.
+-->
+
+## Filters
+
+Use filters to focus on the required Interfaces
+
+<!--
+## Editing
+
+This report cannot be edited.
+->

@@ -8,7 +8,7 @@ title: "World Map reports"
 
 World Map reports show a geographic map overlaid (by Country or location) associated with either the User Group or IT Component.
 
-![Placeholder](../assets/images/location-thumbnail.png) 
+![Placeholder](../assets/images/world-map-thumbnail.png) 
 
 There are three reports: 
 

@@ -65,12 +65,12 @@ The [Inventory][inventory] shows a table of factsheets and their properties.
 -->
 
 <!-- links -->
-[factsheet-map]: ../factsheet-map/ "Factsheet Map reports"
+[factsheet-map]: ../factsheet-map/ "Factsheet Maps"
 [landscape]: ../landscape/ "Landscape reports"
 [matrix]: ../matrix/ "Matrix reports"
 [roadmap]: ../roadmap/ "Roadmap reports"
-[location]: ../location/ "Location reports"
-[interface]: ../interface/interface-circle-map-report "Interface Circle Map report"
+[location]: ../location/ "World maps"
+[interface]: ../interface/ "Interface Circle Maps"
 [data-flow]: ../interface/data-flow-diagram "Data Flow diagram"
 [cost]: ../cost/ "Cost reports"
 [lifecycle-age]: ../metrics/lifecycle-and-age-report "Lifecycle and Age reports"

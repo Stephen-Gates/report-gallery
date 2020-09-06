@@ -1,15 +1,15 @@
 ---
-title: "Factsheet Map report"
+title: "Factsheet Maps"
 ---
 
-# Factsheet Map report
+# Factsheet Map 
 ## Overview
 
-The Factsheet Map report shows a hierarchy of one factsheet type. 
+The Factsheet Map shows a hierarchy of one factsheet type. 
 
-![Factsheet Map report](../assets/images/factsheet-map-thumbnail.png)
+![Factsheet Map ](../assets/images/factsheet-map-thumbnail.png)
 
-The Factsheet Map report can be displayed as a:
+The Factsheet Map can be displayed as a:
 
 - [Business Capability Map](#business-capability) - How are business capabilities grouped?
 - [Data Object Map](#data-object) - How are data objects grouped?
@@ -17,19 +17,19 @@ The Factsheet Map report can be displayed as a:
 - [Technical Stack Map](#technical-stack) - How are technology categories grouped?
 - [User Group Map](#user-group) - How are user groups organised in a hierarchy?
 
-:material-arrow-down-circle:{: .store } The Factsheet Map report is a custom LeanIX report available in the [LeanIX Store](https://store.leanix.net/en/report-details/f7fd185e-10a5-4496-affe-8884f54de96d/749ef021-c59a-4fd1-8ae6-65e05dcf9bbd).
+:material-arrow-down-circle:{: .store } The Factsheet Map is a custom LeanIX report available in the [LeanIX Store](https://store.leanix.net/en/report-details/f7fd185e-10a5-4496-affe-8884f54de96d/749ef021-c59a-4fd1-8ae6-65e05dcf9bbd).
 
 ---
 
 ## Business Capability 
 
-The Business Capability Factsheet Map report answers the question:
+The Business Capability Factsheet Map answers the question:
 
 > What business capabilities support our business?
 
 [![Business Capability Factsheet Map report](../assets/images/factsheet-map-business-capability.png)](../assets/images/factsheet-map-business-capability.png)
 
-*Factsheet Map report for Business Capabilities, Lifecycle view, Wrapped layout, Editing enabled.*
+*Factsheet Map for Business Capabilities, Lifecycle view, Wrapped layout, Editing enabled.*
 
 ### Requirements
 
@@ -52,7 +52,7 @@ The following factsheets and associated properties are required:
 ### Settings
 
 - Factsheet type -  choose Business Capability
-- Wrap layout -  to display the report within the width of the window to avoid horizontal scrolling
+- Wrap layout -  to display the map within the width of the window to avoid horizontal scrolling
 
 ### View
 
@@ -87,13 +87,13 @@ Enable editing to allow you to move, remove or add factsheets. These changes are
 
 ## Data Object  
 
-The Data Object Factsheet Map report answers the question:
+The Data Object Factsheet Map answers the question:
 
 > What data objects do we manage?
 
 [![Business Capability Factsheet Map report](../assets/images/factsheet-map-data-object.png)](../assets/images/factsheet-map-data-object.png)
 
-*Factsheet Map report for Data Objects, Data Classification view, Wrapped layout.*
+*Factsheet Map for Data Objects, Data Classification view, Wrapped layout.*
 
 ### Requirements
 
@@ -150,13 +150,13 @@ Enable editing to allow you to move, remove or add factsheets. These changes are
 
 ## Process 
 
-The Process Factsheet Map report answers the question:
+The Process Factsheet Map answers the question:
 
 > What processes support our business?
 
 [![Process Factsheet Map report](../assets/images/factsheet-map-process.png)](../assets/images/factsheet-map-process.png)
 
-*Factsheet Map report for Processes, Lifecycle view.*
+*Factsheet Map for Processes, Lifecycle view.*
 
 ### Requirements
 
@@ -215,13 +215,13 @@ Enable editing to allow you to move, remove or add factsheets. These changes are
 
 ## Technical Stack 
 
-The Technical Stack Factsheet Map report answers the question:
+The Technical Stack Factsheet Map answers the question:
 
 >What Technical Stacks classify our IT Components?]
 
 [![Technical Stack Map report](../assets/images/factsheet-map-technical-stack.png)](../assets/images/factsheet-map-technical-stack.png)
 
-*Factsheet Map report for Technical Stack, IT Component Resource Classification view, Wrapped layout.*
+*Factsheet Map for Technical Stack, IT Component Resource Classification view, Wrapped layout.*
 
 ### Requirements
 
@@ -275,13 +275,13 @@ Enable editing to allow you to move, remove or add factsheets. These changes are
 
 ## User Group  
 
-The User Group Factsheet Map report answers the question:
+The User Group Factsheet Map answers the question:
 
 >What User Groups are part of, or interact with, our business?
 
 [![User Group Factsheet Map report](../assets/images/factsheet-map-user-group.png)](../assets/images/factsheet-map-user-group.png)
 
-*Factsheet Map report for User Group, Lifecycle view, Wrapped layout.*
+*Factsheet Map for User Group, Lifecycle view, Wrapped layout.*
 
 ### Requirements
 
