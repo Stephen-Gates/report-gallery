@@ -3,8 +3,10 @@ title: Home
 description: Discover the questions you can answer using LeanIX reports
 ---
 
+<!--
 ??? warning "Alpha"
     This is a work in progress and will probably have broken links, typos and random thoughts scattered across the site.
+-->
  
 # Get started 
 
