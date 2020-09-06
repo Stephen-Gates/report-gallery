@@ -45,7 +45,7 @@ The following factsheets and associated properties are required:
 
 ## Settings
 
-Displayed this report as a map or a table. 
+Display this report as a map or a table. 
 
 ## View
 

@@ -41,7 +41,7 @@ Other factsheets may be require to display related factsheets on the diagram
 
 ## Settings
 
-Displayed this report as a map or a table.
+None.
 
 ## View
 
