@@ -1,17 +1,14 @@
 ---
 title: Home
-description: Discover the questions you can answer using LeanIX reports.
+description: Discover the questions you can answer using LeanIX reports
 ---
 
-<!--
 ??? warning "Alpha"
     This is a work in progress and will probably have broken links, typos and random thoughts scattered across the site.
--->
  
 # Get started 
 
 The LeanIX Report Gallery helps Enterprise Architects find and re-create reports that answer questions and influence decisions.
-
 
 - Explore the different **[types of reports](reports/)** you can create.
 
