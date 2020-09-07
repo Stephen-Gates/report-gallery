@@ -16,7 +16,7 @@ There are two IT Component Landscape reports that show the IT Component Landscap
 - [Providers]() - *What Providers supply our IT Components?*
 
 
-![Placeholder](https://dummyimage.com/800x450/eee/aaa)
+[![Application Landscape report](/assets/images/it-component-landscape.png)](/assets/images/it-component-landscape.png)
 
 <!--
 ![](https://www.leanix.net/hubfs/techrisk-redundant-components-8-Col-XL.svg)

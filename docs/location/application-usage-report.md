@@ -13,7 +13,7 @@ The Application Usage report answers the question:
 
 This is useful... ???
 
-![Placeholder](https://dummyimage.com/800x450/eee/aaa)
+[![Application Sourcing](/assets/images/application-usage.png)](/assets/images/application-usage.png)
 
 <!--
 ![](https://www.leanix.net/hubfs/worldmap-8-Col-XL.svg)

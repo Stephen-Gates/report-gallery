@@ -19,14 +19,14 @@ The Application Landscape report answers the questions:
 The report shows Applications, within a hierarchy of either, [Business Capabilities](#business-capability), [Processes](#process), or [User Groups](#user-group)
 
 
-![Placeholder](https://dummyimage.com/800x450/eee/aaa)
+[![Application Landscape report](/assets/images/application-landscape.png)](/assets/images/application-landscape.png)
 
 <!--
 ![](https://www.leanix.net/hubfs/2019%20LX%20Website/General/Illu/techrisk-drilldown-7-Col-XL.svg)
 -->
 
 
-*Application Landscape for Business Capabilities*
+*Application Landscape for Business Capabilities, Business Criticality view.*
 
 --- 
 

@@ -9,15 +9,16 @@ title: "IT Component Matrix reports"
 
 ## Overview
 
-The Application Matrix report answers the question:
+The IT Component Matrix report answers the question:
 
 >?
 
 This is useful if generic statement about all reports of this type with this focus
 
-![Placeholder](https://dummyimage.com/800x450/eee/aaa)
+<!--
+[![IT Component Landscape report](/assets/images/it-component-matrix.png)](/assets/images/it-component-matrix.png)
 
-*Caption.*
+*IT Component Matrix report.*
 
 ### Requirements
 
@@ -36,7 +37,7 @@ The following factsheets and associated properties are required:
 #### Other requirement
 
 - No other requirements
--->
+
 
 
 #### Settings
@@ -53,7 +54,7 @@ Use filters to focus on the required IT Components.
 
 Consider adding a Tag to the IT Component to reflect the highest Data Classification of data it stores or processes. This will enable you to filter for IT Components that manage "Confidential&nbsp;(L-3)" or "Restricted&nbsp;(L-2)" data.
 
-<!--
+
 #### Editing
 
 This report cannot be edited
@@ -69,7 +70,7 @@ This Report Instance One name report answers the question:
 
 This is useful specifically for... 
 
-![Placeholder](https://dummyimage.com/800x450/eee/aaa)
+[![IT Component Landscape report](/assets/images/it-component-matrix-ts-provider.png)](/assets/images/it-component-matrix-ts-provider.png)
 
 *Caption.*
 
@@ -112,7 +113,7 @@ This Report Instance Two name report answers the question:
 
 This is useful specifically for... 
 
-![Placeholder](https://dummyimage.com/800x450/eee/aaa)
+[![IT Component Landscape report](/assets/images/it-component-matrix-time-provider.png)](/assets/images/it-component-matrix-time-provider.png)
 
 *Caption.*
 
@@ -155,7 +156,7 @@ This Report Instance Two name report answers the question:
 
 This is useful specifically for... 
 
-![Placeholder](https://dummyimage.com/800x450/eee/aaa)
+[![IT Component Landscape report](/assets/images/it-component-matrix-time-ts.png)](/assets/images/it-component-matrix-time-ts.png)
 
 *Caption.*
 

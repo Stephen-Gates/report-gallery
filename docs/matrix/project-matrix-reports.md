@@ -14,6 +14,7 @@ The Project Matrix report answers the question:
 
 This is useful if generic statement about all reports of this type with this focus
 
+<!--
 ![Placeholder](https://dummyimage.com/800x450/eee/aaa)
 
 *Caption.*
@@ -34,7 +35,7 @@ No tags are required for this report.
 #### Other requirement
 
 No other requirements
--->
+
 
 #### Settings
 
@@ -50,7 +51,7 @@ The views available are:
 
 Use filters to focus on the required Projects.
 
-<!--
+
 #### Editing
 
 This report cannot be edited
@@ -66,7 +67,7 @@ This Report Instance One name report answers the question:
 
 This is useful specifically for... 
 
-![Placeholder](https://dummyimage.com/800x450/eee/aaa)
+[![Project Landscape report](/assets/images/project-matrix-bc-provider.png)](/assets/images/project-matrix-bc-provider.png)
 
 *Caption.*
 
@@ -108,7 +109,7 @@ This Report Instance Two name report answers the question:
 
 This is useful specifically for... 
 
-![Placeholder](https://dummyimage.com/800x450/eee/aaa)
+[![Project Landscape report](/assets/images/project-matrix-bc-ug.png)](/assets/images/project-matrix-bc-ug.png)
 
 *Caption.*
 
@@ -150,7 +151,7 @@ This Report Instance Two name report answers the question:
 
 This is useful specifically for... 
 
-![Placeholder](https://dummyimage.com/800x450/eee/aaa)
+[![Project Landscape report](/assets/images/project-matrix-time-bc.png)](/assets/images/project-matrix-time-bc.png)
 
 *Caption.*
 
@@ -193,7 +194,7 @@ This Report Instance Two name report answers the question:
 
 This is useful specifically for... 
 
-![Placeholder](https://dummyimage.com/800x450/eee/aaa)
+[![Project Landscape report](/assets/images/project-matrix-time-provider.png)](/assets/images/project-matrix-time-provider.png)
 
 *Caption.*
 
@@ -237,7 +238,7 @@ This Report Instance Two name report answers the question:
 
 This is useful specifically for... 
 
-![Placeholder](https://dummyimage.com/800x450/eee/aaa)
+[![Project Landscape report](/assets/images/project-matrix-time-ug.png)](/assets/images/project-matrix-time-ug.png)
 
 *Caption.*
 

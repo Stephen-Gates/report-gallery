@@ -15,13 +15,13 @@ The Application Matrix report answers the question:
 This is useful if generic statement about all reports of this type with this focus
 
 
-![Placeholder](https://dummyimage.com/800x450/eee/aaa)
+[![Application Landscape report](/assets/images/application-matrix-bc-ug.png)](/assets/images/application-matrix-bc-ug.png)
 
 <!--
 ![](https://www.leanix.net/hubfs/2019%20LX%20Website/General/Illu/overview-techrisk-6-Col-XL.svg)
 -->
 
-*Caption.*
+*Application Matrix report.*
 
 ### Requirements
 
