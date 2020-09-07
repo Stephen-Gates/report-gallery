@@ -2,7 +2,8 @@
 title: "Factsheet Maps"
 ---
 
-# Factsheet Map 
+# Factsheet Map
+
 ## Overview
 
 The Factsheet Map shows a hierarchy of one factsheet type. 

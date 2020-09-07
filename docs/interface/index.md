@@ -1,5 +1,5 @@
 ---
-title: "Interface Circle Map" 
+title: "Interface Circle Map"
 ---
 
 ??? note "Work in progress"
@@ -9,6 +9,10 @@ title: "Interface Circle Map"
 # Interface Circle Map
 
 ## Overview 
+
+The Interface Circle Map shows...
+
+![Factsheet Map ](../assets/images/interface-circle-map-thumbnail.png)
 
 The Interface Circle Map answers the question:
 
