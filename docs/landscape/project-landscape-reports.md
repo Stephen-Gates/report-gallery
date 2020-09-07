@@ -16,7 +16,7 @@ There are three Project Landscape reports that show the Project Landscape, withi
 - [Processes](#process) - *What Projects impact Processes?*
 - [User Groups](#user-group) - *What Projects impact User Groups?*
 
-[![Application Landscape report](/assets/images/project-landscape.png)](/assets/images/project-landscape.png)
+![Application Landscape report](/assets/images/project-landscape.png){: .zoom }  
 
 *Project Landscape for Business Capabilities*
 
@@ -30,7 +30,7 @@ This report answers the question:
 
 This is useful specifically for... 
 
-![Placeholder](https://dummyimage.com/800x450/eee/aaa)
+![Placeholder](https://dummyimage.com/800x450/eee/aaa){: .zoom }  
 
 *Caption.*
 
@@ -73,7 +73,7 @@ This report answers the question:
 
 This is useful specifically for... 
 
-![Placeholder](https://dummyimage.com/800x450/eee/aaa)
+![Placeholder](https://dummyimage.com/800x450/eee/aaa){: .zoom }  
 
 *Caption.*
 
@@ -117,7 +117,7 @@ This report answers the question:
 
 This is useful specifically for... 
 
-![Placeholder](https://dummyimage.com/800x450/eee/aaa)
+![Placeholder](https://dummyimage.com/800x450/eee/aaa){: .zoom }  
 
 *Caption.*
 

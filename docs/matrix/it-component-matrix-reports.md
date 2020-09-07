@@ -15,8 +15,8 @@ The IT Component Matrix report answers the question:
 
 This is useful if generic statement about all reports of this type with this focus
 
-<!--
-[![IT Component Landscape report](/assets/images/it-component-matrix.png)](/assets/images/it-component-matrix.png)
+
+![IT Component Matrix report](/assets/images/it-component-matrix.png){: .zoom }  
 
 *IT Component Matrix report.*
 
@@ -70,7 +70,7 @@ This Report Instance One name report answers the question:
 
 This is useful specifically for... 
 
-[![IT Component Landscape report](/assets/images/it-component-matrix-ts-provider.png)](/assets/images/it-component-matrix-ts-provider.png)
+![IT Component Matrix report](/assets/images/it-component-matrix-ts-provider.png){: .zoom }  
 
 *Caption.*
 
@@ -113,7 +113,7 @@ This Report Instance Two name report answers the question:
 
 This is useful specifically for... 
 
-[![IT Component Landscape report](/assets/images/it-component-matrix-time-provider.png)](/assets/images/it-component-matrix-time-provider.png)
+![IT Component Matrix report](/assets/images/it-component-matrix-time-provider.png){: .zoom }  
 
 *Caption.*
 
@@ -156,7 +156,7 @@ This Report Instance Two name report answers the question:
 
 This is useful specifically for... 
 
-[![IT Component Landscape report](/assets/images/it-component-matrix-time-ts.png)](/assets/images/it-component-matrix-time-ts.png)
+![IT Component Matrix report](/assets/images/it-component-matrix-time-ts.png){: .zoom }  
 
 *Caption.*
 

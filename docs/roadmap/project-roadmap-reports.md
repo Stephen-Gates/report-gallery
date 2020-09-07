@@ -6,4 +6,4 @@ title: "Project Roadmap reports"
 
 # Project Roadmap reports
 
-![Placeholder](https://dummyimage.com/800x450/eee/aaa) 
+![Placeholder](https://dummyimage.com/800x450/eee/aaa){: .zoom }   

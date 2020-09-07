@@ -12,6 +12,25 @@
   --md-primary-fg-color--dark:  #033AAA;
 }
 
+
+img {
+    height: auto;
+    width: auto;
+    border: 1px solid #eeeeee;
+    transition: transform ease-in-out 0.3s;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+img.zoom:active {
+    cursor: zoom-out;
+    transform: scale(2.0);
+}
+
+img.zoom {
+    cursor: zoom-in;
+}
+
+
 .grey {
   color: #C1CDDF;
 }

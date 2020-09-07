@@ -15,7 +15,7 @@ The Application Matrix report answers the question:
 This is useful if generic statement about all reports of this type with this focus
 
 
-[![Application Landscape report](/assets/images/application-matrix-bc-ug.png)](/assets/images/application-matrix-bc-ug.png)
+![Application Matrix report](/assets/images/application-matrix-bc-ug.png){: .zoom }  
 
 <!--
 ![](https://www.leanix.net/hubfs/2019%20LX%20Website/General/Illu/overview-techrisk-6-Col-XL.svg)
@@ -100,7 +100,7 @@ This report answers the question:
 
 This is useful specifically for... 
 
-![Placeholder](https://dummyimage.com/800x450/eee/aaa)
+![Placeholder](https://dummyimage.com/800x450/eee/aaa){: .zoom }  
 
 *Caption.*
 
@@ -202,7 +202,7 @@ This report answers the question:
 
 This is useful specifically for... 
 
-![Placeholder](https://dummyimage.com/800x450/eee/aaa)
+![Placeholder](https://dummyimage.com/800x450/eee/aaa){: .zoom }  
 
 *Caption.*
 
@@ -245,7 +245,7 @@ This report answers the question:
 
 This is useful specifically for... 
 
-![Placeholder](https://dummyimage.com/800x450/eee/aaa)
+![Placeholder](https://dummyimage.com/800x450/eee/aaa){: .zoom }  
 
 *Caption.*
 
@@ -318,12 +318,12 @@ This Report Instance One name report answers the question:
 
 This is useful specifically for... 
 
+
+![Placeholder](https://dummyimage.com/800x450/eee/aaa){: .zoom }  
+
 <!--
-![Placeholder](https://dummyimage.com/800x450/eee/aaa)
--->
-
 ![](https://www.leanix.net/hubfs/2019%20LX%20Website/General/Illu/apmkey-strategic-priorities-8-Col-XL.svg)
-
+-->
 *Caption.*
 
 ### Requirements
@@ -395,7 +395,7 @@ This Report Instance Two name report answers the question:
 
 This is useful specifically for... 
 
-![Placeholder](https://files.readme.io/98a1c29-Picture1.png)
+![Placeholder](https://files.readme.io/98a1c29-Picture1.png){: .zoom }  
 
 *Caption.*
 

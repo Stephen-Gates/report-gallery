@@ -20,7 +20,7 @@ The costs for a Provider are calculated based on:
 - ~~filtered by an Application Lifecycle that is effective within time frame or at a point of time~~
 - ~~filtered by any other constraints to focus on the area of interest~~
 
-![Provider Cost report](/assets/images/cost-provider.png)
+![Provider Cost report](/assets/images/cost-provider.png){: .zoom }
 
 *Provider Cost report for Applications with Any Lifecycle value effective within the 2020 timeframe*
 
@@ -55,7 +55,7 @@ Overlapping dates on relationships and report date filter.
 
 Display this report as a chart or table. The table view cannot show the annual costs as they are stored on the Provider - IT Component relationship.
 
-![Provider Cost report](/assets/images/cost-provider-table.png)
+![Provider Cost report](/assets/images/cost-provider-table.png){: .zoom }
 
 ## View
 

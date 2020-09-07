@@ -13,7 +13,7 @@ The Lifecycle and Age report answers the questions:
 >- How many applications are active or are being phased out each year?
 >- How many applications became active each year?
 
-![](../assets/images/lifecycle-age-active-view.png)
+![](../assets/images/lifecycle-age-active-view.png){: .zoom }  
 
 *Lifecycle and Age report, "Active" view, filtered by "On-Premise" tag.*
 
@@ -41,7 +41,7 @@ No other requirements
 
 Display this report as a chart or table. 
 
-![](../assets/images/lifecycle-age-active-view-table.png)
+![](../assets/images/lifecycle-age-active-view-table.png){: .zoom }  
 
 ## View
 

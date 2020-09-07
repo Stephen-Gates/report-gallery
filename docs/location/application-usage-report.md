@@ -13,7 +13,7 @@ The Application Usage report answers the question:
 
 This is useful... ???
 
-[![Application Sourcing](/assets/images/application-usage.png)](/assets/images/application-usage.png)
+![Application Sourcing](/assets/images/application-usage.png){: .zoom }  
 
 <!--
 ![](https://www.leanix.net/hubfs/worldmap-8-Col-XL.svg)

@@ -12,13 +12,13 @@ title: "Interface Circle Map"
 
 The Interface Circle Map shows...
 
-![Factsheet Map ](../assets/images/interface-circle-map-thumbnail.png)
+![Interface Circle Map](../assets/images/interface-circle-map-thumbnail.png)
 
 The Interface Circle Map answers the question:
 
 >Which applications provide or consume interfaces?
 
-[![Placeholder](../assets/images/interface-circle-map.png)](../assets/images/interface-circle-map.png)  
+![Interface Circle Map](../assets/images/interface-circle-map.png){: .zoom }  
 
 *Interface Circle Map, Applications not providing or consuming interfaces are hidden.*
 

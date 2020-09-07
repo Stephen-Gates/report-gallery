@@ -14,7 +14,7 @@ The IT Component Location report answers the question:
 
 This is useful if your company has policies or regulations it needs to follow regarding data held in other Countries.
 
-[![IT Component Location](/assets/images/it-component-location.png)](/assets/images/it-component-location.png)
+![IT Component Location](/assets/images/it-component-location.png){: .zoom }  
 
 *IT Component Location report, By Country view.*
 
@@ -49,7 +49,7 @@ The views available are:
 1. **By Country** (default)
 2. **By Location** - a circle centred on a City, State, or Country (based on the location precision provided), with the size of the circle representing the relative number of IT Components at that location
 
-[![IT Component Location By Country](/assets/images/it-component-location-country.png)](/assets/images/it-component-location-country.png)
+![IT Component Location By Country](/assets/images/it-component-location-country.png){: .zoom }
 
 Use **Zoom** to pan and zoom to a geographic area:
 

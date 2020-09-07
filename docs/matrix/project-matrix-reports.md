@@ -15,7 +15,7 @@ The Project Matrix report answers the question:
 This is useful if generic statement about all reports of this type with this focus
 
 <!--
-![Placeholder](https://dummyimage.com/800x450/eee/aaa)
+![Placeholder](https://dummyimage.com/800x450/eee/aaa){: .zoom }  
 
 *Caption.*
 
@@ -67,7 +67,7 @@ This Report Instance One name report answers the question:
 
 This is useful specifically for... 
 
-[![Project Landscape report](/assets/images/project-matrix-bc-provider.png)](/assets/images/project-matrix-bc-provider.png)
+![Project Matrix report](/assets/images/project-matrix-bc-provider.png){: .zoom }  
 
 *Caption.*
 
@@ -109,7 +109,7 @@ This Report Instance Two name report answers the question:
 
 This is useful specifically for... 
 
-[![Project Landscape report](/assets/images/project-matrix-bc-ug.png)](/assets/images/project-matrix-bc-ug.png)
+![Project Matrix report](/assets/images/project-matrix-bc-ug.png){: .zoom }  
 
 *Caption.*
 
@@ -151,7 +151,7 @@ This Report Instance Two name report answers the question:
 
 This is useful specifically for... 
 
-[![Project Landscape report](/assets/images/project-matrix-time-bc.png)](/assets/images/project-matrix-time-bc.png)
+![Project Matrix report](/assets/images/project-matrix-time-bc.png){: .zoom }  
 
 *Caption.*
 
@@ -194,7 +194,7 @@ This Report Instance Two name report answers the question:
 
 This is useful specifically for... 
 
-[![Project Landscape report](/assets/images/project-matrix-time-provider.png)](/assets/images/project-matrix-time-provider.png)
+![Project Matrix report](/assets/images/project-matrix-time-provider.png){: .zoom }  
 
 *Caption.*
 
@@ -238,7 +238,7 @@ This Report Instance Two name report answers the question:
 
 This is useful specifically for... 
 
-[![Project Landscape report](/assets/images/project-matrix-time-ug.png)](/assets/images/project-matrix-time-ug.png)
+![Project Matrix report](/assets/images/project-matrix-time-ug.png){: .zoom }  
 
 *Caption.*
 

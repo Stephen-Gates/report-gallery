@@ -16,7 +16,7 @@ There are two IT Component Landscape reports that show the IT Component Landscap
 - [Providers]() - *What Providers supply our IT Components?*
 
 
-[![Application Landscape report](/assets/images/it-component-landscape.png)](/assets/images/it-component-landscape.png)
+![Application Landscape report](/assets/images/it-component-landscape.png){: .zoom }  
 
 <!--
 ![](https://www.leanix.net/hubfs/techrisk-redundant-components-8-Col-XL.svg)
@@ -34,7 +34,7 @@ This report answers the question:
 
 This is useful specifically for... 
 
-![](https://files.readme.io/b79a1bb-Picture1.png)
+![](https://files.readme.io/b79a1bb-Picture1.png){: .zoom }  
 
 *Caption.*
 
@@ -77,7 +77,7 @@ This report answers the question:
 
 This is useful specifically for... 
 
-![Placeholder](https://dummyimage.com/800x450/eee/aaa)
+![Placeholder](https://dummyimage.com/800x450/eee/aaa){: .zoom }  
 
 *Caption.*
 

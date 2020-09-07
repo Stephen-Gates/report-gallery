@@ -11,7 +11,7 @@ The Project Portfolio report answers the question:
 
 At risk projects with large budgets or delivering significant benefits may need closer management
 
-![](../assets/images/project-portfolio.png)
+![](../assets/images/project-portfolio.png){: .zoom }  
 
 *Project Portfolio report, Project Risk vs. Business Value (Budget (OpEx + Capex)) view.*
 
@@ -41,7 +41,7 @@ No other requirements
 
 Display this report as a chart or table. 
 
-![](../assets/images/project-portfolio-table.png)
+![](../assets/images/project-portfolio-table.png){: .zoom }  
 
 ## View
 
