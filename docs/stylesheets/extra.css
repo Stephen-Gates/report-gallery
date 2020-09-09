@@ -12,7 +12,7 @@
   --md-primary-fg-color--dark:  #033AAA;
 }
 
-
+/* zoom not great on mobile */
 img {
     height: auto;
     width: auto;
@@ -33,6 +33,8 @@ img.zoom {
 a.md-logo img {
     border: none;
 }
+
+/* end zoom hack */
 
 .grey {
   color: #C1CDDF;
