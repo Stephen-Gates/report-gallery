@@ -16,17 +16,18 @@
 img {
     height: auto;
     width: auto;
-    border: 1px solid #eeeeee;
     transition: transform ease-in-out 0.3s;
 }
 
 img.zoom:active {
     cursor: zoom-out;
-    transform: scale(2.0);
+    transform: scale(1.6);
+    transform-origin: center);
 }
 
 img.zoom {
     cursor: zoom-in;
+    border: 1px solid #eeeeee;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
@@ -35,6 +36,7 @@ a.md-logo img {
 }
 
 /* end zoom hack */
+
 
 .grey {
   color: #C1CDDF;
@@ -51,6 +53,12 @@ a.md-logo img {
 .linkedin {
   color: #0072b1;
 }
+
+.youtube {
+  color: #EE0F0F;
+}
+
+
 
 @keyframes heart {
   0%, 40%, 80%, 100% {

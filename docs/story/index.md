@@ -1,0 +1,83 @@
+---
+title: Your Application Portfolio
+description: Introduction to the Application Portfolio the supports your business area
+---
+
+# Your Application Portfolio
+
+## Welcome
+
+Congratulations on your appointment to the _senior leadership role_.
+
+In this meeting I'll walk you though how the Enterprise Architecture team has documented the Application Portfolio that supports your business area.
+
+I'll start with how we've catalogued User Groups and Processes as these are used to provide context in the reports.
+
+## User Groups
+
+This report shows what User Groups are part of, or interact with, your business.
+
+- External users are sub-divided into the channels they use.
+- Internal users are based on the organisational structure; Divisions sub-divided into Business Units.
+
+![User Group Factsheet Map report](../assets/images/factsheet-map-user-group.png){: .zoom } 
+
+
+## Processes
+
+This report shows the processes your business area participates in. We like to take a process view as it connects the value created to the member - [Inspiration](https://www.youtube.com/watch?v=C1FPQloVb54) :fontawesome-brands-youtube:{: .youtube }
+
+We only capture high-level processes; some people call them "[value streams](https://en.wikipedia.org/wiki/Value_stream)". Other QSuper teams capture lower-level process diagrams.
+
+![Process Factsheet Map report](../assets/images/factsheet-map-process.png){: .zoom }
+
+## What applications support your processes?
+
+This report shows which applications support your processes. This view shows the lifecycle of each application.
+
+![Application Matrix](/assets/images/application-matrix-process-ug-lifecycle.png){: .zoom }
+
+There are may views that can be displayed. Do you have an area of interest?
+
+![](/assets/images/view-lifecycle.png){: .zoom }
+
+![](/assets/images/view-cost.png){: .zoom }
+
+![](/assets/images/view-criticality.png){: .zoom }
+
+![](/assets/images/view-time.png){: .zoom }
+
+![](/assets/images/view-ff.png){: .zoom }
+
+![](/assets/images/view-tf.png){: .zoom }
+
+## What is the health of your application portfolio?
+
+This report shows the health (functional and technical fitness) of your applications in a grid. The quadrant the application is in determines it TIME classification (Tolerate, Invest, Migrate, Eliminate).
+
+Technical Fit \\ Functional Fit | Low       | High
+:------------------------------ | :-------- | :------
+High                            | Tolerate  | Invest
+Low                             | Eliminate | Migrate
+
+![Process Factsheet Map report](../assets/images/application-portfolio.png){: .zoom }
+
+You can see which applications we recommend to eliminate.
+
+![](../assets/images/application-portfolio-list.png){: .zoom }
+
+## Where next?
+
+From here we can look at:
+
+1. [Applications supporting your Business Capabilities](business-capability)
+- Projects changing your Application Portfolio
+- Proposed changes to the Application Portfolio
+- Data management, security and flows
+- Providers supplying you IT services and applications
+
+### Data Model
+
+Our data model may help you understand the different types of questions the EA team could answer for you. 
+
+![Data Model](../assets/images/data-model.png)

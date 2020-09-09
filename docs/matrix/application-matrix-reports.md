@@ -29,8 +29,7 @@ This is useful if generic statement about all reports of this type with this foc
 
 The following factsheets and associated properties are required:
 
-- IT Component
-    - Location
+- 
 
 <!--
 #### Tags 
@@ -100,7 +99,7 @@ This report answers the question:
 
 This is useful specifically for... 
 
-![Placeholder](https://dummyimage.com/800x450/eee/aaa){: .zoom }  
+![Application Matrix report](/assets/images/application-matrix-bc-ug.png){: .zoom }  
 
 *Caption.*
 
@@ -202,7 +201,7 @@ This report answers the question:
 
 This is useful specifically for... 
 
-![Placeholder](https://dummyimage.com/800x450/eee/aaa){: .zoom }  
+![Application Matrix report](/assets/images/application-matrix-process-bc.png){: .zoom }  
 
 *Caption.*
 
@@ -245,7 +244,7 @@ This report answers the question:
 
 This is useful specifically for... 
 
-![Placeholder](https://dummyimage.com/800x450/eee/aaa){: .zoom }  
+![Application Matrix report](/assets/images/application-matrix-process-ug.png){: .zoom }  
 
 *Caption.*
 
@@ -318,8 +317,7 @@ This Report Instance One name report answers the question:
 
 This is useful specifically for... 
 
-
-![Placeholder](https://dummyimage.com/800x450/eee/aaa){: .zoom }  
+![Application Matrix report](/assets/images/application-matrix-time-bc.png){: .zoom }  
 
 <!--
 ![](https://www.leanix.net/hubfs/2019%20LX%20Website/General/Illu/apmkey-strategic-priorities-8-Col-XL.svg)
@@ -395,7 +393,7 @@ This Report Instance Two name report answers the question:
 
 This is useful specifically for... 
 
-![Placeholder](https://files.readme.io/98a1c29-Picture1.png){: .zoom }  
+![Application Matrix report](/assets/images/application-matrix-time-ug.png){: .zoom }  
 
 *Caption.*
 
