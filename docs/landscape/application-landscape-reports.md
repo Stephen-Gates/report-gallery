@@ -19,7 +19,7 @@ The Application Landscape report answers the questions:
 The report shows Applications, within a hierarchy of either, [Business Capabilities](#business-capability), [Processes](#process), or [User Groups](#user-group)
 
 
-![Application Landscape report](/assets/images/application-landscape.png){: .zoom }
+![Application Landscape report](../assets/images/application-landscape.png){: .zoom }
 
 <!--
 ![](https://www.leanix.net/hubfs/2019%20LX%20Website/General/Illu/techrisk-drilldown-7-Col-XL.svg)
@@ -38,7 +38,7 @@ This report answers the question:
 
 This is useful for... 
 
-![Placeholder](https://dummyimage.com/800x450/eee/aaa){: .zoom }  
+![Application Landscape report](../assets/images/application-landscape-bc-criticality.png){: .zoom }
 
 *Caption.*
 
@@ -81,7 +81,7 @@ This report answers the question:
 
 This is useful specifically for... 
 
-![Placeholder](https://dummyimage.com/800x450/eee/aaa){: .zoom }  
+![Application Landscape report](../assets/images/application-landscape-process-lifecycle.png){: .zoom }
 
 *Caption.*
 
@@ -125,7 +125,7 @@ This report answers the question:
 
 This is useful specifically for... 
 
-![Placeholder](https://dummyimage.com/800x450/eee/aaa){: .zoom }  
+![Application Landscape report](../assets/images/application-landscape-ug-lifecycle.png){: .zoom }
 
 *Caption.*
 

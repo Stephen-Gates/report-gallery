@@ -153,6 +153,10 @@ nav:
     - Provider Portfolio: metrics/provider-portfolio-report.md
     - Lifecycle and Age: metrics/lifecycle-and-age-report.md
   - Difficult questions: difficult-questions.md
+  - Engaging Stories:
+    - Welcome:  story/index.md
+    - Your Business Capabilities: story/business-capability.md
+    #-Your Projects: story/projects.md
   - About:
     - Suggest a change: about/index.md
     - Contributors: about/contributors.md

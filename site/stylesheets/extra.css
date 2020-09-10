@@ -12,6 +12,13 @@
   --md-primary-fg-color--dark:  #033AAA;
 }
 
+/* color first column */
+table tr td:first-child {
+  background-color: #777;
+  color: #fff;  
+}
+
+
 /* zoom not great on mobile */
 img {
     height: auto;

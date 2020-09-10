@@ -7,13 +7,13 @@ description: Introduction to the Application Portfolio the supports your busines
 
 ## Welcome
 
-Congratulations on your appointment to the _senior leadership role_.
+Congratulations on your recent appointment to a senior leadership role.
 
 In this meeting I'll walk you though how the Enterprise Architecture team has documented the Application Portfolio that supports your business area.
 
 I'll start with how we've catalogued User Groups and Processes as these are used to provide context in the reports.
 
-## User Groups
+## Your User Groups
 
 This report shows what User Groups are part of, or interact with, your business.
 
@@ -23,7 +23,7 @@ This report shows what User Groups are part of, or interact with, your business.
 ![User Group Factsheet Map report](../assets/images/factsheet-map-user-group.png){: .zoom } 
 
 
-## Processes
+## Your Processes
 
 This report shows the processes your business area participates in. We like to take a process view as it connects the value created to the member - [Inspiration](https://www.youtube.com/watch?v=C1FPQloVb54) :fontawesome-brands-youtube:{: .youtube }
 
@@ -31,13 +31,13 @@ We only capture high-level processes; some people call them "[value streams](htt
 
 ![Process Factsheet Map report](../assets/images/factsheet-map-process.png){: .zoom }
 
-## What applications support your processes?
+##  Applications supporting your Processes
 
 This report shows which applications support your processes. This view shows the lifecycle of each application.
 
 ![Application Matrix](../assets/images/application-matrix-process-ug-lifecycle.png){: .zoom } 
 
-There are may views that can be displayed. Do you have an area of interest?
+There are many views that can be displayed. Do you have an area of interest?
 
 ![Lifecycle view](../assets/images/view-lifecycle.png){: .zoom }
 
@@ -51,9 +51,9 @@ There are may views that can be displayed. Do you have an area of interest?
 
 ![Technical Fitness view](../assets/images/view-tf.png){: .zoom }
 
-## What is the health of your application portfolio?
+## Application portfolio health
 
-This report shows the health (functional and technical fitness) of your applications in a grid. The quadrant the application is in determines it TIME classification (Tolerate, Invest, Migrate, Eliminate).
+This report provides an overview of the health (functional and technical fitness) of your applications in a grid. The quadrant the application is in determines it TIME classification (Tolerate, Invest, Migrate, Eliminate).
 
 Technical Fit \\ Functional Fit | Low       | High
 :------------------------------ | :-------- | :------
@@ -65,6 +65,11 @@ Low                             | Eliminate | Migrate
 You can see which applications we recommend to eliminate.
 
 ![Application Portfolio list](../assets/images/application-portfolio-list.png){: .zoom }
+
+You can check if the application lifecycle aligns to the TIME recommendation using the Application Landscape report.
+
+![Application Landscape report](../assets/images/application-landscape-time-lifecycle.png){: .zoom }
+
 
 ## Where next?
 
