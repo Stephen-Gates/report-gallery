@@ -6,7 +6,7 @@ title: "Application Roadmap reports"
 
 # Application Roadmap reports
 
-![Placeholder](https://dummyimage.com/800x450/eee/aaa){: .zoom }   
+![Application Roadmap reports](../assets/images/application-roadmap.png){: .zoom }
 
 <!--
 ![](https://www.leanix.net/hubfs/roadmap-8-Col-XL.svg)

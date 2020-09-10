@@ -1,9 +1,9 @@
 ---
-title: "Project Roadmap reports"
+title: "Project Roadmap report"
 ---
 
 !!! note "Work in progress"
 
-# Project Roadmap reports
+# Project Roadmap report
 
-![Placeholder](https://dummyimage.com/800x450/eee/aaa){: .zoom }   
+![Project Roadmap report](../assets/images/project-roadmap.png){: .zoom }

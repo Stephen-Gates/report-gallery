@@ -93,3 +93,103 @@ a.md-logo img {
 .store {
   color: #9755CD;
 }
+
+/* Factsheet colours*/
+
+
+.ug {
+  color: #fff;
+  background-color: #509fff;
+  border-radius: 2px;
+  padding: 2px;
+  font-weight: bold;
+}
+
+.ug {
+  color: #fff;
+  background-color: #509fff;
+  border-radius: 2px;
+  padding: 2px;
+  font-weight: bold;
+}
+
+.ug {
+  color: #fff;
+  background-color: #509fff;
+  border-radius: 2px;
+  padding: 2px;
+  font-weight: bold;
+}
+
+.bc {
+  color: #fff;
+  background-color: #003399;
+  border-radius: 2px;
+  padding: 2px;
+  font-weight: bold;
+}
+
+.process {
+  color: #fff;
+  background-color: #f9628c;
+  border-radius: 2px;
+  padding: 2px;
+  font-weight: bold;
+}
+
+.project {
+  color: #fff;
+  background-color: #71bc30;
+  border-radius: 2px;
+  padding: 2px;
+  font-weight: bold;
+}
+
+.app {
+  color: #fff;
+  background-color: #348fbc;
+  border-radius: 2px;
+  padding: 2px;
+  font-weight: bold;
+}
+
+.data {
+  color: #fff;
+  background-color: #8d5cb5;
+  border-radius: 2px;
+  padding: 2px;
+  font-weight: bold;
+}
+
+.interface {
+  color: #fff;
+  background-color: #1eb3c2;
+  border-radius: 2px;
+  padding: 2px;
+  font-weight: bold;
+}
+
+.itc {
+  color: #fff;
+  background-color: #f48b49;
+  border-radius: 2px;
+  padding: 2px;
+  font-weight: bold;
+}
+
+
+.provider {
+  color: #fff;
+  background-color: #f3ad25;
+  border-radius: 2px;
+  padding: 2px;
+  font-weight: bold;
+}
+
+.ts {
+  color: #fff;
+  background-color: #a6566d;
+  border-radius: 2px;
+  padding: 2px;
+  font-weight: bold;
+}

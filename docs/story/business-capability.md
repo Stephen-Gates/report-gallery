@@ -18,6 +18,6 @@ Looking at the applications that support business capabilities is one way to fin
 
 ## Business Capability Costs
 
-How much does it cost to operate business capabilities?
+How much does it cost to operate the IT that supports your business capabilities?
  
 ![Business Capability Cost report](../assets/images/cost-business-capability.png){: .zoom }

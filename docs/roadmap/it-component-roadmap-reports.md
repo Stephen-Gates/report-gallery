@@ -6,7 +6,8 @@ title: "IT Component Roadmap reports"
 
 # IT Component Roadmap reports
 
-![Placeholder](https://dummyimage.com/800x450/eee/aaa){: .zoom }  
+![IT Component Roadmap reports](../assets/images/it-component-roadmap.png){: .zoom }
+
 <!--
 ![](https://www.leanix.net/hubfs/techrisk-itcomponents-8-Col-XL.svg)
 -->
