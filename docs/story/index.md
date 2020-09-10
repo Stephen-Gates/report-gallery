@@ -35,21 +35,21 @@ We only capture high-level processes; some people call them "[value streams](htt
 
 This report shows which applications support your processes. This view shows the lifecycle of each application.
 
-![Application Matrix](/assets/images/application-matrix-process-ug-lifecycle.png){: .zoom }
+![Application Matrix](../assets/images/application-matrix-process-ug-lifecycle.png){: .zoom } 
 
 There are may views that can be displayed. Do you have an area of interest?
 
-![](/assets/images/view-lifecycle.png){: .zoom }
+![Lifecycle view](../assets/images/view-lifecycle.png){: .zoom }
 
-![](/assets/images/view-cost.png){: .zoom }
+![Cost view](../assets/images/view-cost.png){: .zoom }
 
-![](/assets/images/view-criticality.png){: .zoom }
+![Business Criticality view](../assets/images/view-criticality.png){: .zoom }
 
-![](/assets/images/view-time.png){: .zoom }
+![TIME model view](../assets/images/view-time.png){: .zoom }
 
-![](/assets/images/view-ff.png){: .zoom }
+![Functional Fitness view](../assets/images/view-ff.png){: .zoom }
 
-![](/assets/images/view-tf.png){: .zoom }
+![Technical Fitness view](../assets/images/view-tf.png){: .zoom }
 
 ## What is the health of your application portfolio?
 
@@ -60,11 +60,11 @@ Technical Fit \\ Functional Fit | Low       | High
 High                            | Tolerate  | Invest
 Low                             | Eliminate | Migrate
 
-![Process Factsheet Map report](../assets/images/application-portfolio.png){: .zoom }
+![Application Portfolio report](../assets/images/application-portfolio.png){: .zoom }
 
 You can see which applications we recommend to eliminate.
 
-![](../assets/images/application-portfolio-list.png){: .zoom }
+![Application Portfolio list](../assets/images/application-portfolio-list.png){: .zoom }
 
 ## Where next?
 
