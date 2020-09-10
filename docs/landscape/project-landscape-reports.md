@@ -13,12 +13,8 @@ title: "Project Landscape reports"
 There are three Project Landscape reports that show the Project Landscape, within a hierarchy of:
 
 - [Business Capabilities](#business-capability) - *What Projects impact Business Capabilities?*
-- [Processes](#process) - *What Projects impact Processes?*
+- [Provider](#provider) - *What Projects are contributed to by Providers?*
 - [User Groups](#user-group) - *What Projects impact User Groups?*
-
-![Application Landscape report](/assets/images/project-landscape.png){: .zoom }  
-
-*Project Landscape for Business Capabilities*
 
 --- 
 
@@ -30,9 +26,9 @@ This report answers the question:
 
 This is useful specifically for... 
 
-![Placeholder](https://dummyimage.com/800x450/eee/aaa){: .zoom }  
+![Project Landscape report](../assets/images/project-landscape-bc.png){: .zoom }  
 
-*Caption.*
+*Project Landscape report.*
 
 ### Requirements
 
@@ -60,20 +56,18 @@ Specific settings for this report
 
 Specific view available are: 
 
-### Filters
-
-Use filters to focus on the required projects.
 
 --- 
 
-## Process
+## Provider
+
 This report answers the question:
 
->What Projects impact Process?
+>What Projects are contributed to by Providers?
 
 This is useful specifically for... 
 
-![Placeholder](https://dummyimage.com/800x450/eee/aaa){: .zoom }  
+![Project Landscape report](../assets/images/project-landscape-provider.png){: .zoom }  
 
 *Caption.*
 
@@ -103,9 +97,7 @@ Specific settings for this report
 
 Specific view available are: 
 
-### Filters
 
-Use filters to focus on the required projects.
 
 --- 
 
@@ -146,7 +138,3 @@ Specific settings for this report
 ### View
 
 Specific view available are: 
-
-### Filters
-
-Use filters to focus on the required projects.

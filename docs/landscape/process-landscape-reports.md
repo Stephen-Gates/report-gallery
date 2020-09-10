@@ -1,26 +1,36 @@
 ---
-title: "Application Landscape reports"
+title: "Process Landscape reports"
 ---
 
 ??? note "Work in progress"
-    - Missing links
-    - Missing image and caption
+    - Report in development by LeanIX
 
-# Application Landscape report
+# Process Landscape report
 
 ## Overview
 
-The Application Landscape report answers the questions:
+The Process Landscape report answers the questions:
 
->- What Applications support Business Capabilities?
->- What Applications support Processes?
->- What Applications support User Groups?
+>- What Processes use Business Capabilities?
+>- What Processes are used by  Processes?
+>- What Processes are used by  User Groups?
 
-The report shows Applications, within a hierarchy of either, 
+There are three Process Landscape reports that show the Process Landscape, within a hierarchy of:
 
+- Applications 
 - [Business Capabilities](#business-capability)
 - [Processes](#process)
 - [User Groups](#user-group)
+
+
+![Application Landscape report](../assets/images/application-landscape.png){: .zoom }
+
+<!--
+![](https://www.leanix.net/hubfs/2019%20LX%20Website/General/Illu/techrisk-drilldown-7-Col-XL.svg)
+-->
+
+
+*Application Landscape for Business Capabilities, Business Criticality view.*
 
 --- 
 
@@ -43,8 +53,8 @@ This is useful for...
 Specific factsheets and associated properties are required:
 
 - Business Capability 
-- Application
-    - Application - Business Capability relationship
+- Process
+    - Process - Business Capability requires relationship
     
 #### Tags 
 
@@ -62,6 +72,9 @@ Specific settings for this report
 
 Specific view available are: 
 
+### Filters
+
+Use filters to focus on the required Business Capabilities.
 
 --- 
 
@@ -90,7 +103,7 @@ Specific factsheets and associated properties are required:
 
 Specific tags are required for this report.
 
-#### Other requirements
+#### Other requirement
 
 No other requirements
 
@@ -102,7 +115,9 @@ Specific settings for this report
 
 Specific view available are: 
 
+### Filters
 
+Use filters to focus on the required Processes.
 
 --- 
 
@@ -132,7 +147,7 @@ Specific factsheets and associated properties are required:
 
 Specific tags are required for this report.
 
-#### Other requirements
+#### Other requirement
 
 No other requirements
 
@@ -143,3 +158,7 @@ Specific settings for this report
 ### View
 
 Specific view available are: 
+
+### Filters
+
+Use filters to focus on the required User Groups.

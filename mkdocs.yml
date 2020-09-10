@@ -101,9 +101,10 @@ extra_javascript:
 
 # Insiders improved search - https://squidfunk.github.io/mkdocs-material-insiders/setup/setting-up-site-search/#built-in-search
 # only needed here if other plugins are added
-#plugins:
-  #- search
-    #lang: en
+
+plugins:
+    - search
+    #- img2fig
   
 #Google Analytics
 google_analytics:
@@ -154,8 +155,12 @@ nav:
     - Lifecycle and Age: metrics/lifecycle-and-age-report.md
   - Difficult questions: difficult-questions.md
   - Engaging Stories:
-    - Your Application Portfolio:  story/index.md
-    - Your Business Capabilities: story/business-capability.md
+    - Where are you?: story/index.md
+    - What's happening?: story/projects.md
+    - Where do you want to go?: story/index.md
+    - How will you get there?: story/index.md
+    - When will you arrive?: story/index.md
+    #- Your Business Capabilities: story/business-capability.md
     #-Your Projects: story/projects.md
   - About:
     - Suggest a change: about/index.md

@@ -2,27 +2,16 @@
 title: "IT Component Landscape reports"
 ---
 
-??? note "Work in progress"
-    - Missing links
-    - Missing image and caption
+!!! note "Work in progress"
 
 # IT Component Landscape report
 
 ## Overview
 
-There are two IT Component Landscape reports that show the IT Component Landscape, within a hierarchy of:
+There are two IT Component Landscape reports that show IT Components, within a hierarchy of:
 
-- [Technical Stack]() - *What are our standard IT Components as classified in the Technical Stack?*
-- [Providers]() - *What Providers supply our IT Components?*
-
-
-![Application Landscape report](/assets/images/it-component-landscape.png){: .zoom }  
-
-<!--
-![](https://www.leanix.net/hubfs/techrisk-redundant-components-8-Col-XL.svg)
--->
-
-*IT Component Landscape for Technical Stack*
+- [Technical Stack](#technical-stack) 
+- [Providers](#providers) 
 
 --- 
 
@@ -30,13 +19,11 @@ There are two IT Component Landscape reports that show the IT Component Landscap
 
 This report answers the question:
 
->Question
+>What are our standard IT Components as classified in the Technical Stack?
 
-This is useful specifically for... 
+![IT Component Landscape report](/assets/images/it-component-landscape.png){: .zoom }  
 
-![](https://files.readme.io/b79a1bb-Picture1.png){: .zoom }  
-
-*Caption.*
+*IT Component Landscape report, resource classification view.*
 
 ### Requirements
 
@@ -46,7 +33,10 @@ Specific factsheets and associated properties are required:
 
 - Technical Stack
 - IT Component
-    
+    - IT Component - Technical Stack relationship
+        - resource classification dates
+  
+<!--    
 #### Tags 
 
 Specific tags are required for this report.
@@ -54,6 +44,8 @@ Specific tags are required for this report.
 #### Other requirement
 
 No other requirements
+
+-->
 
 ### Settings
 
@@ -63,9 +55,6 @@ Specific settings for this report
 
 Specific view available are: 
 
-### Filters
-
-Use filters to focus on the required IT Component.
 
 --- 
 
@@ -73,11 +62,9 @@ Use filters to focus on the required IT Component.
 
 This report answers the question:
 
->Question?
+>What Providers supply our IT Components?
 
-This is useful specifically for... 
-
-![Placeholder](https://dummyimage.com/800x450/eee/aaa){: .zoom }  
+![IT Component Landscape report](/assets/images/it-component-landscape-provider.png){: .zoom }  
 
 *Caption.*
 
@@ -89,6 +76,10 @@ Specific factsheets and associated properties are required:
 
 - Providers 
 - IT Component
+    - IT Component - Provider relationship
+        - lifecycle dates
+
+<!--    
     
 #### Tags 
 
@@ -97,6 +88,7 @@ Specific tags are required for this report.
 #### Other requirement
 
 No other requirements
+--> 
 
 ### Settings
 
@@ -105,7 +97,3 @@ Specific settings for this report
 ### View
 
 Specific view available are: 
-
-### Filters
-
-Use filters to focus on the required IT Component.
