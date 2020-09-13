@@ -4,10 +4,10 @@ description: Introduction to the Application Portfolio the supports your busines
 ---
 
 !!! info "Work in Progress"
-<!--
+
+
 # Your Application Portfolio
--->
-# Where are you? 
+
 
 ## Welcome
 
@@ -17,7 +17,7 @@ I'll start with how we've catalogued User Groups and Processes as these are used
 
 ## Your User Groups
 
-This report shows what <span class="ug">User Groups</span>[^1] are part of, or interact with, your business.
+This report shows what User Groups are part of, or interact with, your business.
 
 - External users are sub-divided into the channels they use.
 - Internal users are based on the organisational structure; Divisions sub-divided into Business Units.
@@ -27,7 +27,7 @@ This report shows what <span class="ug">User Groups</span>[^1] are part of, or i
 
 ## Your Processes
 
-This report shows the <span class="process">Processes</span> your business area participates in. We like to take a process view as it connects the value created to the member - [Inspiration](https://www.youtube.com/watch?v=C1FPQloVb54) :fontawesome-brands-youtube:{: .youtube }
+This report shows the Processes your business area participates in. We like to take a process view as it connects the value created to the member - [Inspiration](https://www.youtube.com/watch?v=C1FPQloVb54) :fontawesome-brands-youtube:{: .youtube }
 
 We only capture high-level processes; some people call them "[value streams](https://en.wikipedia.org/wiki/Value_stream)". Other QSuper teams capture lower-level process diagrams.
 
@@ -35,7 +35,7 @@ We only capture high-level processes; some people call them "[value streams](htt
 
 ##  Applications supporting your Processes
 
-This report shows which <span class="app">Applications</span> support your processes. This view shows the lifecycle of each application.
+This report shows which Applications support your processes. This view shows the lifecycle of each application.
 
 ![Application Matrix](../assets/images/application-matrix-process-ug-lifecycle.png){: .zoom } 
 
@@ -88,5 +88,3 @@ From here we can look at:
 Our data model may help you understand the different types of questions the EA team could answer for you. 
 
 ![Data Model](../assets/images/data-model.png)
-
-[^1]: Each concept has a unique colour used in reports.

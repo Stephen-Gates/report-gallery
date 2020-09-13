@@ -78,6 +78,7 @@ extra:
 # Extensions  
 markdown_extensions:
   - admonition  
+  - abbr
   - attr_list
   - footnotes
   - meta  
@@ -155,13 +156,10 @@ nav:
     - Lifecycle and Age: metrics/lifecycle-and-age-report.md
   - Difficult questions: difficult-questions.md
   - Engaging Stories:
-    - Where are you?: story/index.md
-    - What's happening?: story/projects.md
-    - Where do you want to go?: story/index.md
-    - How will you get there?: story/index.md
-    - When will you arrive?: story/index.md
+    - Your Application Portfolio: story/index.md
+    - Your Projects: story/projects.md
+    - Your Plans: story/plans.md
     #- Your Business Capabilities: story/business-capability.md
-    #-Your Projects: story/projects.md
   - About:
     - Suggest a change: about/index.md
     - Contributors: about/contributors.md
