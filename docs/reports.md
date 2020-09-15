@@ -31,11 +31,11 @@ The [Interface Circle Map][interface] shows a high-level view of interfaces betw
 
 [![Interface Circle Map report](../assets/images/interface-circle-map-thumbnail.png)][interface]
 
-<!--
+
 [Data Flow diagrams][data-flow] show interfaces between selected applications.
 
-[![Data Flow diagram](../assets/images/data-flow-thumbnail.png)][data-flow]
--->
+[![Data Flow diagrams](../assets/images/dataflow-thumbnail.png)][data-flow]
+
 
 [World Maps][location] show a geographic map of user group or IT component locations.
 
@@ -65,13 +65,13 @@ The [Interface Circle Map][interface] shows a high-level view of interfaces betw
 -->
 
 <!-- links -->
-[factsheet-map]: ../factsheet-map/ "Factsheet Maps"
+[factsheet-map]: ../factsheet-map/ "Factsheet maps"
 [landscape]: ../landscape/ "Landscape reports"
 [matrix]: ../matrix/ "Matrix reports"
 [roadmap]: ../roadmap/ "Roadmap reports"
 [location]: ../location/ "World maps"
-[interface]: ../interface/ "Interface Circle Maps"
-[data-flow]: ../interface/data-flow-diagram "Data Flow diagram"
+[interface]: ../interface/ "Interface Circle map"
+[data-flow]: ../dataflow/ "Data Flow diagram"
 [cost]: ../cost/ "Cost reports"
 [lifecycle-age]: ../metrics/lifecycle-and-age-report "Lifecycle and Age reports"
 [portfolio]: ../metrics/ "Portfolio reports"

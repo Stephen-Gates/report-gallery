@@ -11,8 +11,7 @@ The Data Flow diagram answers the question:
 
 >How does data flow between applications?
 
-
-[![Placeholder](../assets/images/data-flow-diagram.png)](../assets/images/data-flow-diagram.png)
+![Placeholder](../assets/images/data-flow-diagram.png){: .zoom }
 
 *Data Flow diagram, Business Criticality view*
 
@@ -20,7 +19,7 @@ The Data Flow diagram answers the question:
 
 ### Factsheets
 
-The following factsheets and associated properties are required:
+The following related factsheets and associated properties are required:
 
 - Application
 - Interface
@@ -34,14 +33,14 @@ Other factsheets may be require to display related factsheets on the diagram
 
 - No tags are required for this report
 
-#### Other requirement
+#### Other requirements
 
 - No other requirements
 -->
 
 ## Settings
 
-None.
+None
 
 ## View
 
@@ -70,7 +69,6 @@ The views available are:
 
 As your LeanIX Administrator has defined for the Business Capability factsheet
 
-
 ##### Built In
 
 1. Technology Risk
@@ -85,11 +83,12 @@ No tags are required for this report.
 
 Use filters to focus on the specific parts of the diagram by fading out certain factsheets.
 
-[![Filtered Data Flow diagram](../assets/images/data-flow-diagram-filtered.png)](../assets/images/data-flow-diagram-filtered.png)
+![Filtered Data Flow diagram](../assets/images/data-flow-diagram-filtered.png){: .zoom }
+
+*Data Flow diagram, Filtered view*
 
 <!--
 ## Editing
 
 This report cannot be edited.
 ->
- 

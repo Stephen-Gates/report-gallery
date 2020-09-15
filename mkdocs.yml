@@ -47,7 +47,7 @@ theme:
     #- header.hide
     #- navigation.expand
   #clash with insiders custom_dir?   
-  #custom_dir: overrides 
+  custom_dir: overrides 
 # if you use edit_uri then default icon appears! Overridden in source.html
   icon:
     repo: fontawesome/brands/github   
@@ -135,9 +135,7 @@ nav:
     - IT Component Roadmap: roadmap/it-component-roadmap-reports.md
     - Project Roadmap: roadmap/project-roadmap-reports.md  
   - Circle Map: interface/index.md
-    #- About Interface reports: interface/index.md
-    #- Interface Circle Map: interface/index.md
-    #- Data Flow diagram: interface/data-flow-diagram.md        
+  - Data Flow: dataflow/index.md        
   - World Map:
     - About World Map reports: location/index.md
     - Application Sourcing: location/application-sourcing-report.md

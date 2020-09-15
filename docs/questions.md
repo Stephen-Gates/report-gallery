@@ -13,6 +13,8 @@ Title: "Questions you can answer with LeanIX reports"
         - "When" for roadmaps or time matrix reports
         - "What" first, then "Which"; 
     - Focus on the factsheet part of the question first, with views as sub-questions  
+    - My leaning is to put the factsheet that provides the answer as the first part of the question but sometime this doesn't sound natural.
+    - If questions are phrased how people commonly ask, then it will be easier to turn this resource into a [chatbot](https://stephen-gates.github.io/chatbot/site/). :fontawesome-solid-robot:{: .grey }
     - Check question list against:
         - [How to Answer the Top Questions of Enterprise Architecture Stakeholders](https://www.leanix.net/en/download/how-to-answer-the-top-questions-of-enterprise-architecture-stakeholders)
         - [Smart Enterprise Architecture Governance in an Agile World](https://www.leanix.net/en/download/smart-ea-governance-in-an-agile-world)
@@ -22,21 +24,20 @@ Title: "Questions you can answer with LeanIX reports"
 # Questions you can answer with LeanIX reports
 
 - The questions below are arranged by the factsheets involved in answering the question. 
-- Questions answered by using a built-in view are shown as sub-questions. 
-- Questions based on a view using tags are marked with *[tags]*. Tags are unique to your LeanIX implementation. 
-- Where I don't know how best to phrase a question, there may be an alternative phrasing as a sub-question, marked with *[alternative]*. 
-    - My leaning is to put the factsheet that provides the answer as the first part of the question but sometime this doesn't sound natural.
-    - If questions are phrased how people commonly ask, then it will be easier to turn this resource into a [chatbot](https://stephen-gates.github.io/chatbot/site/). :fontawesome-solid-robot:{: .grey }
+  - Questions answered by using a built-in view are shown as sub-questions. 
+  - Questions based on a view using tags are marked with *[tags]*. Tags are unique to your LeanIX implementation. 
+  - Where I don't know how best to phrase a question, there may be an alternative phrasing as a sub-question, marked with *[alternative]*. 
+
 
 ## User Groups
 
 1. [What user groups are part of, or interact with, our organisation?][inventory]
-    1. Which user groups are #internal to our organisation? *[tags]*
-    1. Which user groups are #external to our organisation? *[tags]*
-    1. Which #external user groups use our #internet channel? *[tags]*
+    1. Which user groups are "internal" to our organisation? *[tags]*
+    1. Which user groups are "external" to our organisation? *[tags]*
+    1. Which "external" user groups use our "internet channel"? *[tags]*
 1. [How are user groups structured?][factsheet-map-user-group] 
 1. [What applications support user groups?][landscape-application-user-group] 
-    1. Which applications do #external user groups use? *[tags]* <!-- this requires an internal/external tag on the user group factsheet -->
+    1. Which applications do "external" user groups use? *[tags]* <!-- this requires an internal/external tag on the user group factsheet -->
 1. [Where are application users located?][location-application-usage]
 
     
@@ -45,7 +46,6 @@ Title: "Questions you can answer with LeanIX reports"
 1. [What business capabilities support our organisation?][inventory]
 1. [How are business capabilities structured?][factsheet-map-business-capability]
 1. [Which applications support business capabilities?][landscape-application-business-capability] 
-    1. Which business capabilities are supported by applications?  *[alternative]*
     1. Which business capabilities are impacted when an application fails? 
 1. [What is the IT cost of supporting business capabilities?][cost-business-capability]
 
@@ -109,12 +109,14 @@ Title: "Questions you can answer with LeanIX reports"
 
 1. [What data objects do we use?][inventory]
     1. Who are the stakeholders?
-    1. What is the data classification? 
+    1. What is the data classification (i.e. confidentiality)? 
+    1. What is the category of the data ("Master data", "Reference data", "Transactional data", "Metadata")? *[tags]*
 1. [How are data objects structured?][factsheet-map-data-object]
 1. [What applications manage or access data?](https://store.leanix.net/en/report-details/753b11a9-4e86-4fad-a840-f76341bad983/c7d772df-2988-4024-920f-fb732d95cedc) :octicons-link-external-16:{: .grey } 
     1. What applications manage or access sensitive data?
 1. Where is data stored? <!-- /location/it-component-location-report -->
     1. Is any sensitive data stored in other countries? i.e.  Is there a sovereignty risk?
+1. [How does data flow between applications?][dataflow]
 
 ## Interfaces
 
@@ -258,12 +260,12 @@ from https://www.leanix.net/en/product/use-cases/technology-risk-management
 [roadmap-it-component]: ../roadmap/it-component-roadmap-reports
 [roadmap-project]: ../roadmap/project-roadmap-reports
 
-
 [location]: ../location/ "Location reports"
 [location-application-usage]: ../location/application-usage-report
 [location-it-component-location]: ../location/it-component-location-report
 
-[circle-map]: ../interface/ "Interface Circle Map"
+[circle-map]: ../interface/ "Interface Circle map"
+[dataflow]: ../dataflow/ "Data Flow diagram"
 
 [cost]: ../cost/ "Cost reports"
 [cost-business-capability]: ../cost/business-capability-cost-report
@@ -277,3 +279,15 @@ from https://www.leanix.net/en/product/use-cases/technology-risk-management
 [portfolio-provider]: ../metrics/provider-portfolio-report/
 
 [inventory]: ../inventory/ "Inventory"
+
+<!-- Glossary terms --> 
+
+*[Reference data]: Reference data is data that is referenced and shared by a number of systems. Most of the reference data refers to concepts that either impact business processes - e.g. order status (CREATED | APPROVED | REJECTED ) - or is used as an additional standardised semantic that further clarifies the interpretation of a data record - e.g. employee job position (JUNIOR | SENIOR | VP | etc.)
+
+*[Metadata]: Metadata is data that describes other data; it is the underlying definition or description of data. 
+
+*[Master data]: Master Data is key business information that supports the transactions.
+Master Data describes the customers, products, parts, employees, etc. involved in the transactions. It is commonly referred to
+as Places (locations, geography, sites, etc.), Parties (persons, customers, suppliers, employees, etc.) and Things (products, items, material, vehicles, etc.).
+
+*[Transactional data]: Transactional data describes business events.
