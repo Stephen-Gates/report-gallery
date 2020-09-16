@@ -78,10 +78,11 @@ You can check if the application lifecycle aligns to the TIME recommendation usi
 From here we can look at:
 
 1. [Applications supporting your Business Capabilities](business-capability)
-- Projects changing your Application Portfolio
+- [Projects changing your Application Portfolio](projects)
 - Proposed changes to the Application Portfolio
 - Data management, security and flows
 - Providers supplying you IT services and applications
+- [Your plans for the future](plans)
 
 ### Data Model
 

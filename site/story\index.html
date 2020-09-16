@@ -22,78 +22,73 @@
 </style>
 </head>
 <body><div id="readme" class="container"><article class="markdown-body entry-content"><hr>
-<h2 id="title-data-flow-diagram">title: &quot;Data Flow diagram&quot;</h2>
-<p>??? note &quot;Work in progress&quot;</p>
-<pre><code>- See [LeanIX Docs](https://docs.leanix.net/docs/integration-architecture#dive-into-details---data-flow-diagram)</code></pre><h1 id="data-flow-diagram">Data Flow diagram</h1>
-<p>The Data Flow diagram answers the question:</p>
-<blockquote>
-<p>How does data flow between applications?</p>
-</blockquote>
-<p><img src="../assets/images/data-flow-diagram.png" alt="Placeholder">{: .zoom }</p>
-<p><em>Data Flow diagram, Business Criticality view</em></p>
-<h2 id="requirements">Requirements</h2>
-<h3 id="factsheets">Factsheets</h3>
-<p>The following related factsheets and associated properties are required:</p>
+<p>title: Your Application Portfolio</p>
+<h2 id="description-introduction-to-the-application-portfolio-the-supports-your-business-area">description: Introduction to the Application Portfolio the supports your business area</h2>
+<p>!!! info &quot;Work in Progress&quot;</p>
+<h1 id="your-application-portfolio">Your Application Portfolio</h1>
+<h2 id="welcome">Welcome</h2>
+<p>In this initial meeting I&apos;ll walk you though how the Enterprise Architecture team has documented the Application Portfolio that supports your business area.</p>
+<p>I&apos;ll start with how we&apos;ve catalogued User Groups and Processes as these are used to provide context in the reports.</p>
+<h2 id="your-user-groups">Your User Groups</h2>
+<p>This report shows what User Groups are part of, or interact with, your business.</p>
 <ul>
-<li>Application</li>
-<li>Interface</li>
-<li>Data</li>
-<li>IT Component</li>
+<li>External users are sub-divided into the channels they use.</li>
+<li>Internal users are based on the organisational structure; Divisions sub-divided into Business Units.</li>
 </ul>
-<p>Other factsheets may be require to display related factsheets on the diagram </p>
-<!--
-#### Tags 
-
-- No tags are required for this report
-
-#### Other requirements
-
-- No other requirements
--->
-
-<h2 id="settings">Settings</h2>
-<p>None</p>
-<h2 id="view">View</h2>
-<p>The views available are:</p>
-<h5 id="fields-on-the-factsheet">Fields on the factsheet</h5>
+<p><img src="../assets/images/factsheet-map-user-group.png" alt="User Group Factsheet Map report">{: .zoom } </p>
+<h2 id="your-processes">Your Processes</h2>
+<p>This report shows the Processes your business area participates in. We like to take a process view as it connects the value created to the member - <a href="https://www.youtube.com/watch?v=C1FPQloVb54">Inspiration</a> :fontawesome-brands-youtube:{: .youtube }</p>
+<p>We only capture high-level processes; some people call them &quot;<a href="https://en.wikipedia.org/wiki/Value_stream">value streams</a>&quot;. Other QSuper teams capture lower-level process diagrams.</p>
+<p><img src="../assets/images/factsheet-map-process.png" alt="Process Factsheet Map report">{: .zoom }</p>
+<h2 id="applications-supporting-your-processes">Applications supporting your Processes</h2>
+<p>This report shows which Applications support your processes. This view shows the lifecycle of each application.</p>
+<p><img src="../assets/images/application-matrix-process-ug-lifecycle.png" alt="Application Matrix">{: .zoom } </p>
+<p>There are many views that can be displayed. Do you have an area of interest?</p>
+<p><img src="../assets/images/view-lifecycle.png" alt="Lifecycle view">{: .zoom }</p>
+<p><img src="../assets/images/view-cost.png" alt="Cost view">{: .zoom }</p>
+<p><img src="../assets/images/view-criticality.png" alt="Business Criticality view">{: .zoom }</p>
+<p><img src="../assets/images/view-time.png" alt="TIME model view">{: .zoom }</p>
+<p><img src="../assets/images/view-ff.png" alt="Functional Fitness view">{: .zoom }</p>
+<p><img src="../assets/images/view-tf.png" alt="Technical Fitness view">{: .zoom }</p>
+<h2 id="application-portfolio-health">Application portfolio health</h2>
+<p>This report provides an overview of the health (functional and technical fitness) of your applications in a grid. The quadrant the application is in determines it TIME classification (Tolerate, Invest, Migrate, Eliminate).</p>
+<table>
+<thead>
+<tr>
+<th align="left">Technical Fit \ Functional Fit</th>
+<th align="left">Low</th>
+<th align="left">High</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="left">High</td>
+<td align="left">Tolerate</td>
+<td align="left">Invest</td>
+</tr>
+<tr>
+<td align="left">Low</td>
+<td align="left">Eliminate</td>
+<td align="left">Migrate</td>
+</tr>
+</tbody></table>
+<p><img src="../assets/images/application-portfolio.png" alt="Application Portfolio report">{: .zoom }</p>
+<p>You can see which applications we recommend to eliminate.</p>
+<p><img src="../assets/images/application-portfolio-list.png" alt="Application Portfolio list">{: .zoom }</p>
+<p>You can check if the application lifecycle aligns to the TIME recommendation using the Application Landscape report.</p>
+<p><img src="../assets/images/application-landscape-time-lifecycle.png" alt="Application Landscape report">{: .zoom }</p>
+<h2 id="where-next-">Where next?</h2>
+<p>From here we can look at:</p>
 <ol>
-<li>Lifecycle</li>
-<li>Functional Fit</li>
-<li>Technical Fit</li>
-<li>Business Criticality</li>
+<li><a href="business-capability">Applications supporting your Business Capabilities</a></li>
+<li><a href="projects">Projects changing your Application Portfolio</a></li>
+<li>Proposed changes to the Application Portfolio</li>
+<li>Data management, security and flows</li>
+<li>Providers supplying you IT services and applications</li>
+<li><a href="plans">Your plans for the future</a></li>
 </ol>
-<h5 id="fields-on-relations">Fields on relations</h5>
-<ol>
-<li>IT Components: Toal annual cost</li>
-</ol>
-<h5 id="fields-on-related-factsheets">Fields on related factsheets</h5>
-<ol>
-<li>Project Risk</li>
-<li>Project Status</li>
-<li>Project Business Values</li>
-<li>IT Component Technical Fit</li>
-<li>Data Classification</li>
-</ol>
-<h5 id="tags">Tags</h5>
-<p>As your LeanIX Administrator has defined for the Business Capability factsheet</p>
-<h5 id="built-in">Built In</h5>
-<ol>
-<li>Technology Risk</li>
-</ol>
-<!--
-### Tags
-
-No tags are required for this report.
--->
-
-<h2 id="filters">Filters</h2>
-<p>Use filters to focus on the specific parts of the diagram by fading out certain factsheets.</p>
-<p><img src="../assets/images/data-flow-diagram-filtered.png" alt="Filtered Data Flow diagram">{: .zoom }</p>
-<p><em>Data Flow diagram, Filtered view</em></p>
-<p>&lt;!--</p>
-<h2 id="editing">Editing</h2>
-<p>This report cannot be edited.
--&gt;</p>
+<h3 id="data-model">Data Model</h3>
+<p>Our data model may help you understand the different types of questions the EA team could answer for you. </p>
+<p><img src="../assets/images/data-model.png" alt="Data Model"></p>
 </article></div><div style="background-color: #b4b2b2;width: 50px;height:50px;line-height: 50px;text-align: center;position: fixed;bottom: 10px;right: 10px;padding-top:5px;" onclick="document.documentElement.scrollTop = document.body.scrollTop =0;">
   <svg t="1533629773982" class="icon" style="" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" p-id="1035" xlink="http://www.w3.org/1999/xlink" width="40" height="40"><defs><style type="text/css">@font-face { font-family: uc-nexus-iconfont; src: url("chrome-extension://pogijhnlcfmcppgimcaccdkmbedjkmhi/res/font_9qmmi8b8jsxxbt9.woff") format("woff"), url("chrome-extension://pogijhnlcfmcppgimcaccdkmbedjkmhi/res/font_9qmmi8b8jsxxbt9.ttf") format("truetype"); }
   </style></defs><path d="M536.255427 195.182354c-7.804756-7.804756-17.966187-11.615549-28.311813-11.615549-9.43693 0-18.874883 3.449565-26.496467 10.163477-2.360767 1.452071-4.356214 3.267417-6.352685 5.262864L218.47792 455.611735c-15.607466 15.60542-15.607466 40.834011 0 56.43943 15.607466 15.607466 41.558511 15.607466 57.167001 0l193.46013-192.733583 0 600.526219c0 22.1423 17.787108 39.927361 39.927361 39.927361 22.140253 0 39.927361-17.785062 39.927361-39.927361L548.959773 319.317583 737.15704 508.422522c15.607466 15.607466 40.469714 15.607466 56.078203 0 15.607466-15.607466 15.425318-40.834011-0.182149-56.441477L536.255427 195.182354 536.255427 195.182354z" p-id="1036" fill="#333"/><path d="M101.784174 143.097092l816.674071 0c22.140253 0 39.925315-17.785062 39.925315-39.927361 0-22.140253-17.784038-39.925315-39.925315-39.925315L101.784174 63.244416c-22.140253 0-39.927361 17.785062-39.927361 39.925315C61.856813 125.31203 79.643921 143.097092 101.784174 143.097092L101.784174 143.097092z" p-id="1037" fill="#333"/></svg>
