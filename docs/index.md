@@ -22,6 +22,6 @@ The LeanIX Report Gallery helps Enterprise Architects find and re-create reports
 
 [:fontawesome-solid-rocket: &nbsp; Get started](reports/){: .md-button .md-button--primary }
 
-<!-- abbr
-*[LeanIX]: LeanIX offers Software-as-a-Service (SaaS) for managing Enterprise Architecture and multi-cloud environments to enable organizations to take faster, data-driven decisions in their IT.
--->
+--8<--​ 
+includes/glossary.md
+--8<--​ 

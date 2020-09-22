@@ -7,7 +7,6 @@ title: Contributors
 Thanks to all our contributors:
 
 - [Stephen Gates](https://www.linkedin.com/in/sdgates/) - Founder, LeanIX Report Gallery
-- [Craig Stanley](https://www.linkedin.com/in/c-stanley/) - [Citadel](https://citadelgroup.com.au/eaaas/) a certified Australian LeanIX Partner
 - and those wishing to remain anonymous :fontawesome-solid-user-secret:{: .grey } 
 
 ## Acknowledgements
