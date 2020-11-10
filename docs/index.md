@@ -22,6 +22,5 @@ The LeanIX Report Gallery helps Enterprise Architects find and re-create reports
 
 [:fontawesome-solid-rocket: &nbsp; Get started](reports/){: .md-button .md-button--primary }
 
---8<--​ 
-includes/glossary.md
---8<--​ 
+
+--8<--​ "glossary.md"

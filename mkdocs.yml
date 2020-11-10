@@ -17,8 +17,6 @@ copyright: Copyright &copy; 2020 LeanIX Report Gallery - CC BY-SA 4.0
 # Configuration
 theme:
   name: material
-  #name: null  
-  #custom_dir: mkdocs-material/material
   # specify two scheme for light and dark mode
   palette:
     #- scheme: leanix
@@ -42,6 +40,7 @@ theme:
     code: Roboto Mono  
   logo: assets/images/logo.png
   favicon: assets/images/favicon.png
+  language: en-custom
   features:
     - search.highlight
     #- toc.autohide
@@ -62,6 +61,7 @@ extra_css:
   
 # Customisation 
 extra:
+  generator: false
   social:
     - icon: fontawesome/brands/twitter
       link: https://twitter.com/SGatesHQ
@@ -78,24 +78,32 @@ extra:
    
 # Extensions  
 markdown_extensions:
-  - admonition
-  - abbr
-  - attr_list
-  - footnotes
-  - meta  
+  - pymdownx.snippets:
+      base_path: /includes
+      check_paths: true
+  - markdown.extensions.admonition
+  - markdown.extensions.abbr
+  - markdown.extensions.attr_list
+  - markdown.extensions.def_list
+  - markdown.extensions.footnotes
+  - markdown.extensions.meta
+  - markdown.extensions.toc:
+      #permalink: ⚓︎
+      toc_depth: 2
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.critic
   - pymdownx.details
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
   - pymdownx.mark
-  - pymdownx.caret
-  - pymdownx.snippets:
-      check_paths: true
   - pymdownx.tabbed
   - pymdownx.tilde
-  - toc:
-      #permalink: ⚓︎
-      toc_depth: 2
+
           
 # Extra javascripts including sortable tables     
 extra_javascript:
@@ -106,8 +114,8 @@ extra_javascript:
 # only needed here if other plugins are added
 
 plugins:
-    - search
-    #- img2fig
+  - search
+  #- img2fig
   
 #Google Analytics
 google_analytics:

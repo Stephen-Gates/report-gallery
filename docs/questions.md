@@ -291,3 +291,6 @@ Master Data describes the customers, products, parts, employees, etc. involved i
 as Places (locations, geography, sites, etc.), Parties (persons, customers, suppliers, employees, etc.) and Things (products, items, material, vehicles, etc.).
 
 *[Transactional data]: Transactional data describes business events.
+
+
+---8<---​  "includes/glossary.md"
