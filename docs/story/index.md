@@ -29,7 +29,7 @@ This report shows what User Groups are part of, or interact with, your business.
 
 This report shows the Processes your business area participates in. We like to take a process view as it connects the value created to the member - [Inspiration](https://www.youtube.com/watch?v=C1FPQloVb54) :fontawesome-brands-youtube:{: .youtube }
 
-We only capture high-level processes; some people call them "[value streams](https://en.wikipedia.org/wiki/Value_stream)". Other QSuper teams capture lower-level process diagrams.
+We only capture high-level processes; some people call them "[value streams](https://en.wikipedia.org/wiki/Value_stream)". Other teams capture lower-level process diagrams.
 
 ![Process Factsheet Map report](../assets/images/factsheet-map-process.png){: .zoom }
 
