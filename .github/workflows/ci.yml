@@ -16,6 +16,6 @@ jobs:
           python-version: 3.x
       - run: pip install git+https://${GH_TOKEN}@github.com/squidfunk/mkdocs-material-insiders.git
       - run: pip install mkdocs-section-index
-      - run: mkdocs gh-deploy --force
+      - run: mkdocs build
 env:
   GH_TOKEN: ${{ secrets.MATERIAL_INSIDERS }}
