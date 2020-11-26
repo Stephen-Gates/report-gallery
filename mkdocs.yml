@@ -115,7 +115,7 @@ extra_javascript:
 
 plugins:
   - search
-  #- img2fig
+  - section-index
   
 #Google Analytics
 google_analytics:
@@ -130,34 +130,34 @@ nav:
   - Inventory : inventory/index.md  
   - Factsheet Map: factsheet-map/index.md
   - Landscape: 
-    - About Landscape reports: landscape/index.md
+    - landscape/index.md
     - Application Landscape: landscape/application-landscape-reports.md
     - IT Component Landscape: landscape/it-component-landscape-reports.md
     - Project Landscape: landscape/project-landscape-reports.md
   - Matrix:
-    - About Matrix reports: matrix/index.md
+    - matrix/index.md
     - Application Matrix: matrix/application-matrix-reports.md
     - IT Component Matrix: matrix/it-component-matrix-reports.md
     - Project Matrix: matrix/project-matrix-reports.md  
   - Roadmap:
-    - About Roadmap reports: roadmap/index.md
+    - roadmap/index.md
     - Application Roadmap: roadmap/application-roadmap-reports.md
     - IT Component Roadmap: roadmap/it-component-roadmap-reports.md
     - Project Roadmap: roadmap/project-roadmap-reports.md  
   - Circle Map: interface/index.md
   - Data Flow: dataflow/index.md        
   - World Map:
-    - About World Map reports: location/index.md
+    - location/index.md
     - Application Sourcing: location/application-sourcing-report.md
     - Application Usage: location/application-usage-report.md
     - IT Component Location: location/it-component-location-report.md 
   - Cost: 
-    - About Cost reports: cost/index.md
+    - cost/index.md
     - Business Capability Costs: cost/business-capability-cost-report.md
     - Project Costs: cost/project-cost-report.md
     - Provider Costs: cost/provider-cost-report.md                 
   - Portfolio:
-    - About Portfolio reports: metrics/index.md
+    - metrics/index.md
     - Application Portfolio: metrics/application-portfolio-report.md
     - Project Portfolio: metrics/project-portfolio-report.md
     - Provider Portfolio: metrics/provider-portfolio-report.md
