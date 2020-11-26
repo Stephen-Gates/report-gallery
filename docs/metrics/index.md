@@ -4,7 +4,7 @@ title: "Portfolio reports"
 
 !!! note "Work in progress"
 
-# About Portfolio reports
+# Portfolio reports
 
 The Portfolio reports show...
 
