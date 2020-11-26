@@ -21,7 +21,7 @@ theme:
   palette:
     #- scheme: leanix
     - scheme: default
-      primary: blue
+      primary: green
       accent: blue
       toggle:
         #icon: material/toggle-switch
