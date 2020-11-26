@@ -137,7 +137,7 @@ The views available are:
 
 ##### Fields on relations
 
-1. IT Components: Toal annual cost
+1. IT Components: Total annual cost
 
 ##### Fields on related factsheets
 
@@ -282,7 +282,7 @@ The views available are:
 
 ##### Fields on relations
 
-1. IT Components: Toal annual cost
+1. IT Components: Total annual cost
 
 ##### Fields on related factsheets
 
