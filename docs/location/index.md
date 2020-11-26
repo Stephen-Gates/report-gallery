@@ -4,7 +4,7 @@ title: "World Map reports"
 
 !!! note "Work in progress"
 
-# About World Map reports
+# World Map reports
 
 World Map reports show a geographic map overlaid (by Country or location) associated with either the User Group or IT Component.
 

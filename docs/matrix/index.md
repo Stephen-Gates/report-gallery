@@ -4,7 +4,7 @@ title: "Matrix reports"
 
 !!! note "Work in progress"
 
-# About Matrix reports
+# Matrix reports
 
 The Matrix report shows...
 

@@ -2,7 +2,7 @@
 title: "Landscape reports"
 ---
 
-# About Landscape reports
+# Landscape reports
 
 The Landscape report shows within a hierarchy of one factsheet type, another factsheet type.
 
