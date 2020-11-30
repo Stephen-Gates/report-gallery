@@ -4,7 +4,7 @@ hide:
   - toc        # Hide table of contents
 ---
 
-# About the LeanIX Report Gallery 
+# About
 
 The LeanIX Report Gallery:
 
