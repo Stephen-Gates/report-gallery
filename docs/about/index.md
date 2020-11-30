@@ -1,33 +1,30 @@
 ---
-title: Contribute
+title: About
+hide:
+  - toc        # Hide table of contents
 ---
 
-# Suggest a change 
+# About the LeanIX Report Gallery 
 
-Thanks for being here :fontawesome-regular-heart:{: .pink }  
+The LeanIX Report Gallery:
 
-You can suggest a change by contacting us or contribute using GitHub.
+- is an open licensed community project 
+- can be contributed to by anyone that follows the [contribution guidelines](contribute.md) 
+- accepts contributions that are licensed using [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) or a more open Creative Commons licence to:
+	- acknowledges [contributors](contributors.md) based on they're attribution preference
+	- encourage reuse and sharing
+- follows the [benevolent dictator for life](https://en.wikipedia.org/wiki/Benevolent_dictator_for_life)  leadership model
+- was founded by Stephen Gates  
 
-## Before you start
-
-The LeanIX Report Gallery is an openly licensed project. By contributing to this project, you agree that your contribution is licensed under the site's [open licence](licence.md). 
-
-Make sure you have permission to share the submitted content.
-
-## Suggest a change
-
-[Contact us](about.md) about your improvement idea. Report contributions should include:
-
-1. a description of the report, ideally formatted using [Markdown](https://commonmark.org/help/) :octicons-link-external-16:{: .grey } 
-1. one or more full screen images of the report in .png format.
-1. the category for the report.
-1. your name and/or organisation name as you'd like it to appear on the [contributors](contributors.md) page. Submissions can be anonymous.
-
-## Contribute using GitHub
 <!--
-You can edit directly in GitHub by using the :fontawesome-solid-pen:{: .edit } icon at the top of each page. 
+## Contact
+
+- [@SGatesHQ][Twitter] :fontawesome-brands-twitter:{: .twitter } 
+- [Stephen Gates][LinkedIn] :fontawesome-brands-linkedin:{: .linkedin } 
+- [Stephen-Gates][GitHub] :fontawesome-brands-github: 
+
+
+[LinkedIn]: https://www.linkedin.com/in/sdgates/ "Stephen Gates on LinkedIn"
+[Twitter]: https://twitter.com/SGatesHQ "Stephen Gates on Twitter" 
+[GitHub]: https://github.com/Stephen-Gates/report-gallery "Stephen Gates on GitHub"
 -->
-
-[Raise issues](https://github.com/Stephen-Gates/report-gallery/issues) :octicons-link-external-16:{: .grey } or submit pull requests via [our GitHub repository][GitHub] :octicons-link-external-16:{: .grey } 
-
-[GitHub]: https://github.com/Stephen-Gates/report-gallery "Stephen-Gates/report-gallery"

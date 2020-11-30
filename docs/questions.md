@@ -1,5 +1,5 @@
 ---
-Title: "Questions you can answer with LeanIX reports"
+Title: "Questions you can answer using LeanIX reports"
 ---
 
 ??? note "Work in progress"
@@ -15,19 +15,19 @@ Title: "Questions you can answer with LeanIX reports"
     - Focus on the factsheet part of the question first, with views as sub-questions  
     - My leaning is to put the factsheet that provides the answer as the first part of the question but sometime this doesn't sound natural.
     - If questions are phrased how people commonly ask, then it will be easier to turn this resource into a [chatbot](https://stephen-gates.github.io/chatbot/site/). :fontawesome-solid-robot:{: .grey }
+    - The questions below are arranged by the factsheets involved in answering the question. 
+      - Questions answered by using a built-in view are shown as sub-questions. 
+      - Questions based on a view using tags are marked with *[tags]*. Tags are unique to your LeanIX implementation. 
+      - Where I don't know how best to phrase a question, there may be an alternative phrasing as a sub-question, marked with *[alternative]*. 
     - Check question list against:
         - [How to Answer the Top Questions of Enterprise Architecture Stakeholders](https://www.leanix.net/en/download/how-to-answer-the-top-questions-of-enterprise-architecture-stakeholders)
         - [Smart Enterprise Architecture Governance in an Agile World](https://www.leanix.net/en/download/smart-ea-governance-in-an-agile-world)
         -[24 Key Enterprise Architecture Views for the Financial Services Industry](https://www.leanix.net/en/download/24-enterprise-architecture-views-financial-services)
         - [Reshape your IT with 24 Key Enterprise Architecture Views](https://www.leanix.net/en/download/reshape-your-it-with-24-key-enterprise-architecture-viewpoints) - doesn't have questions.
 
-# Questions you can answer with LeanIX reports
+# Questions you can answer 
 
-- The questions below are arranged by the factsheets involved in answering the question. 
-  - Questions answered by using a built-in view are shown as sub-questions. 
-  - Questions based on a view using tags are marked with *[tags]*. Tags are unique to your LeanIX implementation. 
-  - Where I don't know how best to phrase a question, there may be an alternative phrasing as a sub-question, marked with *[alternative]*. 
-
+The questions below are arranged by the factsheets involved in answering the question. 
 
 ## User Groups
 

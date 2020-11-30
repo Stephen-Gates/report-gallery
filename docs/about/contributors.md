@@ -1,5 +1,7 @@
 ---
 title: Contributors
+hide:
+  - toc        # Hide table of contents
 ---
 
 # :fontawesome-regular-heart:{: .heart } Contributors 

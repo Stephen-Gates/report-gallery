@@ -126,7 +126,6 @@ google_analytics:
 nav:
   - Home: index.md
   - Questions: questions.md
-  - Reports: reports.md
   - Inventory : inventory/index.md  
   - Factsheet Map: factsheet-map/index.md
   - Landscape: 
@@ -169,7 +168,7 @@ nav:
     - Your Plans: story/plans.md
     #- Your Business Capabilities: story/business-capability.md
   - About:
-    - Suggest a change: about/index.md
+    - about/index.md
+    - Suggest a change: about/contribute.md
     - Contributors: about/contributors.md
     - Licence: about/licence.md
-    - The Project: about/about.md

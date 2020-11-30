@@ -3,51 +3,49 @@ title: Types of reports
 ---
 
 
-Choose a report to discover the questions it can answer and how to re-create it using LeanIX.
+Choose a report to discover the questions it can answer and how to re-create it using LeanIX. Get a refresher on [using LeanIX reports](https://docs.leanix.net/docs/insights-through-reports).  
 
-The [Inventory][inventory] shows a table of factsheets and their properties.
+The **[Inventory][inventory]** shows a table of factsheets and their properties.
 
 [![Inventory](../assets/images/inventory-thumbnail.png)][inventory]
 
-[Factsheet Map reports][factsheet-map] show a hierarchy of one factsheet type.
+**[Factsheet Map reports][factsheet-map]** show a hierarchy of one factsheet type.
 
 [![Factsheet Map reports](../assets/images/factsheet-map-thumbnail.png)][factsheet-map]
 
-[Landscape reports][landscape] show one factsheet type within the hierarchy of another. 
+**[Landscape reports][landscape]** show one factsheet type within the hierarchy of another. 
 
 [![Landscape reports](../assets/images/landscape-thumbnail.png)][landscape]
 
-[Matrix reports][matrix] show one factsheet type within a matrix of other factsheet types or time.
+**[Matrix reports][matrix]** show one factsheet type within a matrix of other factsheet types or time.
 
 [![Matrix reports](../assets/images/matrix-thumbnail.png)][matrix]
 
-[Roadmap reports][roadmap] show the lifecycle of factsheets over time. 
+**[Roadmap reports][roadmap]** show the lifecycle of factsheets over time. 
 
 [![Roadmap reports](../assets/images/roadmap-thumbnail.png)][roadmap]
 
-The [Interface Circle Map][interface] shows a high-level view of interfaces between applications in the portfolio.
+The **[Interface Circle Map][interface]** shows a high-level view of interfaces between applications in the portfolio.
 
 [![Interface Circle Map report](../assets/images/interface-circle-map-thumbnail.png)][interface]
 
-
-[Data Flow diagrams][data-flow] show interfaces between selected applications.
+**[Data Flow diagrams][data-flow]** show interfaces between selected applications.
 
 [![Data Flow diagrams](../assets/images/dataflow-thumbnail.png)][data-flow]
 
-
-[World Maps][location] show a geographic map of user group or IT component locations.
+**[World Maps][location]** show a geographic map of user group or IT component locations.
 
 [![World Map reports](../assets/images/world-map-thumbnail.png)][location]
 
-[Cost reports][cost] total to costs associated with a business capability, project or provider.
+**[Cost reports][cost]** total to costs associated with a business capability, project or provider.
 
 [![Cost reports](../assets/images/cost-thumbnail.png)][cost]
 
-[Portfolio reports][portfolio] show a grid of applications, projects or providers measured against two criteria.
+**[Portfolio reports][portfolio]** show a grid of applications, projects or providers measured against two criteria.
 
 [![Portfolio reports](../assets/images/portfolio-thumbnail.png)][portfolio]
 
-[Lifecycle and Age reports][lifecycle-age] show the number of applications added or removed from the portfolio over time.
+**[Lifecycle and Age reports][lifecycle-age]** show the number of applications added or removed from the portfolio over time.
 
 [![Lifecycle and Age reports](../assets/images/lifecycle-age-thumbnail.png)][lifecycle-age]
 
