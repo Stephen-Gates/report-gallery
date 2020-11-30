@@ -125,8 +125,8 @@ google_analytics:
 # Page tree - only 2 levels allowed
 nav:
   - Home: index.md
-  - Reports: reports.md
   - Questions: questions.md
+  - Reports: reports.md
   - Inventory : inventory/index.md  
   - Factsheet Map: factsheet-map/index.md
   - Landscape: 
