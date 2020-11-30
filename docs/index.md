@@ -9,7 +9,7 @@ hide:
 
 **[Discover the questions you can answer using LeanIX reports][questions]**
 
-Choose a report below to learn the questions it answers and how to create it using [LeanIX](https://www.leanix.net/en/solutions/enterprise-architecture-suite). 
+Choose a report below to learn the questions it answers and how to create it using the [LeanIX](https://www.leanix.net/en/solutions/enterprise-architecture-suite) Application Portfolio Management module. 
 
 ## Reports
 

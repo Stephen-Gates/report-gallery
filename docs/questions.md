@@ -112,7 +112,7 @@ The questions below are arranged by the factsheets involved in answering the que
     1. What is the data classification (i.e. confidentiality)? 
     1. What is the category of the data ("Master data", "Reference data", "Transactional data", "Metadata")? *[tags]*
 1. [How are data objects structured?][factsheet-map-data-object]
-1. [What applications manage or access data?](https://store.leanix.net/en/report-details/753b11a9-4e86-4fad-a840-f76341bad983/c7d772df-2988-4024-920f-fb732d95cedc) :octicons-link-external-16:{: .grey } 
+1. [What applications manage or access data?](https://store.leanix.net/en/report-details/753b11a9-4e86-4fad-a840-f76341bad983/c7d772df-2988-4024-920f-fb732d95cedc) 
     1. What applications manage or access sensitive data?
 1. Where is data stored? <!-- /location/it-component-location-report -->
     1. Is any sensitive data stored in other countries? i.e.  Is there a sovereignty risk?

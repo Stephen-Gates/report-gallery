@@ -72,9 +72,8 @@ extra:
     - icon: fontawesome/brands/github
       link: https://github.com/Stephen-Gates/report-gallery
       name: LeanIX Report Gallery on GitHub  
-    #- icon: material/lightbulb-on-outline
-      #link: https://citadelgroup.com.au/eaaas/
-      #name: Request a report   
+    - icon: fontawesome/brands/creative-commons
+      link: https://stephen-gates.github.io/report-gallery/site/about/licence/
    
 # Extensions  
 markdown_extensions:

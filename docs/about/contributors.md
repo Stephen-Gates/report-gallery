@@ -15,8 +15,8 @@ Thanks to all our contributors:
 
 We acknowledge the great work of others, especially LeanIX and the LeanIX community. We are inspired by:
 
-- [LeanIX](https://www.leanix.net/en/) :octicons-link-external-16:{: .grey } 
-- [LeanIX Resources](https://www.leanix.net/en/resources/download) :octicons-link-external-16:{: .grey } 
-- [LeanIX User docs](https://docs.leanix.net/) :octicons-link-external-16:{: .grey } 
-- [LeanIX Technical docs](https://dev.leanix.net/docs) :octicons-link-external-16:{: .grey } 
-- [LeanIX Videos on YouTube](https://www.youtube.com/channel/UCuQgcdrp4Pf9-6ygAPC0PYA) :octicons-link-external-16:{: .grey } 
+- [LeanIX](https://www.leanix.net/en/) 
+- [LeanIX Resources](https://www.leanix.net/en/resources/download) 
+- [LeanIX User docs](https://docs.leanix.net/) 
+- [LeanIX Technical docs](https://dev.leanix.net/docs) 
+- [LeanIX Videos on YouTube](https://www.youtube.com/channel/UCuQgcdrp4Pf9-6ygAPC0PYA) 
