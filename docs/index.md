@@ -19,11 +19,11 @@ The **[Inventory][inventory]** shows a table of factsheets and their properties.
 
 **[Factsheet Map reports][factsheet-map]** show a hierarchy of one factsheet type.
 
-[![Factsheet Map reports](../assets/images/factsheet-map-thumbnail.png)][factsheet-map]
+[![Factsheet Map reports](assets/images/factsheet-map-thumbnail.png)][factsheet-map]
 
 **[Landscape reports][landscape]** show one factsheet type within the hierarchy of another. 
 
-[![Landscape reports](../assets/images/landscape-thumbnail.png)][landscape]
+[![Landscape reports](assets/images/landscape-thumbnail.png)][landscape]
 
 **[Matrix reports][matrix]** show one factsheet type within a matrix of other factsheet types or time.
 
@@ -64,8 +64,8 @@ Get a refresher on [using LeanIX reports](https://docs.leanix.net/docs/insights-
 
 <!-- links -->
 [questions]: questions.md 
-[factsheet-map]: ../factsheet-map/ "Factsheet maps"
-[landscape]: ../landscape/ "Landscape reports"
+[factsheet-map]: /factsheet-map/ "Factsheet maps"
+[landscape]: landscape/ "Landscape reports"
 [matrix]: ../matrix/ "Matrix reports"
 [roadmap]: ../roadmap/ "Roadmap reports"
 [location]: ../location/ "World maps"
