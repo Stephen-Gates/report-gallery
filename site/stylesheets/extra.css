@@ -10,6 +10,7 @@
   --md-primary-fg-color:        #166BFF;
   --md-primary-fg-color--light: #509FFF;
   --md-primary-fg-color--dark:  #033AAA;
+/*  --md-default-bg-color:        #999999; */
 }
 
 /* color first column */
@@ -19,7 +20,7 @@ table tr td:first-child {
 }
 
 
-/* zoom not great on mobile */
+/* zoom not great on mobile 
 img {
     height: auto;
     width: auto;
@@ -37,6 +38,7 @@ img.zoom {
     border: 1px solid #eeeeee;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
+*/
 
 a.md-logo img {
     border: none;

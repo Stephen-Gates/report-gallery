@@ -17,7 +17,6 @@ Title: "Questions you can answer using LeanIX reports"
     - If questions are phrased how people commonly ask, then it will be easier to turn this resource into a [chatbot](https://stephen-gates.github.io/chatbot/site/). :fontawesome-solid-robot:{: .grey }
     - The questions below are arranged by the factsheets involved in answering the question. 
       - Questions answered by using a built-in view are shown as sub-questions. 
-      - Questions based on a view using tags are marked with *[tags]*. Tags are unique to your LeanIX implementation. 
       - Where I don't know how best to phrase a question, there may be an alternative phrasing as a sub-question, marked with *[alternative]*. 
     - Check question list against:
         - [How to Answer the Top Questions of Enterprise Architecture Stakeholders](https://www.leanix.net/en/download/how-to-answer-the-top-questions-of-enterprise-architecture-stakeholders)
@@ -27,23 +26,26 @@ Title: "Questions you can answer using LeanIX reports"
 
 # Questions you can answer 
 
-The questions below are arranged by the factsheets involved in answering the question. 
+- The questions below are arranged by the factsheets involved in answering the question. 
+- Questions based on a view using tags are marked with :fontawesome-solid-tag:{: .grey } Tags are unique to your LeanIX implementation. 
+
 
 ## User Groups
 
 1. [What user groups are part of, or interact with, our organisation?][inventory]
-    1. Which user groups are "internal" to our organisation? *[tags]*
-    1. Which user groups are "external" to our organisation? *[tags]*
-    1. Which "external" user groups use our "internet channel"? *[tags]*
+    1. Which user groups are "internal" to our organisation? :fontawesome-solid-tag:{: .grey }   
+    1. Which user groups are "external" to our organisation? :fontawesome-solid-tag:{: .grey }  
+    1. Which "external" user groups use our "internet channel"? :fontawesome-solid-tag:{: .grey }   
 1. [How are user groups structured?][factsheet-map-user-group] 
 1. [What applications support user groups?][landscape-application-user-group] 
-    1. Which applications do "external" user groups use? *[tags]* <!-- this requires an internal/external tag on the user group factsheet -->
+    1. Which applications do "external" user groups use? :fontawesome-solid-tag:{: .grey }   <!-- this requires an internal/external tag on the user group factsheet -->
 1. [Where are application users located?][location-application-usage]
 
     
 ## Business Capabilities
 
 1. [What business capabilities support our organisation?][inventory]
+  1. How are business capabilities classified? For example: a,b,c :fontawesome-solid-tag:{: .grey }  
 1. [How are business capabilities structured?][factsheet-map-business-capability]
 1. [Which applications support business capabilities?][landscape-application-business-capability] 
     1. Which business capabilities are impacted when an application fails? 
@@ -110,7 +112,7 @@ The questions below are arranged by the factsheets involved in answering the que
 1. [What data objects do we use?][inventory]
     1. Who are the stakeholders?
     1. What is the data classification (i.e. confidentiality)? 
-    1. What is the category of the data ("Master data", "Reference data", "Transactional data", "Metadata")? *[tags]*
+    1. What is the category of the data ("Master data", "Reference data", "Transactional data", "Metadata")? :fontawesome-solid-tag:{: .grey }  
 1. [How are data objects structured?][factsheet-map-data-object]
 1. [What applications manage or access data?](https://store.leanix.net/en/report-details/753b11a9-4e86-4fad-a840-f76341bad983/c7d772df-2988-4024-920f-fb732d95cedc) 
     1. What applications manage or access sensitive data?

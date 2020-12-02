@@ -19,20 +19,18 @@ theme:
   name: material
   # specify two scheme for light and dark mode
   palette:
-    #- scheme: leanix
-    - scheme: default
-      primary: blue
-      accent: blue
+    - scheme: leanix
+    #- scheme: default
+      #primary: blue
+      #accent: blue
       toggle:
-        #icon: material/toggle-switch
         icon: octicons/sun-16
         name: Switch to light mode
     #- scheme: leanix-dark
     - scheme: slate
-      primary: blue
-      accent: blue
+      primary: #166BFF
+      accent: #166BFF
       toggle:
-        #icon: material/toggle-switch-off-outline
         icon: octicons/moon-16
         name: Switch to dark mode    
   font:

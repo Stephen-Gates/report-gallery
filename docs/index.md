@@ -5,11 +5,11 @@ hide:
   - toc        # Hide table of contents
 ---
  
-# The LeanIX Report Gallery
+# LeanIX Report Gallery
 
 **[Discover the questions you can answer using LeanIX reports][questions]**
 
-Choose a report below to learn the questions it answers and how to create it using the [LeanIX](https://www.leanix.net/en/solutions/enterprise-architecture-suite) Application Portfolio Management module. 
+Choose a report below to learn the questions it answers and how to create it using the [LeanIX](https://www.leanix.net/en/solutions/enterprise-architecture-suite) Enterprise Architecture Suite. 
 
 ## Reports
 
