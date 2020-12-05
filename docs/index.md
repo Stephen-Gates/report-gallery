@@ -1,5 +1,5 @@
 ---
-title: Home
+title: 
 description: Discover the questions you can answer using LeanIX reports
 hide:
   - toc        # Hide table of contents
