@@ -24,8 +24,6 @@ There are four types of reports:
     - *How many Applications are Active or being Phased out each month?*
     - *How many Applications became Active each year?*
 
-:fontawesome-regular-check-circle:{: .check-circle }  Portfolio reports are standard LeanIX reports.
-
 <!-- links -->
 
 [portfolio]: application-portfolio-report.md "Portfolio reports"

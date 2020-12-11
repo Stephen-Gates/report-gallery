@@ -17,7 +17,7 @@ The costs for a Project are calculated based on:
 
 - ?
 
-![Project Cost report](/assets/images/cost-project.png){: .zoom }
+![Project Cost report](/assets/images/cost-project.png)
 
 *Project Cost report.*
 
@@ -37,7 +37,7 @@ For more information, check the [report requirements in the LeanIX User Docs](ht
 
 No tags are required for this report.
 
-### Other requirement
+### Other requirements
 
 No other requirements 
  See https://docs.leanix.net/docs/insights-through-reports#knowledge-about--relations-in-eg-application-landscape 
@@ -47,7 +47,7 @@ No other requirements
 
 Display this report as a chart or table. 
 
-![Project Cost report](/assets/images/cost-project-table.png){: .zoom }
+![Project Cost report](/assets/images/cost-project-table.png)
 
 *Project Cost table.*
 

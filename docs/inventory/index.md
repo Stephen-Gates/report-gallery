@@ -30,5 +30,3 @@ The Inventory answers the questions:
 - What IT components do we have?
 - What technology categories do we use to classify IT components?
 - What providers do we use?
-
-:fontawesome-regular-check-circle:{: .check-circle } Inventory reports are standard LeanIX reports.

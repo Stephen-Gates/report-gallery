@@ -14,7 +14,7 @@ The Application Portfolio report answers the question:
 - Applications with low Functional Fit but high Business Criticality may need investment
 - Applications with low Technical Fit but high Business Criticality may need investment
 
-![](../assets/images/application-portfolio.png){: .zoom }  
+![](../assets/images/application-portfolio.png)  
 
 *Application Portfolio report, Functional Fit vs. Technical Fit view.*
 
@@ -34,7 +34,7 @@ The following factsheets and associated properties are required:
 
 No tags are required for this report.
 
-### Other requirement
+### Other requirements
 
 No other requirements
 -->
@@ -43,7 +43,7 @@ No other requirements
 
 Display this report as a chart or table. 
 
-![](../assets/images/application-portfolio-table.png){: .zoom }  
+![](../assets/images/application-portfolio-table.png)  
 
 ## View
 

@@ -14,7 +14,7 @@ The Application Sourcing report answers the question:
 The answer is based on the location of the IT components that are linked to the application factsheet.
 
 
-![Application Sourcing](/assets/images/application-sourcing-country.png){: .zoom }  
+![Application Sourcing](/assets/images/application-sourcing-country.png)  
 
 <!--
 ![](https://www.leanix.net/hubfs/2019%20LX%20Website/General/Illu/ia-countrymap-8-Col-XL.svg)
@@ -55,7 +55,7 @@ The views available are:
 2. **By Location** - a circle centred on a City, State, or Country (based on the location precision provided), with the size of the circle representing the relative number of Applications at that location.
 
 
-![Application Sourcing](/assets/images/application-sourcing-location.png){: .zoom }  
+![Application Sourcing](/assets/images/application-sourcing-location.png)  
 
 *Application Sourcing report, By Location view.*
 

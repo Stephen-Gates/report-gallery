@@ -16,7 +16,7 @@ The IT Component Matrix report answers the question:
 This is useful if generic statement about all reports of this type with this focus
 
 
-![IT Component Matrix report](/assets/images/it-component-matrix.png){: .zoom }  
+![IT Component Matrix report](/assets/images/it-component-matrix.png)  
 
 *IT Component Matrix report.*
 
@@ -34,7 +34,7 @@ The following factsheets and associated properties are required:
 
 - No tags are required for this report
 
-#### Other requirement
+#### Other requirements
 
 - No other requirements
 
@@ -70,7 +70,7 @@ This Report Instance One name report answers the question:
 
 This is useful specifically for... 
 
-![IT Component Matrix report](/assets/images/it-component-matrix-ts-provider.png){: .zoom }  
+![IT Component Matrix report](/assets/images/it-component-matrix-ts-provider.png)  
 
 *Caption.*
 
@@ -87,7 +87,7 @@ Specific factsheets and associated properties are required:
 
 Specific tags are required for this report.
 
-#### Other requirement
+#### Other requirements
 
 No other requirements
 
@@ -113,7 +113,7 @@ This Report Instance Two name report answers the question:
 
 This is useful specifically for... 
 
-![IT Component Matrix report](/assets/images/it-component-matrix-time-provider.png){: .zoom }  
+![IT Component Matrix report](/assets/images/it-component-matrix-time-provider.png)  
 
 *Caption.*
 
@@ -130,7 +130,7 @@ Specific factsheets and associated properties are required:
 
 Specific tags are required for this report.
 
-#### Other requirement
+#### Other requirements
 
 No other requirements
 
@@ -156,7 +156,7 @@ This Report Instance Two name report answers the question:
 
 This is useful specifically for... 
 
-![IT Component Matrix report](/assets/images/it-component-matrix-time-ts.png){: .zoom }  
+![IT Component Matrix report](/assets/images/it-component-matrix-time-ts.png)  
 
 *Caption.*
 
@@ -173,7 +173,7 @@ Specific factsheets and associated properties are required:
 
 Specific tags are required for this report.
 
-#### Other requirement
+#### Other requirements
 
 No other requirements
 

@@ -13,7 +13,7 @@ The Provider Portfolio report answers the question:
 - Critical providers delivering low quality service may need closer management
 - Expanding relationships with providers delivering high quality service could be considered
 
-![](../assets/images/provider-portfolio.png){: .zoom }  
+![](../assets/images/provider-portfolio.png)  
 
 *Provider Portfolio report.*
 
@@ -32,7 +32,7 @@ The following factsheets and associated properties are required:
 
 No tags are required for this report.
 
-### Other requirement
+### Other requirements
 
 No other requirements
 -->
@@ -41,7 +41,7 @@ No other requirements
 
 Display this report as a chart or table. 
 
-![](../assets/images/provider-portfolio-table.png){: .zoom }  
+![](../assets/images/provider-portfolio-table.png)  
 
 ## View
 

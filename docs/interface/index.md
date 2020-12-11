@@ -18,11 +18,9 @@ The Interface Circle Map answers the question:
 
 >Which applications provide or consume interfaces?
 
-![Interface Circle Map](../assets/images/interface-circle-map.png){: .zoom }  
+![Interface Circle Map](../assets/images/interface-circle-map.png)  
 
 *Interface Circle Map, Applications not providing or consuming interfaces are hidden.*
-
-:fontawesome-regular-check-circle:{: .check-circle } The Interface Circle Map is a standard LeanIX report.
 
 ## Requirements
 

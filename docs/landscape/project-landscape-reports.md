@@ -26,7 +26,7 @@ This report answers the question:
 
 This is useful specifically for... 
 
-![Project Landscape report](../assets/images/project-landscape-bc.png){: .zoom }  
+![Project Landscape report](../assets/images/project-landscape-bc.png)  
 
 *Project Landscape report.*
 
@@ -44,7 +44,7 @@ Specific factsheets and associated properties are required:
 
 Specific tags are required for this report.
 
-#### Other requirement
+#### Other requirements
 
 No other requirements
 
@@ -67,7 +67,7 @@ This report answers the question:
 
 This is useful specifically for... 
 
-![Project Landscape report](../assets/images/project-landscape-provider.png){: .zoom }  
+![Project Landscape report](../assets/images/project-landscape-provider.png)  
 
 *Caption.*
 
@@ -85,7 +85,7 @@ Specific factsheets and associated properties are required:
 
 Specific tags are required for this report.
 
-#### Other requirement
+#### Other requirements
 
 No other requirements
 
@@ -109,7 +109,7 @@ This report answers the question:
 
 This is useful specifically for... 
 
-![Placeholder](https://dummyimage.com/800x450/eee/aaa){: .zoom }  
+![Placeholder](https://dummyimage.com/800x450/eee/aaa)  
 
 *Caption.*
 
@@ -127,7 +127,7 @@ Specific factsheets and associated properties are required:
 
 Specific tags are required for this report.
 
-#### Other requirement
+#### Other requirements
 
 No other requirements
 

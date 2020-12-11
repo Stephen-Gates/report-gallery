@@ -6,12 +6,13 @@ title: "Data Flow diagram"
     - See [LeanIX Docs](https://docs.leanix.net/docs/integration-architecture#dive-into-details---data-flow-diagram)
 
 # Data Flow diagram
+## Overview
 
 The Data Flow diagram answers the question:
 
 >How does data flow between applications?
 
-![Placeholder](../assets/images/data-flow-diagram.png){: .zoom }
+![Placeholder](../assets/images/data-flow-diagram.png)
 
 *Data Flow diagram, Business Criticality view*
 
@@ -83,7 +84,7 @@ No tags are required for this report.
 
 Use filters to focus on the specific parts of the diagram by fading out certain factsheets.
 
-![Filtered Data Flow diagram](../assets/images/data-flow-diagram-filtered.png){: .zoom }
+![Filtered Data Flow diagram](../assets/images/data-flow-diagram-filtered.png)
 
 *Data Flow diagram, Filtered view*
 

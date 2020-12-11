@@ -32,7 +32,7 @@ This report answers the question:
 
 This is useful for... 
 
-![Application Landscape report](../assets/images/application-landscape-bc-criticality.png){: .zoom }
+![Application Landscape report](../assets/images/application-landscape-bc-criticality.png)
 
 *Caption.*
 
@@ -50,7 +50,7 @@ Specific factsheets and associated properties are required:
 
 Specific tags are required for this report.
 
-#### Other requirement
+#### Other requirements
 
 No other requirements
 
@@ -62,6 +62,7 @@ Specific settings for this report
 
 Specific view available are: 
 
+- A Plan view is available with the LeanIX [Business Transformation Management module](https://www.leanix.net/en/business-transformation) to show "To-Be" states if the Plan was executed
 
 --- 
 
@@ -72,7 +73,7 @@ This report answers the question:
 
 This is useful specifically for... 
 
-![Application Landscape report](../assets/images/application-landscape-process-lifecycle.png){: .zoom }
+![Application Landscape report](../assets/images/application-landscape-process-lifecycle.png)
 
 *Caption.*
 
@@ -102,6 +103,7 @@ Specific settings for this report
 
 Specific view available are: 
 
+- A Plan view is available with the LeanIX [Business Transformation Management module](https://www.leanix.net/en/business-transformation) to show "To-Be" states if the Plan was executed
 
 
 --- 
@@ -114,7 +116,7 @@ This report answers the question:
 
 This is useful specifically for... 
 
-![Application Landscape report](../assets/images/application-landscape-ug-lifecycle.png){: .zoom }
+![Application Landscape report](../assets/images/application-landscape-ug-lifecycle.png)
 
 *Caption.*
 
@@ -143,3 +145,5 @@ Specific settings for this report
 ### View
 
 Specific view available are: 
+
+- A Plan view is available with the LeanIX [Business Transformation Management module](https://www.leanix.net/en/business-transformation) to show "To-Be" states if the Plan was executed

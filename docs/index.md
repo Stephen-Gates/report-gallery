@@ -1,17 +1,17 @@
 ---
 title: 
 description: Discover the questions you can answer using LeanIX reports
-hide:
-  - toc        # Hide table of contents
+#hide:
+  #- toc        # Hide table of contents
 ---
  
 # LeanIX Report Gallery
 
 **[Discover the questions you can answer using LeanIX reports][questions]**
 
-Choose a report below to learn the questions it answers and how to create it using the [LeanIX](https://www.leanix.net/en/solutions/enterprise-architecture-suite) Enterprise Architecture Suite. 
+Choose a report below to learn the questions it answers and how to create it using the [LeanIX Enterprise Architecture Suite](https://www.leanix.net/en/solutions/enterprise-architecture-suite).
 
-## Reports
+## Types of Reports
 
 The **[Inventory][inventory]** shows a table of factsheets and their properties.
 

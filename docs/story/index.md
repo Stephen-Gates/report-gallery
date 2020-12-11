@@ -22,7 +22,7 @@ This report shows what User Groups are part of, or interact with, your business.
 - External users are sub-divided into the channels they use.
 - Internal users are based on the organisational structure; Divisions sub-divided into Business Units.
 
-![User Group Factsheet Map report](../assets/images/factsheet-map-user-group.png){: .zoom } 
+![User Group Factsheet Map report](../assets/images/factsheet-map-user-group.png) 
 
 
 ## Your Processes
@@ -31,27 +31,27 @@ This report shows the Processes your business area participates in. We like to t
 
 We only capture high-level processes; some people call them "[value streams](https://en.wikipedia.org/wiki/Value_stream)". Other teams capture lower-level process diagrams.
 
-![Process Factsheet Map report](../assets/images/factsheet-map-process.png){: .zoom }
+![Process Factsheet Map report](../assets/images/factsheet-map-process.png)
 
 ##  Applications supporting your Processes
 
 This report shows which Applications support your processes. This view shows the lifecycle of each application.
 
-![Application Matrix](../assets/images/application-matrix-process-ug-lifecycle.png){: .zoom } 
+![Application Matrix](../assets/images/application-matrix-process-ug-lifecycle.png) 
 
 There are many views that can be displayed. Do you have an area of interest?
 
-![Lifecycle view](../assets/images/view-lifecycle.png){: .zoom }
+![Lifecycle view](../assets/images/view-lifecycle.png)
 
-![Cost view](../assets/images/view-cost.png){: .zoom }
+![Cost view](../assets/images/view-cost.png)
 
-![Business Criticality view](../assets/images/view-criticality.png){: .zoom }
+![Business Criticality view](../assets/images/view-criticality.png)
 
-![TIME model view](../assets/images/view-time.png){: .zoom }
+![TIME model view](../assets/images/view-time.png)
 
-![Functional Fitness view](../assets/images/view-ff.png){: .zoom }
+![Functional Fitness view](../assets/images/view-ff.png)
 
-![Technical Fitness view](../assets/images/view-tf.png){: .zoom }
+![Technical Fitness view](../assets/images/view-tf.png)
 
 ## Application portfolio health
 
@@ -62,15 +62,15 @@ Technical Fit \\ Functional Fit | Low       | High
 High                            | Tolerate  | Invest
 Low                             | Eliminate | Migrate
 
-![Application Portfolio report](../assets/images/application-portfolio.png){: .zoom }
+![Application Portfolio report](../assets/images/application-portfolio.png)
 
 You can see which applications we recommend to eliminate.
 
-![Application Portfolio list](../assets/images/application-portfolio-list.png){: .zoom }
+![Application Portfolio list](../assets/images/application-portfolio-list.png)
 
 You can check if the application lifecycle aligns to the TIME recommendation using the Application Landscape report.
 
-![Application Landscape report](../assets/images/application-landscape-time-lifecycle.png){: .zoom }
+![Application Landscape report](../assets/images/application-landscape-time-lifecycle.png)
 
 
 ## Where next?

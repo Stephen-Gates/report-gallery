@@ -128,11 +128,14 @@ nav:
   - Questions: questions.md
   - Inventory : inventory/index.md  
   - Factsheet Map: factsheet-map/index.md
+  - Business Capability Map: business-capability-map/index.md
   - Landscape: 
     - landscape/index.md
     - Application Landscape: landscape/application-landscape-reports.md
     - IT Component Landscape: landscape/it-component-landscape-reports.md
     - Project Landscape: landscape/project-landscape-reports.md
+    - Objectives Landscape: landscape/objective-landscape-reports.md
+    - Transformation Landscape: landscape/transformation-landscape-reports.md
   - Matrix:
     - matrix/index.md
     - Application Matrix: matrix/application-matrix-reports.md
@@ -143,6 +146,7 @@ nav:
     - Application Roadmap: roadmap/application-roadmap-reports.md
     - IT Component Roadmap: roadmap/it-component-roadmap-reports.md
     - Project Roadmap: roadmap/project-roadmap-reports.md  
+    - Transformation Roadmap: roadmap/transformation-roadmap-reports.md  
   - Circle Map: interface/index.md
   - Data Flow: dataflow/index.md        
   - World Map:
@@ -154,7 +158,9 @@ nav:
     - cost/index.md
     - Business Capability Costs: cost/business-capability-cost-report.md
     - Project Costs: cost/project-cost-report.md
-    - Provider Costs: cost/provider-cost-report.md                 
+    - Provider Costs: cost/provider-cost-report.md
+    - Transformation Item Costs: cost/transformation-cost-report.md
+    - Investment Distribution Costs: cost/investment-distribution-cost-report.md
   - Portfolio:
     - metrics/index.md
     - Application Portfolio: metrics/application-portfolio-report.md

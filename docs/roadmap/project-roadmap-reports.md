@@ -6,4 +6,4 @@ title: "Project Roadmap report"
 
 # Project Roadmap report
 
-![Project Roadmap report](../assets/images/project-roadmap.png){: .zoom }
+![Project Roadmap report](../assets/images/project-roadmap.png)

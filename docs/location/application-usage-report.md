@@ -13,7 +13,7 @@ The Application Usage report answers the question:
 
 This is useful... ???
 
-![Application Sourcing](/assets/images/application-usage.png){: .zoom }  
+![Application Sourcing](/assets/images/application-usage.png)  
 
 <!--
 ![](https://www.leanix.net/hubfs/worldmap-8-Col-XL.svg)
@@ -37,7 +37,7 @@ The following factsheets and associated properties are required:
 
 - No tags are required for this report
 
-#### Other requirement
+#### Other requirements
 
 - No other requirements
 -->
