@@ -176,6 +176,6 @@ nav:
     #- Your Business Capabilities: story/business-capability.md
   - About:
     - about/index.md
-    - Suggest a change: about/contribute.md
+    - Contribute: about/contribute.md
     - Contributors: about/contributors.md
     - Licence: about/licence.md

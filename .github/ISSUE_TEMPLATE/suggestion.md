@@ -7,11 +7,14 @@ assignees: ''
 
 ---
 
-**Is your suggestion related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+# Before you start
 
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
+- [ ] I've discussed my suggestion on the [discussion forum](https://github.com/Stephen-Gates/report-gallery/discussions) to get input from the community.
+- [ ] I agree that my contribution can by licensed under the site's open licence - [Creative Commons Attribution Share-alike 4.0 licence](https://creativecommons.org/licenses/by-sa/4.0/) - CC BY-SA 4.0 
+- [ ] I have permission to share and contribute the submitted content.
 
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions you've considered.
+# My suggestion 
+
+- Provide description of what you find frustrating
+- Describe the solution you'd like
+- Describe alternatives you've considered
