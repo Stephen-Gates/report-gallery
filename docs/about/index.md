@@ -31,11 +31,11 @@ This license allows reusers to distribute, remix, adapt, and build upon the mate
 
 If you reuse this work, the preferred attribution follows the [Creative Commons - Best practices for attribution](https://wiki.creativecommons.org/wiki/Best_practices_for_attribution) format:
 
->Page title - LeanIX Report Gallery (link to page) by LeanIX Report Gallery Contributors (link to About page) is licensed under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
+>"Page title - LeanIX Report Gallery (link to page)" by LeanIX Report Gallery Contributors (link to this About page) is licensed under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 
 For example, the preferred attribution for the Questions page is:
 
->[Questions - LeanIX Report Gallery][questions] by [LeanIX Report Gallery Contributors][contributors] is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+>"[Questions - LeanIX Report Gallery][questions]" by [LeanIX Report Gallery Contributors][contributors] is licensed under [CC BY-SA 4.0][CC-BY-SA]
 
 An acceptable shortened attribution is: 
 
@@ -43,7 +43,7 @@ An acceptable shortened attribution is:
 
 ### Attribution for derived works
 
->This work, "[*Your works title here*]", is a derivative of [Provider Cost reports](../cost/provider-cost-report.md) from the [LeanIX Report Gallery](../index.md) used under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). "[*Your works title here*]" is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) by [*Your name here*]
+>This work, "[*Your works title here*]", is a derivative of [Provider Cost reports](../cost/provider-cost-report.md) from the [LeanIX Report Gallery](../index.md) used under [CC BY-SA 4.0][CC-BY-SA]. "[*Your works title here*]" is licensed under [CC BY-SA 4.0][CC-BY-SA] by [*Your name here*]
 
 ## Notice of Non-Affiliation and Disclaimer
 

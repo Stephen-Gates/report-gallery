@@ -24,8 +24,4 @@ Deploy `$ mkdocs gh-deploy`
 
 Keep things up-to-date:
 
-`$ pip3 install --upgrade mkdocs-material`
-
-or if using Insiders 
-
 `pip3  install --upgrade  git+https://{GH_TOKEN}@github.com/squidfunk/mkdocs-material-insiders.git`
