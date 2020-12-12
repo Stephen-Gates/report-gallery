@@ -1,8 +1,6 @@
 # LeanIX Report Gallery
 
-![LeanIX Report Gallery icon](src/assets/images/lrg-icon-32x32.png)
-
-The [LeanIX Report Gallery](https://stephen-gates.github.io/report-gallery/site/) helps Enterprise Architects who want to influence decisions by helping them quickly find and re-create reports that answer key questions.
+Enterprise Architects wanting to influence decisions use the [LeanIX Report Gallery](https://stephen-gates.github.io/report-gallery/site/) to find and re-create reports that answer key questions about their IT portfolio and transformation programme.
 
 - Discover the questions you can answer using LeanIX reports.
 - Explore the different types of reports you can create.
@@ -12,19 +10,17 @@ The [LeanIX Report Gallery](https://stephen-gates.github.io/report-gallery/site/
 
 ## About
 
-- The site is built using [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/)
+- The site is built using [Material for MkDocs Insiders](https://squidfunk.github.io/mkdocs-material-insiders/). We're proud [sponsors](https://squidfunk.github.io/mkdocs-material-insiders/insiders/)
 - Pages are written in Markdown
 - Site is configured using mkdoc.yml
 
 ## Dev
 
-Run locally web server `$ mkdocs serve` to preview your site before publishing
+Run locally `$ mkdocs serve` to preview your site before publishing
 
 Build `$ mkdocs build` creates html files in \site
 
 Deploy `$ mkdocs gh-deploy` 
-
-Go to https://stephen-gates.github.io/report-gallery/site/ to view the published site (there may be a small delay before the updates appear)
 
 Keep things up-to-date:
 
