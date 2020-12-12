@@ -2,17 +2,20 @@
 
 Enterprise Architects wanting to influence decisions use the [LeanIX Report Gallery](https://stephen-gates.github.io/report-gallery/site/) to find and re-create reports that answer key questions about their IT portfolio and transformation programme.
 
-- Discover the questions you can answer using LeanIX reports.
-- Explore the different types of reports you can create.
-- Share what you've made using the [LeanIX Enterprise Architecture Suite](https://www.leanix.net/en/solutions/enterprise-architecture-suite).
+use the LeanIX Report Gallery to:
+
+- Discover the questions you can answer using LeanIX reports
+- Explore the different types of reports you can create
+- Share what you've made using the [LeanIX Enterprise Architecture Suite](https://www.leanix.net/en/solutions/enterprise-architecture-suite)
 
 *This repository is in no way affiliated with [LeanIX](https://www.leanix.net/en/).* 
 
 ## About
 
-- The site is built using [Material for MkDocs Insiders](https://squidfunk.github.io/mkdocs-material-insiders/). We're proud [sponsors](https://squidfunk.github.io/mkdocs-material-insiders/insiders/)
+- This site is built using [Material for MkDocs Insiders](https://squidfunk.github.io/mkdocs-material-insiders/). We're proud [sponsors](https://squidfunk.github.io/mkdocs-material-insiders/insiders/)
 - Pages are written in Markdown
 - Site is configured using mkdoc.yml
+- Some [stylesheet extras](https://github.com/Stephen-Gates/report-gallery/tree/master/docs/stylesheets) and [overrides](https://github.com/Stephen-Gates/report-gallery/tree/master/overrides) are used. 
 
 ## Dev
 

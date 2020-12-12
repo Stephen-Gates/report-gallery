@@ -187,7 +187,7 @@ Enable editing to allow you to move, remove or add factsheets. These changes are
 
 The Technical Stack Factsheet Map answers the question:
 
->What Technical Stacks classify our IT Components?]
+>What Technical Stacks classify our IT Components?
 
 ![Technical Stack Map report](../assets/images/factsheet-map-technical-stack.png)
 
@@ -242,7 +242,7 @@ Enable editing to allow you to move, remove or add factsheets. These changes are
 
 The User Group Factsheet Map answers the question:
 
->What User Groups are part of, or interact with, our business?
+>How are user groups structured?
 
 ![User Group Factsheet Map report](../assets/images/factsheet-map-user-group.png)
 
@@ -295,6 +295,8 @@ Enable editing to allow you to move, remove or add factsheets. These changes are
 
 <!-- view links -->
 
+<!-- view links -->
+
 [lifecycle-view]: https://docs.leanix.net/docs/reporting-views#1-lifecycle
 [application-functional-fit-view]: https://docs.leanix.net/docs/reporting-views#2-functional-fit
 [application-technical-fit-view]: https://docs.leanix.net/docs/reporting-views#3-technical-fit
@@ -303,10 +305,8 @@ Enable editing to allow you to move, remove or add factsheets. These changes are
 [application-aggregated-obsolescence-risk-view]: https://docs.leanix.net/docs/reporting-views#5-technology-risk
 [project-risk-view]: https://docs.leanix.net/docs/reporting-views#6-project-risk
 [project-status-view]: https://docs.leanix.net/docs/reporting-views#7-project-status
-[project-busiess-value-view]: https://docs.leanix.net/docs/reporting-views#8-project-business-value-budget-opex--capex
-
-<!-- dont think this is a view https://docs.leanix.net/docs/reporting-views#9-project-business-value-npv -->
-
+[project-cost-view]: https://docs.leanix.net/docs/reporting-views#8-project-business-value-budget-opex--capex
+[project-business-value-view]: https://docs.leanix.net/docs/reporting-views#9-project-business-value-npv
 [provider-quality-view]: https://docs.leanix.net/docs/reporting-views#10-provider-quality
 [provider-criticality-view]: https://docs.leanix.net/docs/reporting-views#11-provider-criticality
 [application-total-annual-cost-view]: https://docs.leanix.net/docs/reporting-views#12-it-componentsapplications-total-annual-cost

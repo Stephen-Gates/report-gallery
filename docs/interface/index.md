@@ -10,11 +10,9 @@ title: "Interface Circle Map"
 
 ## Overview 
 
-The Interface Circle Map shows...
+The Interface Circle Map shows a high-level view of interfaces between applications.
 
-![Interface Circle Map](../assets/images/interface-circle-map-thumbnail.png)
-
-The Interface Circle Map answers the question:
+It answers the question:
 
 >Which applications provide or consume interfaces?
 
@@ -53,18 +51,10 @@ Applications can be arranged Alphabetically or Grouped by Business Capability.
 
 Applications that don't provide or consume interfaces can be hidden on the map.
 
-<!--
-### Tags
-
-No tags are required for this report.
--->
-
 ## Filters
 
-Use filters to focus on the required Interfaces
+[Use filters][report-filters] to focus on the required Interfaces
 
-<!--
-## Editing
+<!-- other links -->
 
-This report cannot be edited.
-->
+[report-filters]: https://docs.leanix.net/docs/searching-and-filtering-functions-in-leanix#searching-in-reports

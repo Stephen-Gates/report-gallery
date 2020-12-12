@@ -8,15 +8,9 @@ title: "Business Capability Map"
 
 The Business Capability Map shows a hierarchy of business capabilities. 
 
-<!--
-![Business Capability Map ](../assets/images/business-capability-map-thumbnail.png)
--->
+It answers the question:
 
-The Business Capability Factsheet Map answers the question:
-
-> What business capabilities support our business?
-> How are business capabilities changing over time? 
-
+> What business capabilities support our business and how are they changing over time? 
 
 ![Business Capability Factsheet Map report](../assets/images/business-capability-map.png)
 
@@ -32,16 +26,15 @@ The following factsheets and associated properties are required:
 
 ## Settings
 
-- Cluster by
-- Label for clusters
-- Label for items
-- Hide empty clusters
-- Timeline: Start
-- Timeline: enabled
+- Cluster by: Parents, Fields on the Fact Sheet, Tags
+- Label for clusters: Display Name, Name, Full Name, Alias, External ID
+- Label for items: Display Name, Name, Full Name, Alias, External ID
+- Hide empty clusters: check, uncheck
+- Timeline Start date: yyyy-mm-dd
+- Timeline End date: yyyy-mm-dd
 - Show only changed Fact Sheets
-- Multiple properties: Left property
-- Multiple properties: Right property
-
+- Left property: Fields on the Fact Sheet
+- Right property: Fields on the Fact Sheet
 
 ## View
 

@@ -2,8 +2,6 @@
 title: "Lifecycle and Age report"
 ---
 
-!!! note "Work in progress"
-
 # Lifecycle and Age report
 
 ## Overview
@@ -15,7 +13,7 @@ The Lifecycle and Age report answers the questions:
 
 ![](../assets/images/lifecycle-age-active-view.png)  
 
-*Lifecycle and Age report, "Active" view, filtered by "On-Premise" tag.*
+*Lifecycle and Age report, "Active" view.*
 
 ## Requirements
 
@@ -50,12 +48,14 @@ The views available are:
 1. Active
 1. Age Structure
 
+![](../assets/images/lifecycle-age-age-structure-view.png)  
+
+*Lifecycle and Age report, "Age Structure" view.*
+
 ## Filters
 
-Use filters to focus on the required areas and timeframes.
- 
-<!--
-## Editing
+[Use filters][report-filters] to focus on the required Applications
 
-This report cannot be edited
--->
+<!-- other links -->
+
+[report-filters]: https://docs.leanix.net/docs/searching-and-filtering-functions-in-leanix#searching-in-reports

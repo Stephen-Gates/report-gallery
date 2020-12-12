@@ -39,12 +39,16 @@ img.zoom {
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 */
+/* end zoom hack */
 
 a.md-logo img {
     border: none;
 }
 
-/* end zoom hack */
+blockquote {
+  font-weight: bold;
+  font-size: 1.2em;
+}
 
 
 .grey {
@@ -66,8 +70,6 @@ a.md-logo img {
 .youtube {
   color: #EE0F0F;
 }
-
-
 
 @keyframes heart {
   0%, 40%, 80%, 100% {

@@ -151,7 +151,7 @@ nav:
     - IT Component Roadmap: roadmap/it-component-roadmap-reports.md
     - Project Roadmap: roadmap/project-roadmap-reports.md  
     - Transformation Roadmap: roadmap/transformation-roadmap-reports.md  
-  - Circle Map: interface/index.md
+  - Interface Circle Map: interface/index.md
   - Data Flow: dataflow/index.md        
   - World Map:
     - location/index.md

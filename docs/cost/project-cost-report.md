@@ -40,16 +40,11 @@ Display this report as a chart or table.
 
 *Project Cost table.*
 
-## View
-
-None.
 
 ## Filters
 
-Use filters to focus on the required areas and timeframes.
+[Use filters][report-filters] to focus on the required Projects
 
-<!--
-## Editing
+<!-- other links -->
 
-This report cannot be edited.
--->
+[report-filters]: https://docs.leanix.net/docs/searching-and-filtering-functions-in-leanix#searching-in-reports

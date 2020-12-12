@@ -26,16 +26,15 @@ Title: "Questions you can answer using LeanIX reports"
 
 # Questions you can answer 
 
-- The questions below are arranged by the factsheets involved in answering the question. 
-- Questions based on a view using tags are marked with :fontawesome-solid-tag:{: .grey } Tags are unique to your LeanIX implementation. 
+The questions below are arranged by the main factsheet type involved in answering the question. 
+
+Questions based on a view using tags are marked with :fontawesome-solid-tag:{: .grey }. Tags are unique to your LeanIX implementation. 
 
 
 ## User Groups
 
 1. [What user groups are part of, or interact with, our organisation?][inventory]
-    1. Which user groups are "internal" to our organisation? :fontawesome-solid-tag:{: .grey }   
-    1. Which user groups are "external" to our organisation? :fontawesome-solid-tag:{: .grey }  
-    1. Which "external" user groups use our "internet channel"? :fontawesome-solid-tag:{: .grey }   
+    1. Which user groups are "internal" or "external" to our organisation? :fontawesome-solid-tag:{: .grey }   
 1. [How are user groups structured?][factsheet-map-user-group] 
 1. [What applications support user groups?][landscape-application-user-group] 
     1. Which applications do "external" user groups use? :fontawesome-solid-tag:{: .grey }   <!-- this requires an internal/external tag on the user group factsheet -->
