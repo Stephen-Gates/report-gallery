@@ -7,5 +7,4 @@ assignees: Stephen-Gates
 
 ---
 
-**Describe the error**
-A clear and concise description of the error.
+*Provide a clear and concise description of the error.*

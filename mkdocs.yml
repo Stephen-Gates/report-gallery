@@ -63,17 +63,21 @@ extra:
   #manifest: manifest.webmanifest
   generator: false
   social:
+    - icon: fontawesome/regular/comments
+      link: https://github.com/Stephen-Gates/report-gallery/discussions
+      name: Ask us on the Discussion forum
     - icon: fontawesome/brands/twitter
       link: https://twitter.com/SGatesHQ
-      name: SGatesHQ on twitter
+      name: Contact us on twitter
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/in/sdgates/ 
-      name: Stephen Gates on LinkedIn
+      name: Contact us on LinkedIn
     - icon: fontawesome/brands/github
       link: https://github.com/Stephen-Gates/report-gallery
-      name: LeanIX Report Gallery on GitHub  
+      name: LeanIX Report Gallery GitHub repository
     - icon: fontawesome/brands/creative-commons
-      link: https://stephen-gates.github.io/report-gallery/site/about/licence/
+      link: https://stephen-gates.github.io/report-gallery/site/about/
+      name: CC BY-SA 4.0 Licence
    
 # Extensions  
 markdown_extensions:
@@ -176,6 +180,3 @@ nav:
     #- Your Business Capabilities: story/business-capability.md
   - About:
     - about/index.md
-    - Contribute: about/contribute.md
-    - Contributors: about/contributors.md
-    - Licence: about/licence.md
