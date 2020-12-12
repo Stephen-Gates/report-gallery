@@ -41,7 +41,9 @@ No other requirements
 
 Display this report as a chart or table. 
 
-![](../assets/images/Transformation-portfolio-table.png)  
+<!--
+![](../assets/images/transformation-portfolio-table.png)  
+-->
 
 ## View
 

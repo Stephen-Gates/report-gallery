@@ -8,8 +8,9 @@ title: "Business Capability Map"
 
 The Business Capability Map shows a hierarchy of business capabilities. 
 
+<!--
 ![Business Capability Map ](../assets/images/business-capability-map-thumbnail.png)
-
+-->
 
 The Business Capability Factsheet Map answers the question:
 
@@ -57,7 +58,7 @@ The views available are:
 1. [Application Business Criticality][application-business-criticality-view]
 1. [Application Aggregate Obsolescence Risk][application-aggregated-obsolescence-risk-view]
 1. [Project Risk][project-risk-view]
-1. [Project Business Value][project-busiess-value-view]
+1. [Project Business Value][project-business-value-view]
 
 #### Tags
 
@@ -78,10 +79,8 @@ You can colour factsheets based on tags. [Tag colors](https://docs.leanix.net/do
 [application-aggregated-obsolescence-risk-view]: https://docs.leanix.net/docs/reporting-views#5-technology-risk
 [project-risk-view]: https://docs.leanix.net/docs/reporting-views#6-project-risk
 [project-status-view]: https://docs.leanix.net/docs/reporting-views#7-project-status
-[project-busiess-value-view]: https://docs.leanix.net/docs/reporting-views#8-project-business-value-budget-opex--capex
-
-<!-- dont think this is a view https://docs.leanix.net/docs/reporting-views#9-project-business-value-npv -->
-
+[project-cost-view]: https://docs.leanix.net/docs/reporting-views#8-project-business-value-budget-opex--capex
+[project-business-value-view]: https://docs.leanix.net/docs/reporting-views#9-project-business-value-npv
 [provider-quality-view]: https://docs.leanix.net/docs/reporting-views#10-provider-quality
 [provider-criticality-view]: https://docs.leanix.net/docs/reporting-views#11-provider-criticality
 [application-total-annual-cost-view]: https://docs.leanix.net/docs/reporting-views#12-it-componentsapplications-total-annual-cost
