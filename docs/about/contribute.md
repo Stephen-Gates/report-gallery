@@ -2,7 +2,7 @@
 title: Contribute
 ---
 
-# Suggest a change 
+# Contribute
 
 Thanks for being here :fontawesome-regular-heart:{: .pink }  
 

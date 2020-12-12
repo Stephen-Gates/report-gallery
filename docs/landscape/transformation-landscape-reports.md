@@ -8,7 +8,7 @@ title: "Transformation Landscape reports"
 
 ## Overview
 
-There are two Transformation Landscape reports that show Transformations, within a hierarchy of:
+There are two Transformation Landscape reports that show Transformations, within a hierarchy of either:
 
 - [Objectives](#objectives) 
 - [Business Capabilities](#business-capabilities) 
@@ -23,7 +23,7 @@ This report answers the question:
 
 ![Transformation Landscape report](/assets/images/transformation-landscape-obj.png) 
 
-*Transformation Landscape report, T-shirt estimate view.*
+*Transformation Landscape report, clustered by Objectives, T-shirt estimate view.*
 
 ### Requirements
 
@@ -64,10 +64,11 @@ Specific view available are:
 This report answers the question:
 
 >What Business Capabilities are improved by Transformation Items?
-
+<!--
 ![Transformation Landscape report](/assets/images/transformation-landscape-bc.png) 
 
-*Caption.*
+**Transformation Landscape report, clustered by Business Capabilities.*
+--> 
 
 ### Requirements
 
@@ -78,17 +79,6 @@ Specific factsheets and associated properties are required:
 - Business Capabilities
 - Transformation Items
     - Transformation Item - Business Capability relationship
-
-<!--    
-    
-#### Tags 
-
-Specific tags are required for this report.
-
-#### Other requirements
-
-No other requirements
---> 
 
 ### Settings
 

@@ -32,17 +32,6 @@ The following factsheets and associated properties are required:
     
 For more information, check the [report requirements in the LeanIX User Docs](https://docs.leanix.net/docs/report-overview). 
 
-<!--
-### Tags 
-
-No tags are required for this report.
-
-### Other requirements
-
-No other requirements 
- See https://docs.leanix.net/docs/insights-through-reports#knowledge-about--relations-in-eg-application-landscape 
--->
-
 ## Settings
 
 Display this report as a chart or table. 

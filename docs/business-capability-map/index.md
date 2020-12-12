@@ -67,12 +67,6 @@ You can colour factsheets based on tags. [Tag colors](https://docs.leanix.net/do
 
 [Use filters][report-filters] to focus on the required Business Capabilities
 
-<!--
-## Editing
-
-This report cannot be edited.
-->
-
 
 <!-- view links -->
 

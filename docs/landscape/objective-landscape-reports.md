@@ -8,7 +8,7 @@ title: "Objective Landscape reports"
 
 ## Overview
 
-There are two Objective Landscape reports that show Objectives, within a hierarchy of:
+There are two Objective Landscape reports that show Objectives, within a hierarchy of either:
 
 - [Transformation Items](#transformation-items) 
 - [Business Capabilities](#business-capabilities) 
@@ -19,11 +19,11 @@ There are two Objective Landscape reports that show Objectives, within a hierarc
 
 This report answers the question:
 
->What Objectives as classified in the Technical Stack?
+>What Objectives are addressed which by Transformation Items?
 
-![Objective Landscape report](/assets/images/it-component-landscape.png)  
+![Objective Landscape report](/assets/images/objective-landscape-ti.png)  
 
-*Objective Landscape report, resource classification view.*
+*Objective Landscape report, clustered by Transformation Items.*
 
 ### Requirements
 
@@ -65,7 +65,7 @@ This report answers the question:
 
 ![Objective Landscape report](/assets/images/objective-landscape-bc.png)
 
-*Objective Landscape report grouped by Business Capabilities, ??? view..*
+*Objective Landscape report  clustered by Business Capabilities.**
 
 ### Requirements
 
@@ -76,17 +76,6 @@ Specific factsheets and associated properties are required:
 - Business Capabilities 
 - Objectives
     - Objective - Business Capability relationship
-
-<!--    
-    
-#### Tags 
-
-Specific tags are required for this report.
-
-#### Other requirements
-
-No other requirements
---> 
 
 ### Settings
 

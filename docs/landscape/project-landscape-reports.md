@@ -95,8 +95,7 @@ Specific settings for this report
 
 ### View
 
-Specific view available are: 
-
+Specific views available are: 
 
 
 --- 
@@ -137,4 +136,4 @@ Specific settings for this report
 
 ### View
 
-Specific view available are: 
+Specific views available are: 

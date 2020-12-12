@@ -164,8 +164,9 @@ nav:
   - Portfolio:
     - metrics/index.md
     - Application Portfolio: metrics/application-portfolio-report.md
-    - Project Portfolio: metrics/project-portfolio-report.md
     - Provider Portfolio: metrics/provider-portfolio-report.md
+    - Project Portfolio: metrics/project-portfolio-report.md
+    - Transformation Portfolio: metrics/transformation-portfolio-report.md
     - Lifecycle and Age: metrics/lifecycle-and-age-report.md
   - Difficult questions: difficult-questions.md
   - Engaging Stories:

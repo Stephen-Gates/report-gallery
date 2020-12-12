@@ -30,23 +30,15 @@ The following factsheets and associated properties are required:
     - costs
     
 
-<!--
-### Tags 
-
-No tags are required for this report.
-
-### Other requirements
-
-No other requirements 
--->
-
 ## Settings
 
 Display this report as a chart or table. 
 
+<!--
 ![Transformation Cost report](/assets/images/cost-transformation-table.png)
 
 *Transformation Cost table.*
+--> 
 
 ## View
 
