@@ -5,7 +5,7 @@ title: "Process Landscape reports"
 ??? note "Work in progress"
     - Report in development by LeanIX
 
-# Process Landscape report
+# Process Landscape reports
 
 ## Overview
 

@@ -9,13 +9,13 @@ title: "Investment Distribution Cost report"
 
 ## Overview
 
-The Investment Distribution Cost report answers the question:
+The **Investment Distribution Cost report** answers the question:
 
->How much is being spent on each Objective?
+>What is the implementation budget by Objective?
 
 The costs for a Investment Distribution are calculated based on:
 
-- ?
+- ==?==
 
 ![Investment Distribution Cost report](/assets/images/cost-investment-distribution.png)
 
@@ -28,8 +28,9 @@ The costs for a Investment Distribution are calculated based on:
 The following factsheets and associated properties are required:
 
 - Objectives
+    - relationship to Transformation Items
 - Transformation Items
-  - Costs
+    - ==Costs==
 
 
 ## Settings

@@ -8,13 +8,13 @@ title: "Transformation Cost report"
 
 ## Overview
 
-The Transformation Cost report answers the question:
+The **Transformation Cost report** answers the question:
 
->What is the cost of each Transformation Item?
+>What is the implementation budget by Transformation Item?
 
 The costs for a Transformation are calculated based on:
 
-- ?
+- ==?==
 
 ![Transformation Cost report](/assets/images/cost-transformation.png)
 
@@ -22,14 +22,11 @@ The costs for a Transformation are calculated based on:
 
 ## Requirements
 
-### Factsheets
-
 The following factsheets and associated properties are required:
 
 - Transformation
-    - costs
+    - ==costs==
     
-
 ## Settings
 
 Display this report as a chart or table. 

@@ -4,7 +4,7 @@ title: "Transformation Landscape reports"
 
 !!! note "Work in progress"
 
-# Transformation Landscape report
+# Transformation Landscape reports
 
 ## Overview
 

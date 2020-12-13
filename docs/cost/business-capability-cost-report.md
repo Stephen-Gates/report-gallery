@@ -3,11 +3,16 @@ title: "Business Capability Cost report"
 ---
 
 # Business Capability Cost report
+
 ## Overview
 
-The Business Capability Cost report answers the question:
+The **Business Capability Cost report** answers the question:
 
 >What is the IT spend by business capability?
+
+![Business Capability Cost report](../assets/images/cost-business-capability.png)
+
+*Business Capability Cost report for Applications with Any Lifecycle value effective within the 2020 timeframe.*
 
 The costs for a Business Capability are calculated based on:
 
@@ -15,10 +20,6 @@ The costs for a Business Capability are calculated based on:
 - the aggregate annual costs of the IT Components that implement the Application
 - filtered by an Application Lifecycle that is effective within time frame or at a point of time
 - filtered by any other constraints to focus on the area of interest 
-
-![Business Capability Cost report](../assets/images/cost-business-capability.png)
-
-*Business Capability Cost report for Applications with Any Lifecycle value effective within the 2020 timeframe.*
 
 ## Requirements
 

@@ -2,23 +2,20 @@
 title: "Interface Circle Map"
 ---
 
-??? note "Work in progress"
-    - See [LeanIX Docs](https://docs.leanix.net/docs/integration-architecture#use-the-interface-circle-map-to-get-a-high-level-overview)
-    - https://docs.leanix.net/docs/interfaces-modeling
-
 # Interface Circle Map
 
 ## Overview 
 
-The Interface Circle Map shows a high-level view of interfaces between applications.
-
-It answers the question:
+The **Interface Circle Map** answers the question:
 
 >Which applications provide or consume interfaces?
 
 ![Interface Circle Map](../assets/images/interface-circle-map.png)  
 
 *Interface Circle Map, Applications not providing or consuming interfaces are hidden.*
+
+!!! tip
+    You can select an application in the Interface Circle Map and then press the :fontawesome-solid-sitemap:{: .leanix }  button to automatically generate a Data Flow diagram for that application. [Learn more...](https://docs.leanix.net/docs/integration-architecture#use-the-interface-circle-map-to-get-a-high-level-overview)
 
 ## Requirements
 

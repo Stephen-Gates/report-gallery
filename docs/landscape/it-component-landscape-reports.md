@@ -4,7 +4,7 @@ title: "IT Component Landscape reports"
 
 !!! note "Work in progress"
 
-# IT Component Landscape report
+# IT Component Landscape reports
 
 ## Overview
 

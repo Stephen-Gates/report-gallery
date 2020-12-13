@@ -19,7 +19,7 @@ To contribute you can:
 
 ## Contributors
 
-Thanks to everyone for their contributions on [Github][github-contributors] and in the [discussion forum][forum]
+Thanks to everyone for their contributions on [Github][github-contributors] and in the [discussion forum][forum].
 
 ## Licence 
 
@@ -31,7 +31,7 @@ This license allows reusers to distribute, remix, adapt, and build upon the mate
 
 If you reuse this work, the preferred attribution follows the [Creative Commons - Best practices for attribution](https://wiki.creativecommons.org/wiki/Best_practices_for_attribution) format:
 
->"Page title - LeanIX Report Gallery (link to page)" by LeanIX Report Gallery Contributors (link to this About page) is licensed under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
+>"Page title - LeanIX Report Gallery *(link to page)*" by LeanIX Report Gallery Contributors *(link to this About page)* is licensed under CC BY-SA 4.0 *(link to https://creativecommons.org/licenses/by-sa/4.0/)*
 
 For example, the preferred attribution for the Questions page is:
 
@@ -41,9 +41,9 @@ An acceptable shortened attribution is:
 
 >[LeanIX Report Gallery][site] - [CC BY-SA 4.0][CC-BY-SA]
 
-### Attribution for derived works
+An example Attribution for work derived from the "Provider Cost reports" page is:
 
->This work, "[*Your works title here*]", is a derivative of [Provider Cost reports](../cost/provider-cost-report.md) from the [LeanIX Report Gallery](../index.md) used under [CC BY-SA 4.0][CC-BY-SA]. "[*Your works title here*]" is licensed under [CC BY-SA 4.0][CC-BY-SA] by [*Your name here*]
+>This work, "*Your works title here*", is a derivative of "[Provider Cost reports](../cost/provider-cost-report.md)" by [LeanIX Report Gallery Contributors][contributors], used under [CC BY-SA 4.0][CC-BY-SA]. "*Your works title here*" is licensed under [CC BY-SA 4.0][CC-BY-SA] by *Your name here*.
 
 ## Notice of Non-Affiliation and Disclaimer
 

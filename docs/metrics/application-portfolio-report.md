@@ -20,24 +20,12 @@ The Application Portfolio report answers the question:
 
 ## Requirements
 
-### Factsheets
-
 The following factsheets and associated properties are required:
 
 - Application
     - Functional Fit
     - Technical Fit
     - Business Criticality
-
-<!--
-### Tags 
-
-No tags are required for this report.
-
-### Other requirements
-
-No other requirements
--->
 
 ## Settings
 
@@ -54,10 +42,8 @@ The views available are:
 1. Technical Fit vs. Business Criticality 
 ## Filters
 
-Use filters to focus on the required areas and timeframes.
+[Use filters][report-filters] to focus on the required factsheets.
 
-<!--
-#### Editing
+<!-- links -->
 
-This report cannot be edited
---> 
+[report-filters]: https://docs.leanix.net/docs/searching-and-filtering-functions-in-leanix#searching-in-reports

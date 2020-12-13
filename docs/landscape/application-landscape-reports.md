@@ -6,7 +6,7 @@ title: "Application Landscape reports"
     - Missing links
     - Missing image and caption
 
-# Application Landscape report
+# Application Landscape reports
 
 ## Overview
 

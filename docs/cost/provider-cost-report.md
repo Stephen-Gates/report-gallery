@@ -9,7 +9,7 @@ title: "Provider Cost report"
 
 ## Overview
 
-The Provider Cost report answers the question:
+The **Provider Cost report** answers the question:
 
 >What is the IT spend by Provider?
 
@@ -36,10 +36,9 @@ The following factsheets and associated properties are required:
     - related to one or more IT Components
 - IT Component
     - Annual cost on Application - IT Component relationship
-- Project?
+- ==Project?==
 
-For more information, check the [report requirements in the LeanIX User Docs](https://docs.leanix.net/docs/report-overview) 
-
+==For more information, check the [report requirements in the LeanIX User Docs](https://docs.leanix.net/docs/report-overview)==
 
 ### Other requirements
 

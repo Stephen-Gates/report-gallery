@@ -9,13 +9,13 @@ title: "Project Cost report"
 
 ## Overview
 
-The Project Cost report answers the question:
+The **Project Cost report** answers the question:
 
->What is the IT spend by Project?
+>What is the implementation budget by project?
 
 The costs for a Project are calculated based on:
 
-- ?
+- ==?==
 
 ![Project Cost report](/assets/images/cost-project.png)
 
@@ -23,14 +23,12 @@ The costs for a Project are calculated based on:
 
 ## Requirements
 
-### Factsheets
-
 The following factsheets and associated properties are required:
 
 - Project
-    - costs
+    - ==costs==
     
-For more information, check the [report requirements in the LeanIX User Docs](https://docs.leanix.net/docs/report-overview). 
+==For more information, check the [report requirements in the LeanIX User Docs](https://docs.leanix.net/docs/report-overview).==
 
 ## Settings
 
@@ -39,7 +37,6 @@ Display this report as a chart or table.
 ![Project Cost report](/assets/images/cost-project-table.png)
 
 *Project Cost table.*
-
 
 ## Filters
 

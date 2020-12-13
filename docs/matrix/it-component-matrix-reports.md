@@ -5,7 +5,7 @@ title: "IT Component Matrix reports"
 ??? note "Work in progress"
     - work out all report combos
 
-# IT Component Matrix report
+# IT Component Matrix reports
 
 ## Overview
 

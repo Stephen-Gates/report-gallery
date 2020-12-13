@@ -68,6 +68,7 @@ The sections below show the questions you can answer using LeanIX reports.
 1. [How many applications do we have?][inventory]
 1. [What applications support user groups?][landscape-application-user-group] 
     1. Which applications do "external" user groups use? :fontawesome-solid-tag:{: .grey }   <!-- this requires an internal/external tag on the user group factsheet -->
+1. [Which applications need investment or replacement?][portfolio-application]    
 1. [When are applications planned to change?][roadmap-application]
     1. When will successor applications replace existing applications?  
 <!-- Application × User Group factsheet questions -->

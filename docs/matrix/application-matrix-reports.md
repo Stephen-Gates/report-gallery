@@ -2,7 +2,9 @@
 title: "Application Matrix reports"
 ---
 
-!!! note "Work in progress"
+??? note "Work in progress"
+    - Add ==questions==
+    - Add use cases
 
 # Application Matrix reports
 
@@ -19,16 +21,15 @@ Application Matrix report shows Applications within a matrix of:
 
 There are five Application Matrix reports: 
 
-1. [Business Capability × User Group](#business-capability-user-group) - question
-1. [Process × Business Capability](#process-business-capability) - question
-1. [Process × User Group](#process-user-group) - question
-1. [Time × Business Capability](#time-business-capability) - question
-1. [Time × User Group](#time-user-group) - question
+1. [Business Capability × User Group](#business-capability-user-group) - ==question==
+1. [Process × Business Capability](#process-business-capability) - ==question==
+1. [Process × User Group](#process-user-group) - ==question==
+1. [Time × Business Capability](#time-business-capability) - ==question==
+1. [Time × User Group](#time-user-group) - ==question==
 
 Each report has different data requirements and is configured using different settings.
 
 All reports have the same views, filters, and can be edited. 
-
 
 ### Views
 
@@ -70,9 +71,9 @@ This report can be edited.
 
 ## Business Capability × User Group
 
-This report answers the question:
+The **Application Matrix - Business Capability × User Group report** answers the question:
 
-> What is the question?
+> ==What is the question?==
 
 This is useful specifically for... 
 
@@ -84,27 +85,45 @@ This is useful specifically for...
 
 The following factsheets and associated properties are required:
 
-- Application
-- x
-- y
+- **Application**
+    - lifecycle dates
+    - relationship to Business Capability
+    - relationship to User Group
+- **Business Capabilities**
+- **User Groups**
 
 Other factsheet types may be required to support the drilldown feature. 
 
 ### Settings
 
-Horizontal Axis: 
-Hide empty columns: check
-Vertical Axis:
-Hide empty rows: check
-Drilldown relation: 
- 
+- Horizontal Axis: **Business Capabilities**
+- Hide empty columns: check or uncheck
+- Vertical Axis: **User Group**
+- Hide empty rows: check or uncheck
+- Drilldown relation: 
+    - \-  *(no drilldown is shown)*
+    - Business Capabilities
+    - Chlidren
+    - Consumed Interfaces
+    - Data Objects
+    - IT Components
+    - Parents
+    - Predecessors
+    - Processes
+    - Projects
+    - Provided Interfaces
+    - Required by
+    - Requirements
+    - Successors
+    - User Groups
+
 --- 
 
 ## Process × Business Capability 
 
-This report answers the question:
+The **Application Matrix - Process × Business Capability report** answers the question:
 
-> What is the question?
+> ==What is the question?==
 
 This is useful specifically for... 
 
@@ -116,27 +135,45 @@ This is useful specifically for...
 
 The following factsheets and associated properties are required:
 
-- Application
-- x
-- y
+- **Application**
+    - lifecycle dates
+    - relationship to Process
+    - relationship to Business Capability
+- **Business Capabilities**
+- **Process**
 
 Other factsheet types may be required to support the drilldown feature. 
 
 ### Settings
 
-Horizontal Axis: 
-Hide empty columns: check
-Vertical Axis:
-Hide empty rows: check
-Drilldown relation: 
+- Horizontal Axis: **Processes**
+- Hide empty columns: check or uncheck
+- Vertical Axis: **Business Capabilities**
+- Hide empty rows: check or uncheck
+- Drilldown relation: 
+    - \-  *(no drilldown is shown)*
+    - Business Capabilities
+    - Chlidren
+    - Consumed Interfaces
+    - Data Objects
+    - IT Components
+    - Parents
+    - Predecessors
+    - Processes
+    - Projects
+    - Provided Interfaces
+    - Required by
+    - Requirements
+    - Successors
+    - User Groups
 
 --- 
 
 ## Process × User Group
 
-This report answers the question:
+The **Application Matrix - Process × User Group report** answers the question:
 
-> What is the question?
+> ==What is the question?==
 
 This is useful specifically for... 
 
@@ -148,30 +185,45 @@ This is useful specifically for...
 
 The following factsheets and associated properties are required:
 
-- Application
-- x
-- y
+- **Application**
+    - lifecycle dates
+    - relationship to Process
+    - relationship to User Group
+- **Process**
+- **User Group**
 
 Other factsheet types may be required to support the drilldown feature. 
 
 ### Settings
 
-Horizontal Axis: 
-Hide empty columns: check
-Vertical Axis:
-Hide empty rows: check
-Drilldown relation: 
- 
-
-
+- Horizontal Axis: **Processes**
+- Hide empty columns: check or uncheck
+- Vertical Axis: **User Groups**
+- Hide empty rows: check or uncheck
+- Drilldown relation: 
+    - \-  *(no drilldown is shown)*
+    - Business Capabilities
+    - Chlidren
+    - Consumed Interfaces
+    - Data Objects
+    - IT Components
+    - Parents
+    - Predecessors
+    - Processes
+    - Projects
+    - Provided Interfaces
+    - Required by
+    - Requirements
+    - Successors
+    - User Groups
 
 --- 
 
 ## Time × Business Capability 
 
-This Report Instance One name report answers the question:
+The **Application Matrix - Time × Business Capability report** answers the question:
 
-> What is the question?
+> ==What is the question?==
 
 This is useful specifically for... 
 
@@ -186,27 +238,41 @@ This is useful specifically for...
 
 The following factsheets and associated properties are required:
 
-- Application
-- x
-- y
+- **Application**
+    - lifecycle dates
+    - relationship to Business Capability
+- **Business Capability**
 
 Other factsheet types may be required to support the drilldown feature. 
 
 ### Settings
 
-Horizontal Axis: 
-Hide empty columns: check
-Vertical Axis:
-Hide empty rows: check
-Drilldown relation: 
- 
-
-
+- Horizontal Axis: **Time Frame**
+- Hide empty columns: **uncheck** (check doesn't make sense when Time Frame is the axis)
+- Vertical Axis: **Business Capabilities**
+- Hide empty rows: check or uncheck
+- Drilldown relation: 
+    - \-  *(no drilldown is shown)*
+    - Business Capabilities
+    - Chlidren
+    - Consumed Interfaces
+    - Data Objects
+    - IT Components
+    - Parents
+    - Predecessors
+    - Processes
+    - Projects
+    - Provided Interfaces
+    - Required by
+    - Requirements
+    - Successors
+    - User Groups
+    
 --- 
 
 ## Time × User Group
 
-This Report Instance Two name report answers the question:
+The **Application Matrix - Time × User Group report** answers the question:
 
 > What is the question?
 
@@ -220,19 +286,35 @@ This is useful specifically for...
 
 The following factsheets and associated properties are required:
 
-- Application
-- x
-- y
+- **Application**
+    - lifecycle dates
+    - relationship to User Groups
+- **User Group**
 
 Other factsheet types may be required to support the drilldown feature. 
 
 ### Settings
 
-Horizontal Axis: 
-Hide empty columns: check
-Vertical Axis:
-Hide empty rows: check
-Drilldown relation: 
+- Horizontal Axis: **Time Frame**
+- Hide empty columns: **uncheck** (check doesn't make sense when Time Frame is the axis)
+- Vertical Axis: **User Groups**
+- Hide empty rows: check or uncheck
+- Drilldown relation: 
+    - \-  *(no drilldown is shown)*
+    - Business Capabilities
+    - Chlidren
+    - Consumed Interfaces
+    - Data Objects
+    - IT Components
+    - Parents
+    - Predecessors
+    - Processes
+    - Projects
+    - Provided Interfaces
+    - Required by
+    - Requirements
+    - Successors
+    - User Groups
  
 
 <!-- view links -->

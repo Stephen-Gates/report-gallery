@@ -45,6 +45,15 @@ a.md-logo img {
     border: none;
 }
 
+/* experiment with caption styling. May be better wrapping in a div */
+figcaption {
+  display: block;
+  color: #c0c0c0;
+  font-style: italic;
+  font-size:.875em;
+  text-align: left !important;
+} 
+
 blockquote {
   font-weight: bold;
   font-size: 1.2em;
@@ -60,6 +69,10 @@ blockquote {
 
 .twitter {
   color: #1DA1F2;
+}
+
+.leanix {
+  color: #166BFF;
 }
 
 .linkedin {
@@ -102,22 +115,6 @@ blockquote {
 
 /* Factsheet colours*/
 
-
-.ug {
-  color: #fff;
-  background-color: #509fff;
-  border-radius: 2px;
-  padding: 2px;
-  font-weight: bold;
-}
-
-.ug {
-  color: #fff;
-  background-color: #509fff;
-  border-radius: 2px;
-  padding: 2px;
-  font-weight: bold;
-}
 
 .ug {
   color: #fff;

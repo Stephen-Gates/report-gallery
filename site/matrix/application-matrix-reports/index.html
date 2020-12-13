@@ -347,7 +347,7 @@
 
   <li class="md-nav__item">
     <a href="../../landscape/objective-landscape-reports/" class="md-nav__link">
-      Objectives Landscape
+      Objective Landscape
     </a>
   </li>
 
@@ -968,9 +968,11 @@
               
                 
                 
-                <div class="admonition note">
-<p class="admonition-title">Work in progress</p>
-</div>
+                <details class="note"><summary>Work in progress</summary><ul>
+<li>Add <mark>questions</mark></li>
+<li>Add use cases</li>
+</ul>
+</details>
 <h1 id="application-matrix-reports">Application Matrix reports</h1>
 <h2 id="overview">Overview</h2>
 <p>Application Matrix report shows Applications within a matrix of:</p>
@@ -982,11 +984,11 @@
 <p><em>Application Matrix report, Business Capability × User Group, Business Criticality view.</em></p>
 <p>There are five Application Matrix reports: </p>
 <ol>
-<li><a href="#business-capability-user-group">Business Capability × User Group</a> - question</li>
-<li><a href="#process-business-capability">Process × Business Capability</a> - question</li>
-<li><a href="#process-user-group">Process × User Group</a> - question</li>
-<li><a href="#time-business-capability">Time × Business Capability</a> - question</li>
-<li><a href="#time-user-group">Time × User Group</a> - question</li>
+<li><a href="#business-capability-user-group">Business Capability × User Group</a> - <mark>question</mark></li>
+<li><a href="#process-business-capability">Process × Business Capability</a> - <mark>question</mark></li>
+<li><a href="#process-user-group">Process × User Group</a> - <mark>question</mark></li>
+<li><a href="#time-business-capability">Time × Business Capability</a> - <mark>question</mark></li>
+<li><a href="#time-user-group">Time × User Group</a> - <mark>question</mark></li>
 </ol>
 <p>Each report has different data requirements and is configured using different settings.</p>
 <p>All reports have the same views, filters, and can be edited. </p>
@@ -1020,9 +1022,9 @@
 <p>This report can be edited.</p>
 <hr />
 <h2 id="business-capability-user-group">Business Capability × User Group</h2>
-<p>This report answers the question:</p>
+<p>The <strong>Application Matrix - Business Capability × User Group report</strong> answers the question:</p>
 <blockquote>
-<p>What is the question?</p>
+<p><mark>What is the question?</mark></p>
 </blockquote>
 <p>This is useful specifically for... </p>
 <p><img alt="Application Matrix report" src="/assets/images/application-matrix-bc-ug.png" />  </p>
@@ -1030,22 +1032,46 @@
 <h3>Requirements</h3>
 <p>The following factsheets and associated properties are required:</p>
 <ul>
-<li>Application</li>
-<li>x</li>
-<li>y</li>
+<li><strong>Application</strong><ul>
+<li>lifecycle dates</li>
+<li>relationship to Business Capability</li>
+<li>relationship to User Group</li>
+</ul>
+</li>
+<li><strong>Business Capabilities</strong></li>
+<li><strong>User Groups</strong></li>
 </ul>
 <p>Other factsheet types may be required to support the drilldown feature. </p>
 <h3>Settings</h3>
-<p>Horizontal Axis: 
-Hide empty columns: check
-Vertical Axis:
-Hide empty rows: check
-Drilldown relation: </p>
+<ul>
+<li>Horizontal Axis: <strong>Business Capabilities</strong></li>
+<li>Hide empty columns: check or uncheck</li>
+<li>Vertical Axis: <strong>User Group</strong></li>
+<li>Hide empty rows: check or uncheck</li>
+<li>Drilldown relation: <ul>
+<li>-  <em>(no drilldown is shown)</em></li>
+<li>Business Capabilities</li>
+<li>Chlidren</li>
+<li>Consumed Interfaces</li>
+<li>Data Objects</li>
+<li>IT Components</li>
+<li>Parents</li>
+<li>Predecessors</li>
+<li>Processes</li>
+<li>Projects</li>
+<li>Provided Interfaces</li>
+<li>Required by</li>
+<li>Requirements</li>
+<li>Successors</li>
+<li>User Groups</li>
+</ul>
+</li>
+</ul>
 <hr />
 <h2 id="process-business-capability">Process × Business Capability</h2>
-<p>This report answers the question:</p>
+<p>The <strong>Application Matrix - Process × Business Capability report</strong> answers the question:</p>
 <blockquote>
-<p>What is the question?</p>
+<p><mark>What is the question?</mark></p>
 </blockquote>
 <p>This is useful specifically for... </p>
 <p><img alt="Application Matrix report" src="/assets/images/application-matrix-process-bc.png" />  </p>
@@ -1053,22 +1079,46 @@ Drilldown relation: </p>
 <h3>Requirements</h3>
 <p>The following factsheets and associated properties are required:</p>
 <ul>
-<li>Application</li>
-<li>x</li>
-<li>y</li>
+<li><strong>Application</strong><ul>
+<li>lifecycle dates</li>
+<li>relationship to Process</li>
+<li>relationship to Business Capability</li>
+</ul>
+</li>
+<li><strong>Business Capabilities</strong></li>
+<li><strong>Process</strong></li>
 </ul>
 <p>Other factsheet types may be required to support the drilldown feature. </p>
 <h3>Settings</h3>
-<p>Horizontal Axis: 
-Hide empty columns: check
-Vertical Axis:
-Hide empty rows: check
-Drilldown relation: </p>
+<ul>
+<li>Horizontal Axis: <strong>Processes</strong></li>
+<li>Hide empty columns: check or uncheck</li>
+<li>Vertical Axis: <strong>Business Capabilities</strong></li>
+<li>Hide empty rows: check or uncheck</li>
+<li>Drilldown relation: <ul>
+<li>-  <em>(no drilldown is shown)</em></li>
+<li>Business Capabilities</li>
+<li>Chlidren</li>
+<li>Consumed Interfaces</li>
+<li>Data Objects</li>
+<li>IT Components</li>
+<li>Parents</li>
+<li>Predecessors</li>
+<li>Processes</li>
+<li>Projects</li>
+<li>Provided Interfaces</li>
+<li>Required by</li>
+<li>Requirements</li>
+<li>Successors</li>
+<li>User Groups</li>
+</ul>
+</li>
+</ul>
 <hr />
 <h2 id="process-user-group">Process × User Group</h2>
-<p>This report answers the question:</p>
+<p>The <strong>Application Matrix - Process × User Group report</strong> answers the question:</p>
 <blockquote>
-<p>What is the question?</p>
+<p><mark>What is the question?</mark></p>
 </blockquote>
 <p>This is useful specifically for... </p>
 <p><img alt="Application Matrix report" src="/assets/images/application-matrix-process-ug.png" />  </p>
@@ -1076,22 +1126,46 @@ Drilldown relation: </p>
 <h3>Requirements</h3>
 <p>The following factsheets and associated properties are required:</p>
 <ul>
-<li>Application</li>
-<li>x</li>
-<li>y</li>
+<li><strong>Application</strong><ul>
+<li>lifecycle dates</li>
+<li>relationship to Process</li>
+<li>relationship to User Group</li>
+</ul>
+</li>
+<li><strong>Process</strong></li>
+<li><strong>User Group</strong></li>
 </ul>
 <p>Other factsheet types may be required to support the drilldown feature. </p>
 <h3>Settings</h3>
-<p>Horizontal Axis: 
-Hide empty columns: check
-Vertical Axis:
-Hide empty rows: check
-Drilldown relation: </p>
+<ul>
+<li>Horizontal Axis: <strong>Processes</strong></li>
+<li>Hide empty columns: check or uncheck</li>
+<li>Vertical Axis: <strong>User Groups</strong></li>
+<li>Hide empty rows: check or uncheck</li>
+<li>Drilldown relation: <ul>
+<li>-  <em>(no drilldown is shown)</em></li>
+<li>Business Capabilities</li>
+<li>Chlidren</li>
+<li>Consumed Interfaces</li>
+<li>Data Objects</li>
+<li>IT Components</li>
+<li>Parents</li>
+<li>Predecessors</li>
+<li>Processes</li>
+<li>Projects</li>
+<li>Provided Interfaces</li>
+<li>Required by</li>
+<li>Requirements</li>
+<li>Successors</li>
+<li>User Groups</li>
+</ul>
+</li>
+</ul>
 <hr />
 <h2 id="time-business-capability">Time × Business Capability</h2>
-<p>This Report Instance One name report answers the question:</p>
+<p>The <strong>Application Matrix - Time × Business Capability report</strong> answers the question:</p>
 <blockquote>
-<p>What is the question?</p>
+<p><mark>What is the question?</mark></p>
 </blockquote>
 <p>This is useful specifically for... </p>
 <p><img alt="Application Matrix report" src="/assets/images/application-matrix-time-bc.png" />  </p>
@@ -1103,20 +1177,42 @@ Drilldown relation: </p>
 <h3>Requirements</h3>
 <p>The following factsheets and associated properties are required:</p>
 <ul>
-<li>Application</li>
-<li>x</li>
-<li>y</li>
+<li><strong>Application</strong><ul>
+<li>lifecycle dates</li>
+<li>relationship to Business Capability</li>
+</ul>
+</li>
+<li><strong>Business Capability</strong></li>
 </ul>
 <p>Other factsheet types may be required to support the drilldown feature. </p>
 <h3>Settings</h3>
-<p>Horizontal Axis: 
-Hide empty columns: check
-Vertical Axis:
-Hide empty rows: check
-Drilldown relation: </p>
+<ul>
+<li>Horizontal Axis: <strong>Time Frame</strong></li>
+<li>Hide empty columns: <strong>uncheck</strong> (check doesn't make sense when Time Frame is the axis)</li>
+<li>Vertical Axis: <strong>Business Capabilities</strong></li>
+<li>Hide empty rows: check or uncheck</li>
+<li>Drilldown relation: <ul>
+<li>-  <em>(no drilldown is shown)</em></li>
+<li>Business Capabilities</li>
+<li>Chlidren</li>
+<li>Consumed Interfaces</li>
+<li>Data Objects</li>
+<li>IT Components</li>
+<li>Parents</li>
+<li>Predecessors</li>
+<li>Processes</li>
+<li>Projects</li>
+<li>Provided Interfaces</li>
+<li>Required by</li>
+<li>Requirements</li>
+<li>Successors</li>
+<li>User Groups</li>
+</ul>
+</li>
+</ul>
 <hr />
 <h2 id="time-user-group">Time × User Group</h2>
-<p>This Report Instance Two name report answers the question:</p>
+<p>The <strong>Application Matrix - Time × User Group report</strong> answers the question:</p>
 <blockquote>
 <p>What is the question?</p>
 </blockquote>
@@ -1126,17 +1222,39 @@ Drilldown relation: </p>
 <h3>Requirements</h3>
 <p>The following factsheets and associated properties are required:</p>
 <ul>
-<li>Application</li>
-<li>x</li>
-<li>y</li>
+<li><strong>Application</strong><ul>
+<li>lifecycle dates</li>
+<li>relationship to User Groups</li>
+</ul>
+</li>
+<li><strong>User Group</strong></li>
 </ul>
 <p>Other factsheet types may be required to support the drilldown feature. </p>
 <h3>Settings</h3>
-<p>Horizontal Axis: 
-Hide empty columns: check
-Vertical Axis:
-Hide empty rows: check
-Drilldown relation: </p>
+<ul>
+<li>Horizontal Axis: <strong>Time Frame</strong></li>
+<li>Hide empty columns: <strong>uncheck</strong> (check doesn't make sense when Time Frame is the axis)</li>
+<li>Vertical Axis: <strong>User Groups</strong></li>
+<li>Hide empty rows: check or uncheck</li>
+<li>Drilldown relation: <ul>
+<li>-  <em>(no drilldown is shown)</em></li>
+<li>Business Capabilities</li>
+<li>Chlidren</li>
+<li>Consumed Interfaces</li>
+<li>Data Objects</li>
+<li>IT Components</li>
+<li>Parents</li>
+<li>Predecessors</li>
+<li>Processes</li>
+<li>Projects</li>
+<li>Provided Interfaces</li>
+<li>Required by</li>
+<li>Requirements</li>
+<li>Successors</li>
+<li>User Groups</li>
+</ul>
+</li>
+</ul>
 <!-- view links -->
 
 <!-- other links -->

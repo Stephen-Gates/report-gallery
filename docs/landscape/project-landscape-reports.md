@@ -6,7 +6,7 @@ title: "Project Landscape reports"
     - Missing links
     - Missing image and caption
 
-# Project Landscape report
+# Project Landscape reports
 
 ## Overview
 

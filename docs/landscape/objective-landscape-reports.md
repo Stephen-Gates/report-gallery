@@ -4,7 +4,7 @@ title: "Objective Landscape reports"
 
 !!! note "Work in progress"
 
-# Objective Landscape report
+# Objective Landscape reports
 
 ## Overview
 

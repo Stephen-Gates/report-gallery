@@ -2,16 +2,14 @@
 title: "Portfolio reports"
 ---
 
-!!! note "Work in progress"
-
 # Portfolio reports
 
-The Portfolio reports show...
+The Portfolio reports show summary views of a factsheet type.
 
 [![Portfolio](../assets/images/portfolio-thumbnail.png)][portfolio]
 [![Lifecycle and Age](../assets/images/lifecycle-age-thumbnail.png)][lifecycle-age]
 
-There are four types of reports:
+There are five types of Portfolio reports:
 
 1. [Application Portfolio](application-portfolio-report.md) - *Which applications need investment or replacement?*
 1. [Provider Portfolio](provider-portfolio-report.md) - *Which provider relationships need closer management?*
