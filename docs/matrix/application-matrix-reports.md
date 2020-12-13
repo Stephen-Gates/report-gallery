@@ -13,7 +13,7 @@ Application Matrix report shows Applications within a matrix of:
 - on the horizontal axis: Business Capabilities, Processes, or Time Frame
 - on the vertical axis: Business Capabilities, or User Groups
 
-![Application Matrix report](/assets/images/application-matrix-bc-ug.png)  
+![Application Matrix report](../assets/images/application-matrix-bc-ug.png)  
 
 *Application Matrix report, Business Capability × User Group, Business Criticality view.*
 
