@@ -131,7 +131,7 @@ nav:
   - Home: index.md
   - Questions: questions.md
   - Inventory : inventory/index.md  
-  - Factsheet Map: factsheet-map/index.md
+  - Factsheet Maps: factsheet-map/index.md
   - Business Capability Map: business-capability-map/index.md
   - Landscape: 
     - landscape/index.md
@@ -172,11 +172,11 @@ nav:
     - Project Portfolio: metrics/project-portfolio-report.md
     - Transformation Portfolio: metrics/transformation-portfolio-report.md
     - Lifecycle and Age: metrics/lifecycle-and-age-report.md
-  - Difficult questions: difficult-questions.md
-  - Engaging Stories:
-    - Your Application Portfolio: story/index.md
-    - Your Projects: story/projects.md
-    - Your Plans: story/plans.md
+  #- Difficult questions: difficult-questions.md
+  #- Engaging Stories:
+    #- Your Application Portfolio: story/index.md
+    #- Your Projects: story/projects.md
+    #- Your Plans: story/plans.md
     #- Your Business Capabilities: story/business-capability.md
   - About:
     - about/index.md

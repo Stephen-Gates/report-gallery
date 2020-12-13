@@ -22,34 +22,49 @@
 </style>
 </head>
 <body><div id="readme" class="container"><article class="markdown-body entry-content"><hr>
-<h2 id="title-interface-circle-map">title: &quot;Interface Circle Map&quot;</h2>
+<h2 id="title-it-component-location-report">title: &quot;IT Component Location report&quot;</h2>
 <p>??? note &quot;Work in progress&quot;</p>
-<pre><code>- See [LeanIX Docs](https://docs.leanix.net/docs/integration-architecture#use-the-interface-circle-map-to-get-a-high-level-overview)
-- https://docs.leanix.net/docs/interfaces-modeling</code></pre><h1 id="interface-circle-map">Interface Circle Map</h1>
-<h2 id="overview">Overview</h2>
-<p>The Interface Circle Map shows a high-level view of interfaces between applications.</p>
-<p>It answers the question:</p>
+<pre><code>- need image(s)
+- retain Filter section?</code></pre><h1 id="it-component-location-report">IT Component Location report</h1>
+<p>The IT Component Location report answers the question:</p>
 <blockquote>
-<p>Which applications provide or consume interfaces?</p>
+<p>Where are IT Components located?</p>
 </blockquote>
-<p><img src="../assets/images/interface-circle-map.png" alt="Interface Circle Map">  </p>
-<p><em>Interface Circle Map, Applications not providing or consuming interfaces are hidden.</em></p>
+<p>This report is useful if your company has policies, or must comply with regulations, regarding data held in other Countries.</p>
+<p><img src="/assets/images/it-component-location.png" alt="IT Component Location">  </p>
+<p><em>IT Component Location report, By Country view.</em></p>
 <h2 id="requirements">Requirements</h2>
+<h3 id="factsheets">Factsheets</h3>
 <p>The following factsheets and associated properties are required:</p>
 <ul>
-<li>Application</li>
-<li>Interface</li>
-<li>Data</li>
-<li>IT Component</li>
+<li>IT Component<ul>
+<li>Location</li>
+</ul>
+</li>
 </ul>
 <h2 id="settings">Settings</h2>
-<p>Display this report as a map or a table.</p>
-<h2 id="view">View</h2>
-<p>Applications can be arranged Alphabetically or Grouped by Business Capability.</p>
-<p>Applications that don&apos;t provide or consume interfaces can be hidden on the map.</p>
+<p>Display this report as a map or a table. </p>
+<h2 id="views">Views</h2>
+<p>The views available are: </p>
+<ol>
+<li><strong>By Country</strong> (default)</li>
+<li><strong>By Location</strong> - a circle centred on a City, State, or Country (based on the location precision provided), with the size of the circle representing the relative number of IT Components at that location</li>
+</ol>
+<p><img src="/assets/images/it-component-location-country.png" alt="IT Component Location By Country"></p>
+<p>Use <strong>Zoom</strong> to pan and zoom to a geographic area:</p>
+<ul>
+<li>World (default)</li>
+<li>Africa</li>
+<li>Asia</li>
+<li>Europe</li>
+<li>North America</li>
+<li>South America</li>
+<li>Oceania</li>
+</ul>
 <h2 id="filters">Filters</h2>
-<p><a href="https://docs.leanix.net/docs/searching-and-filtering-functions-in-leanix#searching-in-reports">Use filters</a> to focus on the required Interfaces</p>
-<!-- other links -->
+<p><a href="https://docs.leanix.net/docs/searching-and-filtering-functions-in-leanix#searching-in-reports">Use filters</a> to focus on the required IT Components.</p>
+<p>Consider adding a Tag to the IT Component to reflect the highest Data Classification of data it stores or processes. This will enable you to filter for IT Components that manage &quot;Confidential&#xA0;(L-3)&quot; or &quot;Restricted&#xA0;(L-2)&quot; data.</p>
+<!--  links -->
 
 </article></div><div style="background-color: #b4b2b2;width: 50px;height:50px;line-height: 50px;text-align: center;position: fixed;bottom: 10px;right: 10px;padding-top:5px;" onclick="document.documentElement.scrollTop = document.body.scrollTop =0;">
   <svg t="1533629773982" class="icon" style="" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" p-id="1035" xlink="http://www.w3.org/1999/xlink" width="40" height="40"><defs><style type="text/css">@font-face { font-family: uc-nexus-iconfont; src: url("chrome-extension://pogijhnlcfmcppgimcaccdkmbedjkmhi/res/font_9qmmi8b8jsxxbt9.woff") format("woff"), url("chrome-extension://pogijhnlcfmcppgimcaccdkmbedjkmhi/res/font_9qmmi8b8jsxxbt9.ttf") format("truetype"); }

@@ -12,7 +12,7 @@ The IT Component Location report answers the question:
 
 >Where are IT Components located?
 
-This is useful if your company has policies or regulations it needs to follow regarding data held in other Countries.
+This report is useful if your company has policies, or must comply with regulations, regarding data held in other Countries.
 
 ![IT Component Location](/assets/images/it-component-location.png)  
 
@@ -26,23 +26,12 @@ The following factsheets and associated properties are required:
 
 - IT Component
     - Location
-    
-<!--
-#### Tags 
-
-- No tags are required for this report
-
-#### Other requirements
-
-- No other requirements
--->
-
 
 ## Settings
 
 Display this report as a map or a table. 
 
-## View
+## Views
 
 The views available are: 
 
@@ -61,15 +50,12 @@ Use **Zoom** to pan and zoom to a geographic area:
 - South America
 - Oceania
 
-
 ## Filters
 
-Use filters to focus on the required IT Components.
+[Use filters][report-filters] to focus on the required IT Components.
 
 Consider adding a Tag to the IT Component to reflect the highest Data Classification of data it stores or processes. This will enable you to filter for IT Components that manage "Confidential&nbsp;(L-3)" or "Restricted&nbsp;(L-2)" data.
 
-<!--
-## Editing
+<!--  links -->
 
-This report cannot be edited
--->
+[report-filters]: https://docs.leanix.net/docs/searching-and-filtering-functions-in-leanix#searching-in-reports

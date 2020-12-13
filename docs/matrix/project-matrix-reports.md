@@ -18,44 +18,29 @@ This is useful if generic statement about all reports of this type with this foc
 ![Placeholder](https://dummyimage.com/800x450/eee/aaa)  
 
 *Caption.*
+-->
 
 ### Requirements
-
-#### Factsheets
 
 The following factsheets and associated properties are required:
 
 - Projects
 
-<!--
-#### Tags 
 
-No tags are required for this report.
-
-#### Other requirements
-
-No other requirements
-
-
-#### Settings
+### Settings
 
 - Horizontal Axis
 - Vertical Axis
 - Drilldown
 
-#### View
+### View
 
 The views available are: 
 
-#### Filters
+### Filters
 
 Use filters to focus on the required Projects.
 
-
-#### Editing
-
-This report cannot be edited
---> 
 
 --- 
 
@@ -73,29 +58,19 @@ This is useful specifically for...
 
 ### Requirements
 
-#### Factsheets
-
 Specific factsheets and associated properties are required:
 
 - Projects
 
-#### Tags 
-
-Specific tags are required for this report.
-
-#### Other requirements
-
-No other requirements
-
-#### Settings
+### Settings
 
 Specific settings for this report 
 
-#### View
+### View
 
 Specific view available are: 
 
-#### Filters
+### Filters
 
 Use filters to focus on the required Projects.
 
@@ -115,29 +90,19 @@ This is useful specifically for...
 
 ### Requirements
 
-#### Factsheets
-
 Specific factsheets and associated properties are required:
 
 - Projects
 
-#### Tags 
-
-Specific tags are required for this report.
-
-#### Other requirements
-
-No other requirements
-
-#### Settings
+### Settings
 
 Specific settings for this report 
 
-#### View
+### View
 
 Specific view available are: 
 
-#### Filters
+### Filters
 
 Use filters to focus on the required Projects.
 
@@ -157,29 +122,19 @@ This is useful specifically for...
 
 ### Requirements
 
-#### Factsheets
-
 Specific factsheets and associated properties are required:
 
 - Projects
 
-#### Tags 
-
-Specific tags are required for this report.
-
-#### Other requirements
-
-No other requirements
-
-#### Settings
+### Settings
 
 Specific settings for this report 
 
-#### View
+### View
 
 Specific view available are: 
 
-#### Filters
+### Filters
 
 Use filters to focus on the required Projects.
 
@@ -200,29 +155,19 @@ This is useful specifically for...
 
 ### Requirements
 
-#### Factsheets
-
 Specific factsheets and associated properties are required:
 
 - Projects
 
-#### Tags 
-
-Specific tags are required for this report.
-
-#### Other requirements
-
-No other requirements
-
-#### Settings
+### Settings
 
 Specific settings for this report 
 
-#### View
+### View
 
 Specific view available are: 
 
-#### Filters
+### Filters
 
 Use filters to focus on the required Projects.
 
@@ -244,28 +189,18 @@ This is useful specifically for...
 
 ### Requirements
 
-#### Factsheets
-
 Specific factsheets and associated properties are required:
 
 - Projects
 
-#### Tags 
-
-Specific tags are required for this report.
-
-#### Other requirements
-
-No other requirements
-
-#### Settings
+### Settings
 
 Specific settings for this report 
 
-#### View
+### View
 
 Specific view available are: 
 
-#### Filters
+### Filters
 
 Use filters to focus on the required Projects.

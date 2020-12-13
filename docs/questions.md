@@ -26,9 +26,11 @@ Title: "Questions you can answer using LeanIX reports"
 
 # Questions you can answer 
 
-The questions below are arranged by the main factsheet type involved in answering the question. 
+The sections below show the questions you can answer using LeanIX reports. 
 
-Questions based on a view using tags are marked with :fontawesome-solid-tag:{: .grey }. Tags are unique to your LeanIX implementation. 
+- The questions are arranged by the factsheet type that is the focus of the question. For example
+- Questions answered by a view are sub-points under the main question
+- Questions answered by using a Tag view  are marked with :fontawesome-solid-tag:{: .grey }. Tags are unique to your LeanIX implementation. 
 
 
 ## User Groups
@@ -36,9 +38,7 @@ Questions based on a view using tags are marked with :fontawesome-solid-tag:{: .
 1. [What user groups are part of, or interact with, our organisation?][inventory]
     1. Which user groups are "internal" or "external" to our organisation? :fontawesome-solid-tag:{: .grey }   
 1. [How are user groups structured?][factsheet-map-user-group] 
-1. [What applications support user groups?][landscape-application-user-group] 
-    1. Which applications do "external" user groups use? :fontawesome-solid-tag:{: .grey }   <!-- this requires an internal/external tag on the user group factsheet -->
-1. [Where are application users located?][location-application-usage]
+1. [Where are an user groups located, how many and what applications do they use?][location-application-usage]
 
     
 ## Business Capabilities
@@ -66,6 +66,8 @@ Questions based on a view using tags are marked with :fontawesome-solid-tag:{: .
     1. Who are the stakeholders?
     1. Who is responsible for an application?
 1. [How many applications do we have?][inventory]
+1. [What applications support user groups?][landscape-application-user-group] 
+    1. Which applications do "external" user groups use? :fontawesome-solid-tag:{: .grey }   <!-- this requires an internal/external tag on the user group factsheet -->
 1. [When are applications planned to change?][roadmap-application]
     1. When will successor applications replace existing applications?  
 <!-- Application × User Group factsheet questions -->

@@ -8,86 +8,63 @@ title: "Application Matrix reports"
 
 ## Overview
 
-The Application Matrix report answers the question:
+Application Matrix report shows Applications within a matrix of:
 
->?
-
-This is useful if generic statement about all reports of this type with this focus
-
+- on the horizontal axis: Business Capabilities, Processes, or Time Frame
+- on the vertical axis: Business Capabilities, or User Groups
 
 ![Application Matrix report](/assets/images/application-matrix-bc-ug.png)  
 
-<!--
-![](https://www.leanix.net/hubfs/2019%20LX%20Website/General/Illu/overview-techrisk-6-Col-XL.svg)
--->
+*Application Matrix report, Business Capability × User Group, Business Criticality view.*
 
-*Application Matrix report.*
+There are five Application Matrix reports: 
 
-### Requirements
+1. [Business Capability × User Group](#business-capability-user-group) - question
+1. [Process × Business Capability](#process-business-capability) - question
+1. [Process × User Group](#process-user-group) - question
+1. [Time × Business Capability](#time-business-capability) - question
+1. [Time × User Group](#time-user-group) - question
 
-#### Factsheets
+Each report has different data requirements and is configured using different settings.
 
-The following factsheets and associated properties are required:
-
-- 
-
-<!--
-#### Tags 
-
-- No tags are required for this report
-
-#### Other requirements
-
-- No other requirements
--->
+All reports have the same views, filters, and can be edited. 
 
 
-### Settings
-
-Display this report as a chart or table. 
-
-
-### View
+### Views
 
 The views available are:
 
-##### Fields on the factsheet 
+#### Fields on the factsheet 
 
-1. Lifecycle
-1. Functional Fit
-1. Technical Fit
-1. Business Criticality
+1. [Lifecycle][lifecycle-view]
+1. [Application Functional Fit][application-functional-fit-view]
+1. [Application Technical Fit][application-technical-fit-view]
+1. [Application Business Criticality][application-business-criticality-view]
 
-##### Fields on relations
+#### Fields on relations
 
-1. IT Components: Toal annual cost
+1. [IT Components: Total annual cost][application-total-annual-cost-view]
 
-##### Fields on related factsheets
+#### Fields on related factsheets
 
-1. Project Risk
-1. Project Status
-1. Project Business Values
-1. IT Component Technical Fit
-1. Data Classification
+1. [Aggregated Obsolescence Risk][aggregated-obsolescence-risk-view]
+1. [Data Classification][data-classification-view]
+1. [IT Component Technical Fit][application-technical-fit-view]
+1. [Project Risk][project-risk-view]
+1. [Project Status][project-status-view]
+1. [Project Business Value][project-business-value-view]
 
-##### Tags
+#### Tags
 
-As your LeanIX Administrator has defined for the Business Capability factsheet
-
-
-##### Built In
-
-1. Technology Risk
-
- 
+You can colour factsheets based on tags. [Tag colors](https://docs.leanix.net/docs/maintain-your-tags) are defined by your LeanIX Administrator.
 
 ### Filters
 
-Use filters to focus on the required application.
+[Use filters][report-filters] to focus on the required factsheets.
 
 ### Editing
 
-This report can be edited
+This report can be edited.
 
 --- 
 
@@ -105,92 +82,22 @@ This is useful specifically for...
 
 ### Requirements
 
-#### Factsheets
+The following factsheets and associated properties are required:
 
-Specific factsheets and associated properties are required:
+- Application
+- x
+- y
 
-- ???
-
-#### Tags 
-
-Specific tags are required for this report.
-
-#### Other requirements
-
-No other requirements
+Other factsheet types may be required to support the drilldown feature. 
 
 ### Settings
 
-Specific settings for this report 
-
-
-### View
-
-The views available are:
-
-##### Fields on the factsheet 
-
-1. Lifecycle
-1. Functional Fit
-1. Technical Fit
-1. Business Criticality
-
-##### Fields on relations
-
-1. IT Components: Total annual cost
-
-##### Fields on related factsheets
-
-1. Project Risk
-1. Project Status
-1. Project Business Values
-1. IT Component Technical Fit
-1. Data Classification
-
-##### Tags
-
-As your LeanIX Administrator has defined for the Business Capability factsheet
-
-
-##### Built In
-
-1. Technology Risk
-
-
-##### Fields on the factsheet 
-
-1. Lifecycle
-1. Functional Fit
-1. Technical Fit
-1. Business Criticality
-
-##### Fields on relations
-
-1. IT Components: Toal annual cost
-
-##### Fields on related factsheets
-
-1. Project Risk
-1. Project Status
-1. Project Business Values
-1. IT Component Technical Fit
-1. Data Classification
-
-##### Tags
-
-As your LeanIX Administrator has defined for the Business Capability factsheet
-
-
-##### Built In
-
-1. Technology Risk
-
-
-### Filters
-
-Use filters to focus on the required IT Components.
-
-
+Horizontal Axis: 
+Hide empty columns: check
+Vertical Axis:
+Hide empty rows: check
+Drilldown relation: 
+ 
 --- 
 
 ## Process × Business Capability 
@@ -207,32 +114,21 @@ This is useful specifically for...
 
 ### Requirements
 
-#### Factsheets
+The following factsheets and associated properties are required:
 
-Specific factsheets and associated properties are required:
+- Application
+- x
+- y
 
-- ???
-
-#### Tags 
-
-Specific tags are required for this report.
-
-#### Other requirements
-
-No other requirements
+Other factsheet types may be required to support the drilldown feature. 
 
 ### Settings
 
-Specific settings for this report 
-
-### View
-
-Specific view available are: 
-
-### Filters
-
-Use filters to focus on the required IT Components.
-
+Horizontal Axis: 
+Hide empty columns: check
+Vertical Axis:
+Hide empty rows: check
+Drilldown relation: 
 
 --- 
 
@@ -250,61 +146,23 @@ This is useful specifically for...
 
 ### Requirements
 
-#### Factsheets
+The following factsheets and associated properties are required:
 
-Specific factsheets and associated properties are required:
+- Application
+- x
+- y
 
-- IT Component
-    - Location
-
-#### Tags 
-
-Specific tags are required for this report.
-
-#### Other requirements
-
-No other requirements
+Other factsheet types may be required to support the drilldown feature. 
 
 ### Settings
 
-Specific settings for this report 
+Horizontal Axis: 
+Hide empty columns: check
+Vertical Axis:
+Hide empty rows: check
+Drilldown relation: 
+ 
 
-### View
-
-The views available are:
-
-##### Fields on the factsheet 
-
-1. Lifecycle
-1. Functional Fit
-1. Technical Fit
-1. Business Criticality
-
-##### Fields on relations
-
-1. IT Components: Total annual cost
-
-##### Fields on related factsheets
-
-1. Project Risk
-1. Project Status
-1. Project Business Values
-1. IT Component Technical Fit
-1. Data Classification
-
-##### Tags
-
-As your LeanIX Administrator has defined for the Business Capability factsheet
-
-
-##### Built In
-
-1. Technology Risk
-
-
-### Filters
-
-Use filters to focus on the required IT Components.
 
 
 --- 
@@ -326,61 +184,22 @@ This is useful specifically for...
 
 ### Requirements
 
-#### Factsheets
+The following factsheets and associated properties are required:
 
-Specific factsheets and associated properties are required:
+- Application
+- x
+- y
 
-- IT Component
-    - Location
-
-#### Tags 
-
-Specific tags are required for this report.
-
-#### Other requirements
-
-No other requirements
+Other factsheet types may be required to support the drilldown feature. 
 
 ### Settings
 
-Specific settings for this report 
-
-
-### View
-
-The views available are:
-
-##### Fields on the factsheet 
-
-1. Lifecycle
-1. Functional Fit
-1. Technical Fit
-1. Business Criticality
-
-##### Fields on relations
-
-1. IT Components: Toal annual cost
-
-##### Fields on related factsheets
-
-1. Project Risk
-1. Project Status
-1. Project Business Values
-1. IT Component Technical Fit
-1. Data Classification
-
-##### Tags
-
-As your LeanIX Administrator has defined for the Business Capability factsheet
-
-
-##### Built In
-
-1. Technology Risk
-
-### Filters
-
-Use filters to focus on the required IT Components.
+Horizontal Axis: 
+Hide empty columns: check
+Vertical Axis:
+Hide empty rows: check
+Drilldown relation: 
+ 
 
 
 --- 
@@ -399,59 +218,41 @@ This is useful specifically for...
 
 ### Requirements
 
-#### Factsheets
+The following factsheets and associated properties are required:
 
-Specific factsheets and associated properties are required:
+- Application
+- x
+- y
 
-- IT Component
-    - Location
-
-#### Tags 
-
-Specific tags are required for this report.
-
-#### Other requirements
-
-No other requirements
+Other factsheet types may be required to support the drilldown feature. 
 
 ### Settings
 
-Specific settings for this report 
+Horizontal Axis: 
+Hide empty columns: check
+Vertical Axis:
+Hide empty rows: check
+Drilldown relation: 
+ 
 
+<!-- view links -->
 
-### View
+[lifecycle-view]: https://docs.leanix.net/docs/reporting-views#1-lifecycle
+[application-functional-fit-view]: https://docs.leanix.net/docs/reporting-views#2-functional-fit
+[application-technical-fit-view]: https://docs.leanix.net/docs/reporting-views#3-technical-fit
+[it-component-technical-fit]: https://docs.leanix.net/docs/reporting-views#3-technical-fit
+[application-business-criticality-view]: https://docs.leanix.net/docs/reporting-views#4-business-criticality
+[aggregated-obsolescence-risk-view]: https://docs.leanix.net/docs/reporting-views#5-technology-risk
+[project-risk-view]: https://docs.leanix.net/docs/reporting-views#6-project-risk
+[project-status-view]: https://docs.leanix.net/docs/reporting-views#7-project-status
+[project-cost-view]: https://docs.leanix.net/docs/reporting-views#8-project-business-value-budget-opex--capex
+[project-business-value-view]: https://docs.leanix.net/docs/reporting-views#9-project-business-value-npv
+[provider-quality-view]: https://docs.leanix.net/docs/reporting-views#10-provider-quality
+[provider-criticality-view]: https://docs.leanix.net/docs/reporting-views#11-provider-criticality
+[application-total-annual-cost-view]: https://docs.leanix.net/docs/reporting-views#12-it-componentsapplications-total-annual-cost
+[it-component-resource-classification]: https://docs.leanix.net/docs/reporting-views#13-technical-stacksit-components-resource-classification
+[data-classification-view]: https://docs.leanix.net/docs/reporting-views#14-data-object-application-data-classification
 
-The views available are:
+<!-- other links -->
 
-##### Fields on the factsheet 
-
-1. Lifecycle
-1. Functional Fit
-1. Technical Fit
-1. Business Criticality
-
-##### Fields on relations
-
-1. IT Components: Toal annual cost
-
-##### Fields on related factsheets
-
-1. Project Risk
-1. Project Status
-1. Project Business Values
-1. IT Component Technical Fit
-1. Data Classification
-
-##### Tags
-
-As your LeanIX Administrator has defined for the Business Capability factsheet
-
-
-##### Built In
-
-1. Technology Risk
-
-
-### Filters
-
-Use filters to focus on the required IT Components.
+[report-filters]: https://docs.leanix.net/docs/searching-and-filtering-functions-in-leanix#searching-in-reports

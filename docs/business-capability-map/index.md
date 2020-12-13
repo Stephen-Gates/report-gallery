@@ -18,8 +18,6 @@ It answers the question:
 
 ## Requirements
 
-### Factsheets
-
 The following factsheets and associated properties are required:
 
 - Business Capability
@@ -36,7 +34,7 @@ The following factsheets and associated properties are required:
 - Left property: Fields on the Fact Sheet
 - Right property: Fields on the Fact Sheet
 
-## View
+## Views
 
 The views available are:
 
@@ -49,7 +47,7 @@ The views available are:
 1. [Application Functional Fit][application-functional-fit-view]
 1. [Application Technical Fit][application-technical-fit-view]
 1. [Application Business Criticality][application-business-criticality-view]
-1. [Application Aggregate Obsolescence Risk][application-aggregated-obsolescence-risk-view]
+1. [Aggregated Obsolescence Risk][aggregated-obsolescence-risk-view]
 1. [Project Risk][project-risk-view]
 1. [Project Business Value][project-business-value-view]
 
@@ -69,7 +67,7 @@ You can colour factsheets based on tags. [Tag colors](https://docs.leanix.net/do
 [application-technical-fit-view]: https://docs.leanix.net/docs/reporting-views#3-technical-fit
 [it-component-technical-fit]: https://docs.leanix.net/docs/reporting-views#3-technical-fit
 [application-business-criticality-view]: https://docs.leanix.net/docs/reporting-views#4-business-criticality
-[application-aggregated-obsolescence-risk-view]: https://docs.leanix.net/docs/reporting-views#5-technology-risk
+[aggregated-obsolescence-risk-view]: https://docs.leanix.net/docs/reporting-views#5-technology-risk
 [project-risk-view]: https://docs.leanix.net/docs/reporting-views#6-project-risk
 [project-status-view]: https://docs.leanix.net/docs/reporting-views#7-project-status
 [project-cost-view]: https://docs.leanix.net/docs/reporting-views#8-project-business-value-budget-opex--capex

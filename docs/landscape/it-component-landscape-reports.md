@@ -27,25 +27,12 @@ This report answers the question:
 
 ### Requirements
 
-#### Factsheets
-
 Specific factsheets and associated properties are required:
 
 - Technical Stack
 - IT Component
     - IT Component - Technical Stack relationship
         - resource classification dates
-  
-<!--    
-#### Tags 
-
-Specific tags are required for this report.
-
-#### Other requirements
-
-No other requirements
-
--->
 
 ### Settings
 
@@ -70,25 +57,12 @@ This report answers the question:
 
 ### Requirements
 
-#### Factsheets
-
 Specific factsheets and associated properties are required:
 
 - Providers 
 - IT Component
     - IT Component - Provider relationship
         - lifecycle dates
-
-<!--    
-    
-#### Tags 
-
-Specific tags are required for this report.
-
-#### Other requirements
-
-No other requirements
---> 
 
 ### Settings
 

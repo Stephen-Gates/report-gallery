@@ -22,33 +22,55 @@
 </style>
 </head>
 <body><div id="readme" class="container"><article class="markdown-body entry-content"><hr>
-<h2 id="title-interface-circle-map">title: &quot;Interface Circle Map&quot;</h2>
-<p>??? note &quot;Work in progress&quot;</p>
-<pre><code>- See [LeanIX Docs](https://docs.leanix.net/docs/integration-architecture#use-the-interface-circle-map-to-get-a-high-level-overview)
-- https://docs.leanix.net/docs/interfaces-modeling</code></pre><h1 id="interface-circle-map">Interface Circle Map</h1>
+<h2 id="title-data-flow-diagram">title: &quot;Data Flow diagram&quot;</h2>
+<h1 id="data-flow-diagram">Data Flow diagram</h1>
 <h2 id="overview">Overview</h2>
-<p>The Interface Circle Map shows a high-level view of interfaces between applications.</p>
-<p>It answers the question:</p>
+<p>The Data Flow diagram answers the question:</p>
 <blockquote>
-<p>Which applications provide or consume interfaces?</p>
+<p>How does data flow between applications?</p>
 </blockquote>
-<p><img src="../assets/images/interface-circle-map.png" alt="Interface Circle Map">  </p>
-<p><em>Interface Circle Map, Applications not providing or consuming interfaces are hidden.</em></p>
+<p><a href="https://docs.leanix.net/docs/integration-architecture#dive-into-details---data-flow-diagram">Read about creating Data Flow diagrams</a> in the LeanIX documentation. </p>
+<p><img src="../assets/images/data-flow-diagram.png" alt="Placeholder"></p>
+<p><em>Data Flow diagram, Business Criticality view</em></p>
 <h2 id="requirements">Requirements</h2>
-<p>The following factsheets and associated properties are required:</p>
+<p>The following related factsheets and associated properties are required:</p>
 <ul>
 <li>Application</li>
 <li>Interface</li>
 <li>Data</li>
 <li>IT Component</li>
 </ul>
-<h2 id="settings">Settings</h2>
-<p>Display this report as a map or a table.</p>
-<h2 id="view">View</h2>
-<p>Applications can be arranged Alphabetically or Grouped by Business Capability.</p>
-<p>Applications that don&apos;t provide or consume interfaces can be hidden on the map.</p>
+<p>Other factsheets may be required to display related factsheets on the diagram </p>
+<h2 id="views">Views</h2>
+<p>The views available are based on the Application factsheet:</p>
+<h4 id="fields-on-the-factsheet">Fields on the factsheet</h4>
+<ol>
+<li><a href="https://docs.leanix.net/docs/reporting-views#1-lifecycle">Lifecycle</a></li>
+<li><a href="https://docs.leanix.net/docs/reporting-views#2-functional-fit">Application Functional Fit</a></li>
+<li><a href="https://docs.leanix.net/docs/reporting-views#3-technical-fit">Application Technical Fit</a></li>
+<li><a href="https://docs.leanix.net/docs/reporting-views#4-business-criticality">Application Business Criticality</a></li>
+</ol>
+<h4 id="fields-on-relations">Fields on relations</h4>
+<ol>
+<li><a href="https://docs.leanix.net/docs/reporting-views#12-it-componentsapplications-total-annual-cost">IT Components: Total annual cost</a></li>
+</ol>
+<h4 id="fields-on-related-factsheets">Fields on related factsheets</h4>
+<ol>
+<li><a href="https://docs.leanix.net/docs/reporting-views#5-technology-risk">Aggregated Obsolescence Risk</a></li>
+<li><a href="https://docs.leanix.net/docs/reporting-views#14-data-object-application-data-classification">Data Classification</a></li>
+<li><a href="https://docs.leanix.net/docs/reporting-views#3-technical-fit">IT Component Technical Fit</a></li>
+<li><a href="https://docs.leanix.net/docs/reporting-views#6-project-risk">Project Risk</a></li>
+<li><a href="https://docs.leanix.net/docs/reporting-views#7-project-status">Project Status</a></li>
+<li>[Project Business Value][project-busiess-value-view]</li>
+</ol>
+<h4 id="tags">Tags</h4>
+<p>You can colour factsheets based on tags. <a href="https://docs.leanix.net/docs/maintain-your-tags">Tag colors</a> are defined by your LeanIX Administrator</p>
 <h2 id="filters">Filters</h2>
-<p><a href="https://docs.leanix.net/docs/searching-and-filtering-functions-in-leanix#searching-in-reports">Use filters</a> to focus on the required Interfaces</p>
+<p><a href="https://docs.leanix.net/docs/searching-and-filtering-functions-in-leanix#searching-in-reports">Use filters</a> to focus on the specific parts of the diagram by fading out certain factsheets.</p>
+<p><img src="../assets/images/data-flow-diagram-filtered.png" alt="Filtered Data Flow diagram"></p>
+<p><em>Data Flow diagram, Filtered view</em></p>
+<!-- view links -->
+
 <!-- other links -->
 
 </article></div><div style="background-color: #b4b2b2;width: 50px;height:50px;line-height: 50px;text-align: center;position: fixed;bottom: 10px;right: 10px;padding-top:5px;" onclick="document.documentElement.scrollTop = document.body.scrollTop =0;">

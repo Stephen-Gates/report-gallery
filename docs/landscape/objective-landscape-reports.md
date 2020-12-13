@@ -27,24 +27,11 @@ This report answers the question:
 
 ### Requirements
 
-#### Factsheets
-
 Specific factsheets and associated properties are required:
 
 - Transformation Items
 - Objectives
     - Objectives - Transformation Items relationship
-  
-<!--    
-#### Tags 
-
-Specific tags are required for this report.
-
-#### Other requirements
-
-No other requirements
-
--->
 
 ### Settings
 
@@ -53,7 +40,6 @@ Specific settings for this report
 ### View
 
 Specific view available are: 
-
 
 --- 
 
@@ -68,8 +54,6 @@ This report answers the question:
 *Objective Landscape report  clustered by Business Capabilities.**
 
 ### Requirements
-
-#### Factsheets
 
 Specific factsheets and associated properties are required:
 

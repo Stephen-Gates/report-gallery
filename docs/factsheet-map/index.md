@@ -33,8 +33,6 @@ The Business Capability Factsheet Map answers the question:
 
 ### Requirements
 
-#### Factsheets
-
 The following factsheets and associated properties are required:
 
 - Business Capability
@@ -87,8 +85,6 @@ The Data Object Factsheet Map answers the question:
 
 ### Requirements
 
-#### Factsheets
-
 The following factsheets and associated properties are required:
 
 - Data Object
@@ -137,8 +133,6 @@ The Process Factsheet Map answers the question:
 ![Process Factsheet Map report](../assets/images/factsheet-map-process.png)
 
 *Factsheet Map for Processes, Lifecycle view.*
-
-### Requirements
 
 #### Factsheets
 
@@ -195,8 +189,6 @@ The Technical Stack Factsheet Map answers the question:
 
 ### Requirements
 
-#### Factsheets
-
 The following factsheets and associated properties are required:
 
 - Technical Stack
@@ -250,8 +242,6 @@ The User Group Factsheet Map answers the question:
 
 ### Requirements
 
-#### Factsheets
-
 The following factsheets and associated properties are required:
 
 - User Group
@@ -302,7 +292,7 @@ Enable editing to allow you to move, remove or add factsheets. These changes are
 [application-technical-fit-view]: https://docs.leanix.net/docs/reporting-views#3-technical-fit
 [it-component-technical-fit]: https://docs.leanix.net/docs/reporting-views#3-technical-fit
 [application-business-criticality-view]: https://docs.leanix.net/docs/reporting-views#4-business-criticality
-[application-aggregated-obsolescence-risk-view]: https://docs.leanix.net/docs/reporting-views#5-technology-risk
+[aggregated-obsolescence-risk-view]: https://docs.leanix.net/docs/reporting-views#5-technology-risk
 [project-risk-view]: https://docs.leanix.net/docs/reporting-views#6-project-risk
 [project-status-view]: https://docs.leanix.net/docs/reporting-views#7-project-status
 [project-cost-view]: https://docs.leanix.net/docs/reporting-views#8-project-business-value-budget-opex--capex

@@ -6,11 +6,14 @@ title: "Matrix reports"
 
 # Matrix reports
 
-The Matrix report shows...
+The Matrix report shows one factsheet type within a matrix of either:
+
+- two other factsheet types 
+- another factsheet type and time
 
 ![Placeholder](../assets/images/matrix-thumbnail.png) 
 
-There are three types of reports:
+There are three types of Matrix reports:
 
 1. [Application Matrix](application-matrix-reports.md) report shows Applications within a matrix of:
     - on the horizontal axis: Business Capabilities, Processes, or Time Frame

@@ -29,11 +29,11 @@ While in Alpha I'm maintaining a to do list here rather than using issues.
   - [ ] Transformation Roadmap: roadmap/transformation-roadmap-reports.md  
 - [X] Interface Circle Map: interface/index.md
 - [ ] Data Flow: dataflow/index.md        
-- [ ] World Map:
-  - [ ] location/index.md
-  - [ ] Application Sourcing: location/application-sourcing-report.md
+- [x] World Map:
+  - [x] location/index.md
+  - [x] Application Sourcing: location/application-sourcing-report.md
   - [ ] Application Usage: location/application-usage-report.md
-  - [ ] IT Component Location: location/it-component-location-report.md 
+  - [x] IT Component Location: location/it-component-location-report.md 
 - [x] Cost: 
   - [x] cost/index.md
   - [x] Business Capability Costs: Could do with nicer wording
@@ -60,4 +60,5 @@ While in Alpha I'm maintaining a to do list here rather than using issues.
 ## Other 
 
 - [x] Github setup 
-- [ ] Explain how timeline works. Include on multiple reports 
+- [ ] Explain how timeline works. Include on multiple reports
+- [ ] Better caption format 

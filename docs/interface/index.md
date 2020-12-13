@@ -22,24 +22,12 @@ It answers the question:
 
 ## Requirements
 
-### Factsheets
-
 The following factsheets and associated properties are required:
 
 - Application
 - Interface
 - Data
 - IT Component
-
-<!--
-#### Tags 
-
-- No tags are required for this report
-
-#### Other requirements
-
-- No other requirements
--->
 
 ## Settings
 

@@ -258,7 +258,7 @@
 
   <li class="md-nav__item">
     <a href="../factsheet-map/" class="md-nav__link">
-      Factsheet Map
+      Factsheet Maps
     </a>
   </li>
 
@@ -584,15 +584,8 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#settings" class="md-nav__link">
-    Settings
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#view" class="md-nav__link">
-    View
+  <a href="#views" class="md-nav__link">
+    Views
   </a>
   
 </li>
@@ -874,87 +867,6 @@
 
 
   <li class="md-nav__item">
-    <a href="../difficult-questions/" class="md-nav__link">
-      Difficult questions
-    </a>
-  </li>
-
-    
-      
-      
-      
-
-
-
-  
-  <li class="md-nav__item md-nav__item--nested">
-    
-    
-      <input class="md-nav__toggle md-toggle" data-md-toggle="nav-15" type="checkbox" id="nav-15" >
-    
-    <label class="md-nav__link" for="nav-15">
-      Engaging Stories
-      <span class="md-nav__icon md-icon"></span>
-    </label>
-    <nav class="md-nav" aria-label="Engaging Stories" data-md-level="1">
-      <label class="md-nav__title" for="nav-15">
-        <span class="md-nav__icon md-icon"></span>
-        Engaging Stories
-      </label>
-      <ul class="md-nav__list" data-md-scrollfix>
-        
-        
-          
-          
-          
-
-
-
-  <li class="md-nav__item">
-    <a href="../story/" class="md-nav__link">
-      Your Application Portfolio
-    </a>
-  </li>
-
-        
-          
-          
-          
-
-
-
-  <li class="md-nav__item">
-    <a href="../story/projects/" class="md-nav__link">
-      Your Projects
-    </a>
-  </li>
-
-        
-          
-          
-          
-
-
-
-  <li class="md-nav__item">
-    <a href="../story/plans/" class="md-nav__link">
-      Your Plans
-    </a>
-  </li>
-
-        
-      </ul>
-    </nav>
-  </li>
-
-    
-      
-      
-      
-
-
-
-  <li class="md-nav__item">
     <a href="../about/" class="md-nav__link">
       About
     </a>
@@ -1000,15 +912,8 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#settings" class="md-nav__link">
-    Settings
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#view" class="md-nav__link">
-    View
+  <a href="#views" class="md-nav__link">
+    Views
   </a>
   
 </li>
@@ -1033,20 +938,16 @@
               
                 
                 
-                <details class="note"><summary>Work in progress</summary><ul>
-<li>See <a href="https://docs.leanix.net/docs/integration-architecture#dive-into-details---data-flow-diagram">LeanIX Docs</a></li>
-</ul>
-</details>
-<h1 id="data-flow-diagram">Data Flow diagram</h1>
+                <h1 id="data-flow-diagram">Data Flow diagram</h1>
 <h2 id="overview">Overview</h2>
 <p>The Data Flow diagram answers the question:</p>
 <blockquote>
 <p>How does data flow between applications?</p>
 </blockquote>
+<p><a href="https://docs.leanix.net/docs/integration-architecture#dive-into-details---data-flow-diagram">Read about creating Data Flow diagrams</a> in the LeanIX documentation. </p>
 <p><img alt="Placeholder" src="../assets/images/data-flow-diagram.png" /></p>
 <p><em>Data Flow diagram, Business Criticality view</em></p>
 <h2 id="requirements">Requirements</h2>
-<h3>Factsheets</h3>
 <p>The following related factsheets and associated properties are required:</p>
 <ul>
 <li>Application</li>
@@ -1054,61 +955,38 @@
 <li>Data</li>
 <li>IT Component</li>
 </ul>
-<p>Other factsheets may be require to display related factsheets on the diagram </p>
-<!--
-#### Tags
-
-- No tags are required for this report
-
-#### Other requirements
-
-- No other requirements
--->
-
-<h2 id="settings">Settings</h2>
-<p>None</p>
-<h2 id="view">View</h2>
-<p>The views available are:</p>
-<h5>Fields on the factsheet</h5>
+<p>Other factsheets may be required to display related factsheets on the diagram </p>
+<h2 id="views">Views</h2>
+<p>The views available are based on the Application factsheet:</p>
+<h4>Fields on the factsheet</h4>
 <ol>
-<li>Lifecycle</li>
-<li>Functional Fit</li>
-<li>Technical Fit</li>
-<li>Business Criticality</li>
+<li><a href="https://docs.leanix.net/docs/reporting-views#1-lifecycle">Lifecycle</a></li>
+<li><a href="https://docs.leanix.net/docs/reporting-views#2-functional-fit">Application Functional Fit</a></li>
+<li><a href="https://docs.leanix.net/docs/reporting-views#3-technical-fit">Application Technical Fit</a></li>
+<li><a href="https://docs.leanix.net/docs/reporting-views#4-business-criticality">Application Business Criticality</a></li>
 </ol>
-<h5>Fields on relations</h5>
+<h4>Fields on relations</h4>
 <ol>
-<li>IT Components: Toal annual cost</li>
+<li><a href="https://docs.leanix.net/docs/reporting-views#12-it-componentsapplications-total-annual-cost">IT Components: Total annual cost</a></li>
 </ol>
-<h5>Fields on related factsheets</h5>
+<h4>Fields on related factsheets</h4>
 <ol>
-<li>Project Risk</li>
-<li>Project Status</li>
-<li>Project Business Values</li>
-<li>IT Component Technical Fit</li>
-<li>Data Classification</li>
+<li><a href="https://docs.leanix.net/docs/reporting-views#5-technology-risk">Aggregated Obsolescence Risk</a></li>
+<li><a href="https://docs.leanix.net/docs/reporting-views#14-data-object-application-data-classification">Data Classification</a></li>
+<li><a href="https://docs.leanix.net/docs/reporting-views#3-technical-fit">IT Component Technical Fit</a></li>
+<li><a href="https://docs.leanix.net/docs/reporting-views#6-project-risk">Project Risk</a></li>
+<li><a href="https://docs.leanix.net/docs/reporting-views#7-project-status">Project Status</a></li>
+<li>[Project Business Value][project-busiess-value-view]</li>
 </ol>
-<h5>Tags</h5>
-<p>As your LeanIX Administrator has defined for the Business Capability factsheet</p>
-<h5>Built In</h5>
-<ol>
-<li>Technology Risk</li>
-</ol>
-<!--
-### Tags
-
-No tags are required for this report.
--->
-
+<h4>Tags</h4>
+<p>You can colour factsheets based on tags. <a href="https://docs.leanix.net/docs/maintain-your-tags">Tag colors</a> are defined by your LeanIX Administrator</p>
 <h2 id="filters">Filters</h2>
-<p>Use filters to focus on the specific parts of the diagram by fading out certain factsheets.</p>
+<p><a href="https://docs.leanix.net/docs/searching-and-filtering-functions-in-leanix#searching-in-reports">Use filters</a> to focus on the specific parts of the diagram by fading out certain factsheets.</p>
 <p><img alt="Filtered Data Flow diagram" src="../assets/images/data-flow-diagram-filtered.png" /></p>
 <p><em>Data Flow diagram, Filtered view</em></p>
-<!--
-## Editing
+<!-- view links -->
 
-This report cannot be edited.
-->
+<!-- other links -->
                 
                   
                 
