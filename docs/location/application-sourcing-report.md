@@ -15,7 +15,7 @@ This report is useful if your company has policies, or must comply with regulati
 
 ![Application Sourcing](/assets/images/application-sourcing-country.png)  
 
-*Application Sourcing report, By Country view.*
+<p id="caption">Application Sourcing report, By Country view.</p>
 
 ## Requirements
 
@@ -39,7 +39,7 @@ The views available are:
 
 ![Application Sourcing](/assets/images/application-sourcing-location.png)  
 
-*Application Sourcing report, By Location view.*
+<p id="caption">Application Sourcing report, By Location view.</p>
 
 Use **Zoom** to pan and zoom to a geographic area:
 

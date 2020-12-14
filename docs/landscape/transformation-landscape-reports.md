@@ -23,7 +23,7 @@ This report answers the question:
 
 ![Transformation Landscape report](/assets/images/transformation-landscape-obj.png) 
 
-*Transformation Landscape report, clustered by Objectives, T-shirt estimate view.*
+<p id="caption">Transformation Landscape report, clustered by Objectives, T-shirt estimate view.</p>
 
 ### Requirements
 
@@ -67,7 +67,8 @@ This report answers the question:
 <!--
 ![Transformation Landscape report](/assets/images/transformation-landscape-bc.png) 
 
-**Transformation Landscape report, clustered by Business Capabilities.*
+<p id="caption">Transformation Landscape report, clustered by Business Capabilities.</p>
+
 --> 
 
 ### Requirements

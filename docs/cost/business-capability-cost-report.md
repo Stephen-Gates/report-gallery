@@ -12,7 +12,7 @@ The **Business Capability Cost report** answers the question:
 
 ![Business Capability Cost report](../assets/images/cost-business-capability.png)
 
-*Business Capability Cost report for Applications with Any Lifecycle value effective within the 2020 timeframe.*
+<p id="caption">Figure: Business Capability Cost report for Applications with Any Lifecycle value effective within the 2020 timeframe.</p>
 
 The costs for a Business Capability are calculated based on:
 
@@ -47,7 +47,7 @@ Display this report as a chart or table. The table view cannot show the annual c
 
 ![Business Capability Cost table](/assets/images/cost-business-capability-table.png)
 
-*Business Capability Cost table.*
+<p id="caption">Business Capability Cost table.</p>
 
 
 ## Filters

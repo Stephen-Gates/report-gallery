@@ -28,7 +28,7 @@ This is useful specifically for...
 
 ![Project Landscape report](../assets/images/project-landscape-bc.png)  
 
-*Project Landscape report.*
+<p id="caption">Project Landscape report.</p>
 
 ### Requirements
 
@@ -69,7 +69,7 @@ This is useful specifically for...
 
 ![Project Landscape report](../assets/images/project-landscape-provider.png)  
 
-*Caption.*
+<p id="caption">Caption.</p>
 
 ### Requirements
 
@@ -110,7 +110,7 @@ This is useful specifically for...
 
 ![Placeholder](https://dummyimage.com/800x450/eee/aaa)  
 
-*Caption.*
+<p id="caption">Caption.</p>
 
 ### Requirements
 

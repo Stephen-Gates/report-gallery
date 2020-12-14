@@ -13,7 +13,7 @@ The Application Usage report answers the questions:
 
 ![Application Sourcing](/assets/images/application-usage.png)  
 
-*Application Usage report, By Country view.*
+<p id="caption">Application Usage report, By Country view.</p>
 
 ## Requirements
 

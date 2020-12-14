@@ -13,7 +13,7 @@ At risk Transformation items with large budgets or delivering significant benefi
 
 ![](../assets/images/transformation-portfolio.png)  
 
-*Transformation Portfolio report, Transformation Risk vs. Business Value (Budget (OpEx + Capex)) view.*
+<p id="caption">Transformation Portfolio report, Transformation Risk vs. Business Value (Budget (OpEx + Capex)) view.</p>
 
 ## Requirements
 
@@ -43,6 +43,9 @@ Display this report as a chart or table.
 
 <!--
 ![](../assets/images/transformation-portfolio-table.png)  
+
+<p id="caption">Caption.</p>
+
 -->
 
 ## View

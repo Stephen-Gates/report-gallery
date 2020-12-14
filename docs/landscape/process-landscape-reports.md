@@ -23,7 +23,7 @@ There are three Process Landscape reports that show the processes, within a hier
 
 ![Process Landscape report](../assets/images/process-landscape-app.png)
 
-*Process Landscape for Applications.*
+<p id="caption">Process Landscape for Applications.</p>
 
 --- 
 
@@ -35,7 +35,7 @@ This report answers the question:
 
 ![Application Landscape report](../assets/images/application-landscape-bc-criticality.png)
 
-*Caption.*
+<p id="caption">Caption.</p>
 
 ### Requirements
 
@@ -78,7 +78,7 @@ This is useful specifically for...
 
 ![Application Landscape report](../assets/images/application-landscape-process-lifecycle.png)
 
-*Caption.*
+<p id="caption">Caption.</p>
 
 ### Requirements
 
@@ -112,7 +112,7 @@ This is useful specifically for...
 
 ![Application Landscape report](../assets/images/application-landscape-ug-lifecycle.png)
 
-*Caption.*
+<p id="caption">Caption.</p>
 
 ### Requirements
 

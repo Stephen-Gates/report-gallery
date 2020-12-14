@@ -23,7 +23,7 @@ This report answers the question:
 
 ![Objective Landscape report](/assets/images/objective-landscape-ti.png)  
 
-*Objective Landscape report, clustered by Transformation Items.*
+<p id="caption">Objective Landscape report, clustered by Transformation Items.</p>
 
 ### Requirements
 
@@ -51,7 +51,7 @@ This report answers the question:
 
 ![Objective Landscape report](/assets/images/objective-landscape-bc.png)
 
-*Objective Landscape report  clustered by Business Capabilities.**
+<p id="caption">Objective Landscape report  clustered by Business Capabilities.</p>
 
 ### Requirements
 

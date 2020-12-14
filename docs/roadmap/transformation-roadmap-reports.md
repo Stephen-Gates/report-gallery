@@ -8,6 +8,9 @@ title: "Transformation Roadmap report"
 
 ![Transformation Roadmap report](../assets/images/transformation-roadmap.png)
 
+<p id="caption">Caption.</p>
+
+
 Group by:
 
 - Objectives

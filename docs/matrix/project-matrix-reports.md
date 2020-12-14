@@ -17,7 +17,7 @@ This is useful if generic statement about all reports of this type with this foc
 <!--
 ![Placeholder](https://dummyimage.com/800x450/eee/aaa)  
 
-*Caption.*
+<p id="caption">Caption.</p>
 -->
 
 ### Requirements
@@ -54,7 +54,7 @@ This is useful specifically for...
 
 ![Project Matrix report](/assets/images/project-matrix-bc-provider.png)  
 
-*Caption.*
+<p id="caption">Caption.</p>
 
 ### Requirements
 
@@ -86,7 +86,7 @@ This is useful specifically for...
 
 ![Project Matrix report](/assets/images/project-matrix-bc-ug.png)  
 
-*Caption.*
+<p id="caption">Caption.</p>
 
 ### Requirements
 
@@ -118,7 +118,7 @@ This is useful specifically for...
 
 ![Project Matrix report](/assets/images/project-matrix-time-bc.png)  
 
-*Caption.*
+<p id="caption">Caption.</p>
 
 ### Requirements
 
@@ -151,7 +151,7 @@ This is useful specifically for...
 
 ![Project Matrix report](/assets/images/project-matrix-time-provider.png)  
 
-*Caption.*
+<p id="caption">Caption.</p>
 
 ### Requirements
 
@@ -185,7 +185,7 @@ This is useful specifically for...
 
 ![Project Matrix report](/assets/images/project-matrix-time-ug.png)  
 
-*Caption.*
+<p id="caption">Caption.</p>
 
 ### Requirements
 

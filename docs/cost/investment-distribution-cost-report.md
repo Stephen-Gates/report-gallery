@@ -19,7 +19,7 @@ The costs for a Investment Distribution are calculated based on:
 
 ![Investment Distribution Cost report](/assets/images/cost-investment-distribution.png)
 
-*Investment Distribution Cost report.*
+<p id="caption">Figure: Investment Distribution Cost report.</p>
 
 ## Requirements
 

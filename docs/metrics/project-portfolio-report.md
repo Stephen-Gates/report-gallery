@@ -18,7 +18,7 @@ At risk projects with large budgets or delivering significant benefits may need 
 
 ![](../assets/images/project-portfolio.png)  
 
-*Project Portfolio report, Project Risk vs. Business Value (Budget (OpEx + Capex)) view.*
+<p id="caption">Project Portfolio report, Project Risk vs. Business Value (Budget (OpEx + Capex)) view.</p>
 
 ## Requirements
 
@@ -35,6 +35,9 @@ The following factsheets and associated properties are required:
 Display this report as a chart or table. 
 
 ![](../assets/images/project-portfolio-table.png)  
+
+<p id="caption">Caption.</p>
+
 
 ## View
 

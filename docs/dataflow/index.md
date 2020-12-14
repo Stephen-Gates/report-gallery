@@ -13,7 +13,7 @@ The Data Flow diagram answers the question:
 
 ![Placeholder](../assets/images/data-flow-diagram.png)
 
-*Data Flow diagram, Business Criticality view*
+<p id="caption">Figure: Data Flow diagram, Business Criticality view</p>
 
 ## Requirements
 

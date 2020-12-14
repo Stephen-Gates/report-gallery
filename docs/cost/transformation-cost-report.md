@@ -18,7 +18,7 @@ The costs for a Transformation are calculated based on:
 
 ![Transformation Cost report](/assets/images/cost-transformation.png)
 
-*Transformation Cost report.*
+<p id="caption">Figure: Transformation Cost report.</p>
 
 ## Requirements
 

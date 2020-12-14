@@ -6,15 +6,17 @@ title: "Business Capability Map"
 
 ## Overview
 
-The Business Capability Map shows a hierarchy of business capabilities. 
-
-It answers the question:
+The **Business Capability** Map answers the question:
 
 > What business capabilities support our business and how are they changing over time? 
 
 ![Business Capability Factsheet Map report](../assets/images/business-capability-map.png)
 
-*Business Capability Map, Lifecycle view.*
+<p id="caption">Figure: Business Capability Map, Lifecycle view.</p>
+
+
+The Business Capability Map shows a hierarchy of business capabilities. 
+
 
 ## Requirements
 

@@ -46,9 +46,9 @@ a.md-logo img {
 }
 
 /* experiment with caption styling. May be better wrapping in a div */
-figcaption {
-  display: block;
-  color: #c0c0c0;
+
+#caption {
+  color: #166BFF;
   font-style: italic;
   font-size:.875em;
   text-align: left !important;

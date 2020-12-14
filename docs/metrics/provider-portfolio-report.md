@@ -15,7 +15,7 @@ The Provider Portfolio report answers the question:
 
 ![](../assets/images/provider-portfolio.png)  
 
-*Provider Portfolio report.*
+<p id="caption">Provider Portfolio report.</p>
 
 ## Requirements
 
@@ -42,6 +42,9 @@ No other requirements
 Display this report as a chart or table. 
 
 ![](../assets/images/provider-portfolio-table.png)  
+
+<p id="caption">Caption.</p>
+
 
 ## View
 

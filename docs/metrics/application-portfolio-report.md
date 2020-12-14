@@ -16,7 +16,7 @@ The Application Portfolio report answers the question:
 
 ![](../assets/images/application-portfolio.png)  
 
-*Application Portfolio report, Functional Fit vs. Technical Fit view.*
+<p id="caption">Application Portfolio report, Functional Fit vs. Technical Fit view.</p>
 
 ## Requirements
 
@@ -32,6 +32,9 @@ The following factsheets and associated properties are required:
 Display this report as a chart or table. 
 
 ![](../assets/images/application-portfolio-table.png)  
+
+<p id="caption">Caption.</p>
+
 
 ## View
 

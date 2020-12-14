@@ -18,7 +18,7 @@ This is useful if generic statement about all reports of this type with this foc
 
 ![IT Component Matrix report](/assets/images/it-component-matrix.png)  
 
-*IT Component Matrix report.*
+<p id="caption">IT Component Matrix report.</p>
 
 ### Requirements
 
@@ -72,7 +72,7 @@ This is useful specifically for...
 
 ![IT Component Matrix report](/assets/images/it-component-matrix-ts-provider.png)  
 
-*Caption.*
+<p id="caption">Caption.</p>
 
 ### Requirements
 
@@ -115,7 +115,7 @@ This is useful specifically for...
 
 ![IT Component Matrix report](/assets/images/it-component-matrix-time-provider.png)  
 
-*Caption.*
+<p id="caption">Caption.</p>
 
 ### Requirements
 
@@ -158,7 +158,7 @@ This is useful specifically for...
 
 ![IT Component Matrix report](/assets/images/it-component-matrix-time-ts.png)  
 
-*Caption.*
+<p id="caption">Caption.</p>
 
 ### Requirements
 

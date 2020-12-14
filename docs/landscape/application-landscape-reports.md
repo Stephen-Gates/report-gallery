@@ -34,7 +34,7 @@ This is useful for...
 
 ![Application Landscape report](../assets/images/application-landscape-bc-criticality.png)
 
-*Caption.*
+<p id="caption">Caption.</p>
 
 ### Requirements
 
@@ -75,7 +75,7 @@ This is useful specifically for...
 
 ![Application Landscape report](../assets/images/application-landscape-process-lifecycle.png)
 
-*Caption.*
+<p id="caption">Caption.</p>
 
 ### Requirements
 
@@ -118,7 +118,7 @@ This is useful specifically for...
 
 ![Application Landscape report](../assets/images/application-landscape-ug-lifecycle.png)
 
-*Caption.*
+<p id="caption">Caption.</p>
 
 ### Requirements
 

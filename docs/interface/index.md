@@ -12,7 +12,7 @@ The **Interface Circle Map** answers the question:
 
 ![Interface Circle Map](../assets/images/interface-circle-map.png)  
 
-*Interface Circle Map, Applications not providing or consuming interfaces are hidden.*
+<p id="caption">Interface Circle Map, Applications not providing or consuming interfaces are hidden.</p>
 
 !!! tip
     You can select an application in the Interface Circle Map and then press the :fontawesome-solid-sitemap:{: .leanix }  button to automatically generate a Data Flow diagram for that application. [Learn more...](https://docs.leanix.net/docs/integration-architecture#use-the-interface-circle-map-to-get-a-high-level-overview)

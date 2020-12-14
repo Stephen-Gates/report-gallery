@@ -7,3 +7,5 @@ title: "Project Roadmap report"
 # Project Roadmap report
 
 ![Project Roadmap report](../assets/images/project-roadmap.png)
+
+<p id="caption">Caption.</p>

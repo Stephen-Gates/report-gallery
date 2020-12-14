@@ -17,7 +17,7 @@ Application Matrix report shows Applications within a matrix of:
 
 ![Application Matrix report](../assets/images/application-matrix-bc-ug.png)  
 
-*Application Matrix report, Business Capability × User Group, Business Criticality view.*
+<p id="caption">Application Matrix report, Business Capability × User Group, Business Criticality view.</p>
 
 There are five Application Matrix reports: 
 
@@ -79,7 +79,7 @@ This is useful specifically for...
 
 ![Application Matrix report](/assets/images/application-matrix-bc-ug.png)  
 
-*Caption.*
+<p id="caption">Caption.</p>
 
 ### Requirements
 
@@ -129,7 +129,7 @@ This is useful specifically for...
 
 ![Application Matrix report](/assets/images/application-matrix-process-bc.png)  
 
-*Caption.*
+<p id="caption">Caption.</p>
 
 ### Requirements
 
@@ -179,7 +179,7 @@ This is useful specifically for...
 
 ![Application Matrix report](/assets/images/application-matrix-process-ug.png)  
 
-*Caption.*
+<p id="caption">Caption.</p>
 
 ### Requirements
 
@@ -229,10 +229,7 @@ This is useful specifically for...
 
 ![Application Matrix report](/assets/images/application-matrix-time-bc.png)  
 
-<!--
-![](https://www.leanix.net/hubfs/2019%20LX%20Website/General/Illu/apmkey-strategic-priorities-8-Col-XL.svg)
--->
-*Caption.*
+<p id="caption">Caption.</p>
 
 ### Requirements
 
@@ -280,7 +277,7 @@ This is useful specifically for...
 
 ![Application Matrix report](/assets/images/application-matrix-time-ug.png)  
 
-*Caption.*
+<p id="caption">Caption.</p>
 
 ### Requirements
 

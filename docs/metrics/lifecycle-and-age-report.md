@@ -13,7 +13,7 @@ The Lifecycle and Age report answers the questions:
 
 ![](../assets/images/lifecycle-age-active-view.png)  
 
-*Lifecycle and Age report, "Active" view.*
+<p id="caption">Lifecycle and Age report, "Active" view.</p>
 
 ## Requirements
 
@@ -39,7 +39,10 @@ No other requirements
 
 Display this report as a chart or table. 
 
-![](../assets/images/lifecycle-age-active-view-table.png)  
+![](../assets/images/lifecycle-age-active-view-table.png) 
+
+<p id="caption">Caption.</p>
+ 
 
 ## View
 
@@ -50,7 +53,7 @@ The views available are:
 
 ![](../assets/images/lifecycle-age-age-structure-view.png)  
 
-*Lifecycle and Age report, "Age Structure" view.*
+<p id="caption">Lifecycle and Age report, "Age Structure" view.</p>
 
 ## Filters
 

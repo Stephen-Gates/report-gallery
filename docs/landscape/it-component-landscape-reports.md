@@ -23,7 +23,7 @@ This report answers the question:
 
 ![IT Component Landscape report](/assets/images/it-component-landscape.png)  
 
-*IT Component Landscape report, resource classification view.*
+<p id="caption">IT Component Landscape report, resource classification view.</p>
 
 ### Requirements
 
@@ -53,7 +53,7 @@ This report answers the question:
 
 ![IT Component Landscape report](/assets/images/it-component-landscape-provider.png)  
 
-*Caption.*
+<p id="caption">Caption.</p>
 
 ### Requirements
 

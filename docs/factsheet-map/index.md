@@ -6,7 +6,7 @@ title: "Factsheet Maps"
 
 ## Overview
 
-The Factsheet Map shows a hierarchy of one factsheet type. It is a custom report available in the [LeanIX Store](https://store.leanix.net/services/torg/v1/assetversions/749ef021-c59a-4fd1-8ae6-65e05dcf9bbd/share).
+The Factsheet Map shows a hierarchy of one factsheet type. It's a custom report available in the [LeanIX Store](https://store.leanix.net/services/torg/v1/assetversions/749ef021-c59a-4fd1-8ae6-65e05dcf9bbd/share).
 
 ![Factsheet Map ](../assets/images/factsheet-map-thumbnail.png)
 
@@ -29,7 +29,7 @@ The Business Capability Factsheet Map answers the question:
 
 ![Business Capability Factsheet Map report](../assets/images/factsheet-map-business-capability.png)
 
-*Factsheet Map for Business Capabilities, Lifecycle view, Wrapped layout, Editing enabled.*
+<p id="caption">Figure: Factsheet Map for Business Capabilities, Lifecycle view, Wrapped layout, Editing enabled.</p>
 
 ### Requirements
 
@@ -81,7 +81,7 @@ The Data Object Factsheet Map answers the question:
 
 ![Business Capability Factsheet Map report](../assets/images/factsheet-map-data-object.png)
 
-*Factsheet Map for Data Objects, Data Classification view, Wrapped layout.*
+<p id="caption">Figure: Factsheet Map for Data Objects, Data Classification view, Wrapped layout.</p>
 
 ### Requirements
 
@@ -132,7 +132,7 @@ The Process Factsheet Map answers the question:
 
 ![Process Factsheet Map report](../assets/images/factsheet-map-process.png)
 
-*Factsheet Map for Processes, Lifecycle view.*
+<p id="caption">Figure: Factsheet Map for Processes, Lifecycle view.</p>
 
 #### Factsheets
 
@@ -185,7 +185,7 @@ The Technical Stack Factsheet Map answers the question:
 
 ![Technical Stack Map report](../assets/images/factsheet-map-technical-stack.png)
 
-*Factsheet Map for Technical Stack, IT Component Resource Classification view, Wrapped layout.*
+<p id="caption">Figure: Factsheet Map for Technical Stack, IT Component Resource Classification view, Wrapped layout.</p>
 
 ### Requirements
 
@@ -238,7 +238,7 @@ The User Group Factsheet Map answers the question:
 
 ![User Group Factsheet Map report](../assets/images/factsheet-map-user-group.png)
 
-*Factsheet Map for User Group, Lifecycle view, Wrapped layout.*
+<p id="caption">Figure: Factsheet Map for User Group, Lifecycle view, Wrapped layout.</p>
 
 ### Requirements
 

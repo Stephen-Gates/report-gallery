@@ -19,7 +19,7 @@ The costs for a Project are calculated based on:
 
 ![Project Cost report](/assets/images/cost-project.png)
 
-*Project Cost report.*
+<p id="caption">Figure: Project Cost report.</p>
 
 ## Requirements
 
@@ -36,7 +36,7 @@ Display this report as a chart or table.
 
 ![Project Cost report](/assets/images/cost-project-table.png)
 
-*Project Cost table.*
+<p id="caption">Project Cost table.</p>
 
 ## Filters
 
