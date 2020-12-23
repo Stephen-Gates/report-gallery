@@ -23,7 +23,7 @@ The **Inventory** answers the questions:
 
 <p id="caption">Figure: Inventory, filtered by factsheet type, missing Responsility property, and lifecycle status.</p>
 
-The Inventory shows a table of information about one or more factsheet types.
+The Inventory shows a table of information about one or more factsheet types. It can also [display information about related factsheets](https://dev.leanix.net/page/changelog#section-2020-11-26).
 
 ## Filters
 

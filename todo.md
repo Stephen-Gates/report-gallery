@@ -6,7 +6,7 @@ While in Alpha I'm maintaining a to do list here rather than using issues.
 
 - [x] Home
 - [ ] Questions: questions.md
-- [x] Inventory 
+- [ ] Inventory - add image
 - [x] Factsheet Map
 - [ ] Business Capability Map: explain settings
 - [ ] Landscape
@@ -55,5 +55,6 @@ While in Alpha I'm maintaining a to do list here rather than using issues.
 ## Other 
 
 - [x] Github setup 
-- [ ] Explain how timeline works. Include on multiple reports
-- [ ] Better caption format 
+- [ ] [Explain how timeline works. Include on multiple reports](https://dev.leanix.net/page/changelog#section-feature)
+- [x] Better caption format 
+- [ ] Show in inventory button https://dev.leanix.net/page/changelog#section-2020-10-12

@@ -50,7 +50,7 @@ No other requirements
 
 ### Settings
 
-Specific settings for this report 
+The [report settings](https://dev.leanix.net/page/changelog#section-2020-12-14) allow both axis and how the size of the circle to be configured. 
 
 ### View
 
