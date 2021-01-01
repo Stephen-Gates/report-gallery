@@ -2,7 +2,7 @@
 title: 
 description: Discover the questions you can answer using LeanIX reports
 #hide:
-  #- toc        # Hide table of contents
+  #- toc
 ---
  
 # LeanIX Report Gallery
@@ -10,6 +10,8 @@ description: Discover the questions you can answer using LeanIX reports
 **[Discover the questions you can answer using LeanIX reports][questions]**
 
 Choose a report below to learn the questions it answers and how to create it using the [LeanIX Enterprise&nbsp;Architecture&nbsp;Suite](https://www.leanix.net/en/solutions/enterprise-architecture-suite).
+
+LeanIX glossary test
 
 ## Types of Reports
 
@@ -65,6 +67,7 @@ The **[Interface Circle Map][interface]** shows a high-level view of interfaces 
 
 Get a refresher on [using LeanIX reports](https://docs.leanix.net/docs/insights-through-reports) from the LeanIX User Documentation.
 
+--8<-- "../includes/glossary.md"
 
 <!-- links -->
 [questions]: questions.md 
