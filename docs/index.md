@@ -11,8 +11,6 @@ description: Discover the questions you can answer using LeanIX reports
 
 Choose a report below to learn the questions it answers and how to create it using the [LeanIX Enterprise&nbsp;Architecture&nbsp;Suite](https://www.leanix.net/en/solutions/enterprise-architecture-suite).
 
-LeanIX glossary test
-
 ## Types of Reports
 
 The **[Inventory][inventory]** shows a table of factsheets and their properties.
