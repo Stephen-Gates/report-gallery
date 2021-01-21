@@ -168,10 +168,10 @@ nav:
     - Transformation Portfolio: metrics/transformation-portfolio-report.md
     - Lifecycle and Age: metrics/lifecycle-and-age-report.md
   #- Difficult questions: difficult-questions.md
-  #- Engaging Stories:
-    #- Your Application Portfolio: story/index.md
-    #- Your Projects: story/projects.md
-    #- Your Plans: story/plans.md
-    #- Your Business Capabilities: story/business-capability.md
+  - Engaging Stories:
+    - Your Application Portfolio: story/index.md
+    - Your Projects: story/projects.md
+    - Your Plans: story/plans.md
+    - Your Business Capabilities: story/business-capability.md
   - About:
     - about/index.md

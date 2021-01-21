@@ -29,7 +29,7 @@ This license allows reusers to distribute, remix, adapt, and build upon the mate
 
 ## Attribution
 
-If you reuse this work, the preferred attribution follows the [Creative Commons - Best practices for attribution](https://wiki.creativecommons.org/wiki/Best_practices_for_attribution) format:
+If you reuse this work, the preferred attribution is to follow the [Creative Commons - Best practices for attribution](https://wiki.creativecommons.org/wiki/Best_practices_for_attribution) format:
 
 >"Page title - LeanIX Report Gallery *(link to page)*" by LeanIX Report Gallery Contributors *(link to this About page)* is licensed under CC BY-SA 4.0 *(link to https://creativecommons.org/licenses/by-sa/4.0/)*
 

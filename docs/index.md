@@ -65,7 +65,9 @@ The **[Interface Circle Map][interface]** shows a high-level view of interfaces 
 
 Get a refresher on [using LeanIX reports](https://docs.leanix.net/docs/insights-through-reports) from the LeanIX User Documentation.
 
---8<-- "../includes/glossary.md"
+<!--
+--8<-- "includes/glossary.md"
+-->
 
 <!-- links -->
 [questions]: questions.md 
